@@ -90,7 +90,7 @@ sdota=(v*np.cos(alpha+C1*derDelta))/(1-kapparef[0]*n)
 xdot = vertcat(sdota+g_1,\
 v*sin(alpha+C1*derDelta)+g_2,\
 v*C2*derDelta-kapparef[0]*sdota+g_3,\
-Fxd/m*cos(C1*derDelta),\
+Fxd/m*cos(C1*derDelta)+g_3,\
 0,\
 0,\
 0)
@@ -126,29 +126,31 @@ X_initial=[0.1,0.1,0.1,1,\
 #U0=[K*np.cos(omega*DT),0.1]
 
 #P_model_cov=diag([1,1,1,1])#3rd diagonal term changed to 1 from 0 because otherwise its inverse twill turn into infinity
+#P_model_cov_intial=diag([1,1,1,1,1,1,1])
+#P_model_cov_pred=P_model_cov_intial
+P_model_cov_est=diag([1,1,1,1,1,1,1])
 P_model_cov=diag([1,1,1,1,1,1,1])
-P_model_cov_true=diag([1,1,1,1,1,1,1])
-#P_model_cov_est=diag([1,1,1,1,1,1,1])
 
-
-W=0.025
+W=0.0025
 W_cov=W*diag([1,1,1,1,1,1,1])
-V=0.025
+V=0.0025
 V_cov=V*diag([1,1,1])
 
-X_est =[0,0,0,0,0,0,0]
-X_values=X_initial
-X_true =X_initial
+
+X_meas=[1,1,1,1,0,0,0]
+#X =X_initial
+X_est=X_initial
 
 
-s_plot=np.append(s_plot,X_true[0])
-n_plot=np.append(n_plot,X_true[1])
-alpha_plot=np.append(alpha_plot,X_true[2])
-velocity_plot=np.append(velocity_plot,X_true[3])
-s_plot_est=np.append(s_plot_est,X_est[0])
-n_plot_est=np.append(n_plot_est,X_est[1])
-alpha_plot_est=np.append(alpha_plot_est,X_est[2])
-velocity_plot_est=np.append(velocity_plot_est,X_est[3])
+s_plot=np.append(s_plot,X_est[0])
+n_plot=np.append(n_plot,X_est[1])
+alpha_plot=np.append(alpha_plot,X_est[2])
+velocity_plot=np.append(velocity_plot,X_est[3])
+
+s_plot_est=np.append(s_plot_est,X_meas[0])
+n_plot_est=np.append(n_plot_est,X_meas[1])
+alpha_plot_est=np.append(alpha_plot_est,X_meas[2])
+velocity_plot_est=np.append(velocity_plot_est,X_meas[3])
     
 
                    
@@ -160,57 +162,55 @@ for i in range(N):
     
     A=xk_jac_val(X_est,[K*np.cos(i*omega),0.1])
     #print(A)
-    k1 = f_rk4(X_true, [K*np.cos(i*omega),0.1])
-    k2 = f_rk4(X_true + DT/2 * k1,[K*np.cos(omega*i),0.1] )
-    k3 = f_rk4(X_true + DT/2 * k2, [K*np.cos(i*omega),0.1])
-    k4 = f_rk4(X_true + DT * k3, [K*np.cos(i*omega),0.1])
-    X_true=X_true+DT/6*(k1 +2*k2 +2*k3 +k4)
-    X_true=X_true+wk
-    #print(X_true)
+    k1 = f_rk4(X_est, [K*np.cos(i*omega),0.1])
+    k2 = f_rk4(X_est + DT/2 * k1,[K*np.cos(omega*i),0.1] )
+    k3 = f_rk4(X_est + DT/2 * k2, [K*np.cos(i*omega),0.1])
+    k4 = f_rk4(X_est + DT * k3, [K*np.cos(i*omega),0.1])
+    X_est=X_est+DT/6*(k1 +2*k2 +2*k3 +k4)+wk
+    X_predict=X_est
     
-    s_plot=np.append(s_plot,X_true[0])
-    n_plot=np.append(n_plot,X_true[1])
-    alpha_plot=np.append(alpha_plot,X_true[2])
-    velocity_plot=np.append(velocity_plot,X_true[3])
-    model_error_plot_true_1=np.append(model_error_plot_true_1,X_true[4])
-    model_error_plot_true_2=np.append(model_error_plot_true_2,X_true[5])
-    model_error_plot_true_3=np.append(model_error_plot_true_3,X_true[6])
     
-
+    #print(X_est)
     
-    P_model_cov_true=A*P_model_cov_true*transpose(A)+W_cov
-    #print(P_model_cov_true)
-    #ok!
-    #innovation steps    
-    #s,n and alpha are the measured states!
+    s_plot=np.append(s_plot,X_predict[0])
+    n_plot=np.append(n_plot,X_predict[1])
+    alpha_plot=np.append(alpha_plot,X_predict[2])
+    velocity_plot=np.append(velocity_plot,X_predict[3])
+    model_error_plot_true_1=np.append(model_error_plot_true_1,X_predict[4])
+    model_error_plot_true_2=np.append(model_error_plot_true_2,X_predict[5])
+    model_error_plot_true_3=np.append(model_error_plot_true_3,X_predict[6])
     
 
+    
+    P_model_cov_predict=A*P_model_cov_est*transpose(A)+W_cov
+        
+    
     C = np.array([[1, 0, 0 ,0 ,0 ,0 ,0], [0, 1, 0 ,0 ,0 ,0 ,0], [0, 0, 1 ,0 ,0 ,0 ,0]])
-    #C=yk_jac_val(X_true,[K*np.cos(i*omega),0.1])
-    #print(Vk.size())  
-    P_model_cov_est=inv(inv(P_model_cov_true)+mtimes(mtimes(transpose(C),inv(V_cov)),C))
-   # print(P_model_cov)
-
     
-    k1_y = f_rk4(X_est, [K*np.cos(i*omega),0.1])
-    k2_y = f_rk4(X_est + DT/2 * k1_y,[K*np.cos(omega*i),0.1] )
-    k3_y = f_rk4(X_est + DT/2 * k2_y, [K*np.cos(i*omega),0.1])
-    k4_y = f_rk4(X_est + DT * k3_y, [K*np.cos(i*omega),0.1])
-    X_est=X_est+DT/6*(k1_y +2*k2_y +2*k3_y +k4_y)
-    #print(X_values)
-
+    P_model_cov_est=inv(inv(P_model_cov_predict)+mtimes(mtimes(transpose(C),inv(V_cov)),C))
+   
+    #print(P_model_cov_est)
+    
+    k1_y = f_rk4(X_meas, [K*np.cos(i*omega),0.1])
+    k2_y = f_rk4(X_meas + DT/2 * k1_y,[K*np.cos(omega*i),0.1] )
+    k3_y = f_rk4(X_meas + DT/2 * k2_y, [K*np.cos(i*omega),0.1])
+    k4_y = f_rk4(X_meas + DT * k3_y, [K*np.cos(i*omega),0.1])
+    X_meas=X_meas+DT/6*(k1_y +2*k2_y +2*k3_y +k4_y)
+    #print(X_meas)
+    
     #check please
-    Y_meas=X_true[0:3,:]+vk
-    Ck_gk=np.dot(C,X_est)
-    #print(Ck_gk)
+    Y_meas=np.dot(C,X_meas)
+    
+    Ck_gk=np.dot(C,X_predict)
     
     #print(vk.shape)
     measurement_residual=Y_meas-Ck_gk
     #print(measurement_residual)
-    
+    print(P_model_cov_est)
     X_est=X_est+mtimes(mtimes(mtimes(P_model_cov_est,transpose(C)),inv(V_cov)),measurement_residual) 
     #print(X_est)
-    
+    #print(X_est)
+    #X_pred=X_est
     
     s_plot_est=np.append(s_plot_est,X_est[0])
     n_plot_est=np.append(n_plot_est,X_est[1])
@@ -218,8 +218,8 @@ for i in range(N):
     velocity_plot_est=np.append(velocity_plot_est,X_est[3])
     model_error_plot_est_1=np.append(model_error_plot_est_1,X_est[4])
     model_error_plot_est_2=np.append(model_error_plot_est_2,X_est[5])
-    model_error_plot_est_3=np.append(model_error_plot_est_3,X_est[6])
-    
+    model_error_plot_est_3=np.append(model_error_plot_est_3,X_est[6]) 
+     
  
 
 
