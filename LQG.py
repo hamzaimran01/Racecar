@@ -168,8 +168,8 @@ xbar=np.array([0,\
     0.5])
 ubar=np.array([0.05962736, 0.09206817])
 xbar_fun=integrator_fun(xbar,ubar)
-#print(xbar_fun)
-#print(xbar)
+print(xbar_fun)
+print(xbar)
 uref=[0.1,0.1]
 delta_u_est=uref-ubar
 #jacobian @ steady state A_ss,B_ss,C,D
@@ -199,7 +199,9 @@ k4_l = f_rk4_l(X0 + DT * k3_l, U0)
 X_out_l = X0 + DT/6*(k1_l +2*k2_l +2*k3_l +k4_l)
 integrator_fun_l = Function('integrator_fun', [X0, U0], [X_out_l])
 
-
+#print(integrator_fun_l(xbar,ubar))
+print(A_ss)
+print(B_ss)
 
 for i in range(N):
 
@@ -240,6 +242,7 @@ for i in range(N):
     #AX+BU integrator
     delta_x_est=integrator_fun_l(delta_x_est,delta_u_est)
     
+    
     Y_meas=X_true[0:3,:]+vk
     Ck_gk=np.dot(C,delta_x_est)
     #print(Y_meas)
@@ -256,9 +259,9 @@ for i in range(N):
    
     sys=control.ss(A_ss,B_ss,C,D,DT)    
     G,S,E=control.lqr(A_ss,B_ss,Q,R)
-    
-    delta_u_est=-np.dot(G,delta_x_est)
-    print(delta_u_est) 
+    #print(G)
+    #delta_u_est=-np.dot(G,delta_x_est)
+    #print(delta_u_est) 
     #delta_u_est=mtimes(G,delta_x_est)
     
     #print(delta_x_est)
