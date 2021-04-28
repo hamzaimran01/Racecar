@@ -1,0 +1,6 @@
+est-tru_mpc_contains the results of s,n,alpha and velocity for the d_estimated values
+model-error-est-true-contains the results of the model error estimate and true
+u_data-contains the controls applied throughtout the mpc
+
+
+d_estimated_values-consists of measured values taken from est-true mpc than are identified,disturbance is put back into the augmented file.

@@ -1,0 +1,9460 @@
+header: 
+  seq: 3
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 0.4
+delta: 0.000162483164621
+dD: 5.0
+ddelta: 0.00262153697864
+---
+header: 
+  seq: 4
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 0.5
+delta: 0.000209615218712
+dD: 5.0
+ddelta: 0.00235660270455
+---
+header: 
+  seq: 5
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 0.6
+delta: 0.000252299375251
+dD: 4.99999999999
+ddelta: 0.00213420782691
+---
+header: 
+  seq: 6
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 0.7
+delta: 0.000286508115453
+dD: 5.0
+ddelta: 0.00171043701015
+---
+header: 
+  seq: 7
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 0.8
+delta: 0.000311908176717
+dD: 5.0
+ddelta: 0.00127000306316
+---
+header: 
+  seq: 8
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 0.884340759872
+delta: 0.000331174678904
+dD: 4.21703799361
+ddelta: 0.000963325109347
+---
+header: 
+  seq: 9
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 0.942400866928
+delta: 0.000345065492794
+dD: 2.90300535281
+ddelta: 0.000694540694532
+---
+header: 
+  seq: 10
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 0.982451338851
+delta: 0.00035611673524
+dD: 2.00252359615
+ddelta: 0.000552562122274
+---
+header: 
+  seq: 11
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000367143651703
+dD: 0.877433057443
+ddelta: 0.000551345823169
+---
+header: 
+  seq: 12
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.00037856603373
+dD: 9.9320551783e-13
+ddelta: 0.000571119101324
+---
+header: 
+  seq: 13
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000387633763495
+dD: -1.28080481141e-14
+ddelta: 0.000453386488289
+---
+header: 
+  seq: 14
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000394295266628
+dD: -2.17613300975e-14
+ddelta: 0.000333075156622
+---
+header: 
+  seq: 15
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000399189963146
+dD: -1.17940314093e-14
+ddelta: 0.000244734825928
+---
+header: 
+  seq: 16
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000402786138431
+dD: -1.29283167341e-14
+ddelta: 0.000179808764215
+---
+header: 
+  seq: 17
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000405428273926
+dD: -2.18729352645e-14
+ddelta: 0.000132106774749
+---
+header: 
+  seq: 18
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000407369469198
+dD: -1.19089457487e-14
+ddelta: 9.70597636298e-05
+---
+header: 
+  seq: 19
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000408795678825
+dD: -2.08526230402e-14
+ddelta: 7.13104813462e-05
+---
+header: 
+  seq: 20
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000409843524955
+dD: -1.86962401839e-14
+ddelta: 5.23923064821e-05
+---
+header: 
+  seq: 21
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.00041061338475
+dD: -8.73197032665e-15
+ddelta: 3.84929897565e-05
+---
+header: 
+  seq: 22
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000411179006089
+dD: -1.76731756319e-14
+ddelta: 2.82810669754e-05
+---
+header: 
+  seq: 23
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000411594572017
+dD: -7.70888976047e-15
+ddelta: 2.07782963874e-05
+---
+header: 
+  seq: 24
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000411899891174
+dD: -1.665268876e-14
+ddelta: 1.52659578506e-05
+---
+header: 
+  seq: 25
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412124211252
+dD: -6.69036887853e-15
+ddelta: 1.12160038829e-05
+---
+header: 
+  seq: 26
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412289020779
+dD: -7.83056805505e-15
+ddelta: 8.24047637502e-06
+---
+header: 
+  seq: 27
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412410107491
+dD: -8.96872207052e-15
+ddelta: 6.05433558181e-06
+---
+header: 
+  seq: 28
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412499070748
+dD: -1.01068694156e-14
+ddelta: 4.44816283743e-06
+---
+header: 
+  seq: 29
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412564432668
+dD: -1.9052543799e-14
+ddelta: 3.26809599644e-06
+---
+header: 
+  seq: 30
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412612454541
+dD: -9.08814551045e-15
+ddelta: 2.40109365412e-06
+---
+header: 
+  seq: 31
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412647736495
+dD: -1.02260158493e-14
+ddelta: 1.76409772965e-06
+---
+header: 
+  seq: 32
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412673658397
+dD: -1.91694421543e-14
+ddelta: 1.29609509784e-06
+---
+header: 
+  seq: 33
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412692703411
+dD: -9.20504696272e-15
+ddelta: 9.52250704773e-07
+---
+header: 
+  seq: 34
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412706695917
+dD: -1.03429093077e-14
+ddelta: 6.99625266115e-07
+---
+header: 
+  seq: 35
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.0004127169763
+dD: -1.14848213966e-14
+ddelta: 5.14019161077e-07
+---
+header: 
+  seq: 36
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412724529381
+dD: -2.04282128939e-14
+ddelta: 3.77654057071e-07
+---
+header: 
+  seq: 37
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.00041273007868
+dD: -1.04638154259e-14
+ddelta: 2.77464966509e-07
+---
+header: 
+  seq: 38
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412734155808
+dD: -1.16016717887e-14
+ddelta: 2.03856364386e-07
+---
+header: 
+  seq: 39
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412737151283
+dD: -2.05450630742e-14
+ddelta: 1.49773749185e-07
+---
+header: 
+  seq: 40
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412739352057
+dD: -1.83862572007e-14
+ddelta: 1.10038696376e-07
+---
+header: 
+  seq: 41
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412740969003
+dD: -8.42188678479e-15
+ddelta: 8.08473256843e-08
+---
+header: 
+  seq: 42
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412742156984
+dD: -1.7365277885e-14
+ddelta: 5.93990306541e-08
+---
+header: 
+  seq: 43
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412743029793
+dD: -1.5206440539e-14
+ddelta: 4.3640455538e-08
+---
+header: 
+  seq: 44
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412743671078
+dD: -1.3047625454e-14
+ddelta: 3.20642559255e-08
+---
+header: 
+  seq: 45
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412744142205
+dD: -1.08888172776e-14
+ddelta: 2.35563477826e-08
+---
+header: 
+  seq: 46
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412744488376
+dD: -9.28491629336e-16
+ddelta: 1.73085425322e-08
+---
+header: 
+  seq: 47
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412744742712
+dD: -9.87187801796e-15
+ddelta: 1.27167987383e-08
+---
+header: 
+  seq: 48
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412744929555
+dD: -7.7130383955e-15
+ddelta: 9.3421848053e-09
+---
+header: 
+  seq: 49
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412745066838
+dD: 2.25136195773e-15
+ddelta: 6.86411396868e-09
+---
+header: 
+  seq: 50
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412745167681
+dD: -6.69205939747e-15
+ddelta: 5.04218308836e-09
+---
+header: 
+  seq: 51
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412745241774
+dD: 3.27233724999e-15
+ddelta: 3.70464121802e-09
+---
+header: 
+  seq: 52
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.00041274529619
+dD: -5.67105991184e-15
+ddelta: 2.72077777686e-09
+---
+header: 
+  seq: 53
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412745336184
+dD: -3.51222304223e-15
+ddelta: 1.99972801569e-09
+---
+header: 
+  seq: 54
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412745365563
+dD: -1.35341613642e-15
+ddelta: 1.46892684006e-09
+---
+header: 
+  seq: 55
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412745387153
+dD: 8.61097918756e-15
+ddelta: 1.07949440626e-09
+---
+header: 
+  seq: 56
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412745403015
+dD: -3.3241445379e-16
+ddelta: 7.93123273051e-10
+---
+header: 
+  seq: 57
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412745414683
+dD: 1.82642511573e-15
+ddelta: 5.8339727082e-10
+---
+header: 
+  seq: 58
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412745423255
+dD: 1.17908232455e-14
+ddelta: 4.28569950805e-10
+---
+header: 
+  seq: 59
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412745429559
+dD: 1.06529926907e-14
+ddelta: 3.15209858081e-10
+---
+header: 
+  seq: 60
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412745434177
+dD: 1.70501609822e-15
+ddelta: 2.3092237379e-10
+---
+header: 
+  seq: 61
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412745437567
+dD: 3.86385315311e-15
+ddelta: 1.69513838985e-10
+---
+header: 
+  seq: 62
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412745440075
+dD: 1.38241759427e-14
+ddelta: 1.25374582092e-10
+---
+header: 
+  seq: 63
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412745441918
+dD: 4.88078666885e-15
+ddelta: 9.21413972171e-11
+---
+header: 
+  seq: 64
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412745443255
+dD: 7.03959545401e-15
+ddelta: 6.68653639052e-11
+---
+header: 
+  seq: 65
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412745444254
+dD: 1.70039666905e-14
+ddelta: 4.99312945474e-11
+---
+header: 
+  seq: 66
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412745444986
+dD: 8.06057704608e-15
+ddelta: 3.66346175693e-11
+---
+header: 
+  seq: 67
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412745445517
+dD: 1.80249460856e-14
+ddelta: 2.65317765299e-11
+---
+header: 
+  seq: 68
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412745445905
+dD: 1.68870846141e-14
+ddelta: 1.94065008151e-11
+---
+header: 
+  seq: 69
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412745446209
+dD: 1.57492560446e-14
+ddelta: 1.52055802161e-11
+---
+header: 
+  seq: 70
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412745446424
+dD: 6.80586637369e-15
+ddelta: 1.07182597525e-11
+---
+header: 
+  seq: 71
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412745446573
+dD: 1.67702637888e-14
+ddelta: 7.46172792663e-12
+---
+header: 
+  seq: 72
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412745446701
+dD: 1.56324352192e-14
+ddelta: 6.38364332911e-12
+---
+header: 
+  seq: 73
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.00041274544676
+dD: 6.68901171999e-15
+ddelta: 2.99202873099e-12
+---
+header: 
+  seq: 74
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412745446819
+dD: 8.84782214628e-15
+ddelta: 2.94328016142e-12
+---
+header: 
+  seq: 75
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412745446865
+dD: 1.88122200114e-14
+ddelta: 2.28023498305e-12
+---
+header: 
+  seq: 76
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.0004127454469
+dD: 1.7674359784e-14
+ddelta: 1.7771242053e-12
+---
+header: 
+  seq: 77
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412745446942
+dD: 1.65365315321e-14
+ddelta: 2.08131539254e-12
+---
+header: 
+  seq: 78
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412745446945
+dD: 7.59313799661e-15
+ddelta: 1.22398722991e-13
+---
+header: 
+  seq: 79
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412745446966
+dD: 9.75195117576e-15
+ddelta: 1.09910806369e-12
+---
+header: 
+  seq: 80
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412745446974
+dD: 1.19107905335e-14
+ddelta: 3.80422459908e-13
+---
+header: 
+  seq: 81
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412745446988
+dD: 2.18751622465e-14
+ddelta: 6.93687096053e-13
+---
+header: 
+  seq: 82
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.00041274544698
+dD: 1.29317692139e-14
+ddelta: -3.80934225568e-13
+---
+header: 
+  seq: 83
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.00041274544699
+dD: 2.28961687466e-14
+ddelta: 4.73368892929e-13
+---
+header: 
+  seq: 84
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412745446976
+dD: 1.39481903806e-14
+ddelta: -6.95326666177e-13
+---
+header: 
+  seq: 85
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412745446981
+dD: 1.61070298972e-14
+ddelta: 2.40892573062e-13
+---
+header: 
+  seq: 86
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412745446973
+dD: 2.60713971367e-14
+ddelta: -4.0535450731e-13
+---
+header: 
+  seq: 87
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412745446985
+dD: -1.61787111721e-14
+ddelta: 6.16482602856e-13
+---
+header: 
+  seq: 88
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412745446973
+dD: -1.40199036045e-14
+ddelta: -6.17643805617e-13
+---
+header: 
+  seq: 89
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412745446991
+dD: -1.18610613086e-14
+ddelta: 8.97411460837e-13
+---
+header: 
+  seq: 90
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412745446986
+dD: -9.70680746958e-15
+ddelta: -2.46374042807e-13
+---
+header: 
+  seq: 91
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412745446998
+dD: -7.54796583541e-15
+ddelta: 6.33932409918e-13
+---
+header: 
+  seq: 92
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+D: 1.0
+delta: 0.000412745446982
+dD: 2.41642848271e-15
+ddelta: -8.33748275845e-13
+---
+header: 
+  seq: 93
+  stamp: 
+    secs: 1611879464
+    nsecs: 956686729
+  frame_id: ''
+D: 1.0
+delta: -0.00162167032568
+dD: -1.38047951936e-11
+ddelta: -0.101720788633
+---
+header: 
+  seq: 94
+  stamp: 
+    secs: 1611879465
+    nsecs:   6655149
+  frame_id: ''
+D: 0.944633152586
+delta: -0.0208132902934
+dD: -2.76834237067
+ddelta: -0.959580998386
+---
+header: 
+  seq: 95
+  stamp: 
+    secs: 1611879465
+    nsecs:  26661563
+  frame_id: ''
+D: 0.844633152586
+delta: -0.0608132902934
+dD: -5.0
+ddelta: -2.0
+---
+header: 
+  seq: 96
+  stamp: 
+    secs: 1611879465
+    nsecs:  46681758
+  frame_id: ''
+D: 0.768395197
+delta: -0.0945445018364
+dD: -3.81191360396
+ddelta: -1.68656771094
+---
+header: 
+  seq: 97
+  stamp: 
+    secs: 1611879465
+    nsecs:  76657549
+  frame_id: ''
+D: 0.754150367952
+delta: -0.134544501836
+dD: -0.712241452422
+ddelta: -1.99999999999
+---
+header: 
+  seq: 98
+  stamp: 
+    secs: 1611879465
+    nsecs:  86654961
+  frame_id: ''
+D: 0.754213448612
+delta: -0.165572933195
+dD: 0.00315403300138
+ddelta: -1.55142156796
+---
+header: 
+  seq: 99
+  stamp: 
+    secs: 1611879465
+    nsecs: 106665917
+  frame_id: ''
+D: 0.768484329723
+delta: -0.152016319075
+dD: 0.713544055584
+ddelta: 0.677830706015
+---
+header: 
+  seq: 100
+  stamp: 
+    secs: 1611879465
+    nsecs: 126659727
+  frame_id: ''
+D: 0.798948336881
+delta: -0.146127239915
+dD: 1.52320035788
+ddelta: 0.294453957987
+---
+header: 
+  seq: 101
+  stamp: 
+    secs: 1611879465
+    nsecs: 146659609
+  frame_id: ''
+D: 0.838917737265
+delta: -0.140038551349
+dD: 1.99847001919
+ddelta: 0.304434428325
+---
+header: 
+  seq: 102
+  stamp: 
+    secs: 1611879465
+    nsecs: 166661227
+  frame_id: ''
+D: 0.882167751453
+delta: -0.13412036435
+dD: 2.16250070941
+ddelta: 0.29590934994
+---
+header: 
+  seq: 103
+  stamp: 
+    secs: 1611879465
+    nsecs: 186665235
+  frame_id: ''
+D: 0.929090735906
+delta: -0.12833752741
+dD: 2.34614922266
+ddelta: 0.289141847002
+---
+header: 
+  seq: 104
+  stamp: 
+    secs: 1611879465
+    nsecs: 206660321
+  frame_id: ''
+D: 0.969550209688
+delta: -0.122540088326
+dD: 2.02297368909
+ddelta: 0.289871954219
+---
+header: 
+  seq: 105
+  stamp: 
+    secs: 1611879465
+    nsecs: 226660268
+  frame_id: ''
+D: 0.999999999988
+delta: -0.117673015256
+dD: 1.522489515
+ddelta: 0.243353653453
+---
+header: 
+  seq: 106
+  stamp: 
+    secs: 1611879465
+    nsecs: 246659473
+  frame_id: ''
+D: 1.0
+delta: -0.112794123561
+dD: 6.09834849286e-10
+ddelta: 0.243944584781
+---
+header: 
+  seq: 107
+  stamp: 
+    secs: 1611879465
+    nsecs: 266655033
+  frame_id: ''
+D: 1.0
+delta: -0.109548947084
+dD: -9.56456426833e-12
+ddelta: 0.162258823835
+---
+header: 
+  seq: 108
+  stamp: 
+    secs: 1611879465
+    nsecs: 286655506
+  frame_id: ''
+D: 0.999999999993
+delta: -0.107373545044
+dD: -3.37564146291e-10
+ddelta: 0.108770102012
+---
+header: 
+  seq: 109
+  stamp: 
+    secs: 1611879465
+    nsecs: 306659516
+  frame_id: ''
+D: 0.99999999998
+delta: -0.105901702616
+dD: -6.7368668774e-10
+ddelta: 0.0735921213733
+---
+header: 
+  seq: 110
+  stamp: 
+    secs: 1611879465
+    nsecs: 326682706
+  frame_id: ''
+D: 0.99999999999
+delta: -0.104875129092
+dD: 5.13433312063e-10
+ddelta: 0.0513286762237
+---
+header: 
+  seq: 111
+  stamp: 
+    secs: 1611879465
+    nsecs: 346669552
+  frame_id: ''
+D: 0.999999999999
+delta: -0.104125313774
+dD: 4.47781347001e-10
+ddelta: 0.0374907659083
+---
+header: 
+  seq: 112
+  stamp: 
+    secs: 1611879465
+    nsecs: 366657984
+  frame_id: ''
+D: 1.0
+delta: -0.103549636274
+dD: 5.67535840125e-11
+ddelta: 0.0287838750101
+---
+header: 
+  seq: 113
+  stamp: 
+    secs: 1611879465
+    nsecs: 386631757
+  frame_id: ''
+D: 1.0
+delta: -0.103089555504
+dD: 2.88704915225e-12
+ddelta: 0.0230040384949
+---
+header: 
+  seq: 114
+  stamp: 
+    secs: 1611879465
+    nsecs: 396659411
+  frame_id: ''
+D: 1.0
+delta: -0.102699144765
+dD: 4.95030180785e-14
+ddelta: 0.0195205369214
+---
+header: 
+  seq: 115
+  stamp: 
+    secs: 1611879465
+    nsecs: 426657227
+  frame_id: ''
+D: 1.0
+delta: -0.102421960083
+dD: 2.20109868475e-13
+ddelta: 0.0138592341068
+---
+header: 
+  seq: 116
+  stamp: 
+    secs: 1611879465
+    nsecs: 446661660
+  frame_id: ''
+D: 1.0
+delta: -0.102165296275
+dD: 3.26130237077e-14
+ddelta: 0.0128331904206
+---
+header: 
+  seq: 117
+  stamp: 
+    secs: 1611879465
+    nsecs: 466667906
+  frame_id: ''
+D: 1.0
+delta: -0.101960498563
+dD: 7.42689753029e-15
+ddelta: 0.010239885584
+---
+header: 
+  seq: 118
+  stamp: 
+    secs: 1611879465
+    nsecs: 486661537
+  frame_id: ''
+D: 1.0
+delta: -0.101685403405
+dD: -4.87727908556e-15
+ddelta: 0.0137547579067
+---
+header: 
+  seq: 119
+  stamp: 
+    secs: 1611879465
+    nsecs: 506658166
+  frame_id: ''
+D: 1.0
+delta: -0.101541163121
+dD: 6.79506088688e-15
+ddelta: 0.0072120142001
+---
+header: 
+  seq: 120
+  stamp: 
+    secs: 1611879465
+    nsecs: 526663074
+  frame_id: ''
+D: 1.0
+delta: -0.101454710532
+dD: 7.39117979203e-15
+ddelta: 0.00432262942706
+---
+header: 
+  seq: 121
+  stamp: 
+    secs: 1611879465
+    nsecs: 546654390
+  frame_id: ''
+D: 1.0
+delta: -0.101414871326
+dD: 7.98585469791e-15
+ddelta: 0.0019919603062
+---
+header: 
+  seq: 122
+  stamp: 
+    secs: 1611879465
+    nsecs: 566656707
+  frame_id: ''
+D: 1.0
+delta: -0.101405260932
+dD: 8.96333682033e-15
+ddelta: 0.000480519714254
+---
+header: 
+  seq: 123
+  stamp: 
+    secs: 1611879465
+    nsecs: 586658402
+  frame_id: ''
+D: 1.0
+delta: -0.101411525025
+dD: 1.35192264594e-14
+ddelta: -0.000313204675239
+---
+header: 
+  seq: 124
+  stamp: 
+    secs: 1611879465
+    nsecs: 606657212
+  frame_id: ''
+D: 1.0
+delta: -0.100848207653
+dD: 9.81698652427e-15
+ddelta: 0.028165868628
+---
+header: 
+  seq: 125
+  stamp: 
+    secs: 1611879465
+    nsecs: 626658810
+  frame_id: ''
+D: 1.0
+delta: -0.10069367863
+dD: 1.53279657654e-14
+ddelta: 0.00772645114808
+---
+header: 
+  seq: 126
+  stamp: 
+    secs: 1611879465
+    nsecs: 646678686
+  frame_id: ''
+D: 1.0
+delta: -0.100042719913
+dD: -1.48935843605e-14
+ddelta: 0.0325479358496
+---
+header: 
+  seq: 127
+  stamp: 
+    secs: 1611879465
+    nsecs: 666660141
+  frame_id: ''
+D: 1.0
+delta: -0.0999520413609
+dD: -2.16555862529e-15
+ddelta: 0.00453392760024
+---
+header: 
+  seq: 128
+  stamp: 
+    secs: 1611879465
+    nsecs: 686658317
+  frame_id: ''
+D: 1.0
+delta: -0.100048083368
+dD: -4.59428553008e-17
+ddelta: -0.00480210037408
+---
+header: 
+  seq: 129
+  stamp: 
+    secs: 1611879465
+    nsecs: 706654509
+  frame_id: ''
+D: 1.0
+delta: -0.100207330442
+dD: 5.64534585768e-15
+ddelta: -0.00796235368101
+---
+header: 
+  seq: 130
+  stamp: 
+    secs: 1611879465
+    nsecs: 726664459
+  frame_id: ''
+D: 1.0
+delta: -0.100481389558
+dD: 7.63904593166e-15
+ddelta: -0.0137029558047
+---
+header: 
+  seq: 131
+  stamp: 
+    secs: 1611879465
+    nsecs: 746663570
+  frame_id: ''
+D: 1.0
+delta: -0.10073776256
+dD: 1.79935947294e-14
+ddelta: -0.0128186500703
+---
+header: 
+  seq: 132
+  stamp: 
+    secs: 1611879465
+    nsecs: 766660502
+  frame_id: ''
+D: 1.0
+delta: -0.100943073198
+dD: 1.86027107926e-14
+ddelta: -0.010265531935
+---
+header: 
+  seq: 133
+  stamp: 
+    secs: 1611879465
+    nsecs: 786670977
+  frame_id: ''
+D: 1.0
+delta: -0.101104587643
+dD: 1.56418735949e-14
+ddelta: -0.00807572225149
+---
+header: 
+  seq: 134
+  stamp: 
+    secs: 1611879465
+    nsecs: 806661316
+  frame_id: ''
+D: 1.0
+delta: -0.101224276051
+dD: 2.08969572277e-14
+ddelta: -0.00598442037338
+---
+header: 
+  seq: 135
+  stamp: 
+    secs: 1611879465
+    nsecs: 826660133
+  frame_id: ''
+D: 1.0
+delta: -0.101220112284
+dD: 1.8063969317e-14
+ddelta: 0.000208188326055
+---
+header: 
+  seq: 136
+  stamp: 
+    secs: 1611879465
+    nsecs: 846671570
+  frame_id: ''
+D: 1.0
+delta: -0.101235601944
+dD: 2.29769284412e-14
+ddelta: -0.000774482997642
+---
+header: 
+  seq: 137
+  stamp: 
+    secs: 1611879465
+    nsecs: 866662394
+  frame_id: ''
+D: 1.0
+delta: -0.10125194025
+dD: 2.35264521897e-14
+ddelta: -0.000816915311701
+---
+header: 
+  seq: 138
+  stamp: 
+    secs: 1611879465
+    nsecs: 886652487
+  frame_id: ''
+D: 1.0
+delta: -0.101280360338
+dD: 2.36910248547e-14
+ddelta: -0.00142100438768
+---
+header: 
+  seq: 139
+  stamp: 
+    secs: 1611879465
+    nsecs: 906659388
+  frame_id: ''
+D: 1.0
+delta: -0.101313172396
+dD: 2.38281285788e-14
+ddelta: -0.00164060291369
+---
+header: 
+  seq: 140
+  stamp: 
+    secs: 1611879465
+    nsecs: 926662658
+  frame_id: ''
+D: 1.0
+delta: -0.101344997006
+dD: 2.41473199351e-14
+ddelta: -0.00159123049912
+---
+header: 
+  seq: 141
+  stamp: 
+    secs: 1611879465
+    nsecs: 946658591
+  frame_id: ''
+D: 1.0
+delta: -0.101372593605
+dD: 2.20642440481e-14
+ddelta: -0.00137982994745
+---
+header: 
+  seq: 142
+  stamp: 
+    secs: 1611879465
+    nsecs: 966660327
+  frame_id: ''
+D: 1.0
+delta: -0.101394390644
+dD: 2.29959707345e-14
+ddelta: -0.00108985194087
+---
+header: 
+  seq: 143
+  stamp: 
+    secs: 1611879465
+    nsecs: 986656458
+  frame_id: ''
+D: 1.0
+delta: -0.101410032941
+dD: 2.42326179263e-14
+ddelta: -0.000782114838735
+---
+header: 
+  seq: 144
+  stamp: 
+    secs: 1611879466
+    nsecs:   6668111
+  frame_id: ''
+D: 1.0
+delta: -0.101419972902
+dD: 2.57368339125e-14
+ddelta: -0.000496998067094
+---
+header: 
+  seq: 145
+  stamp: 
+    secs: 1611879466
+    nsecs:  26663122
+  frame_id: ''
+D: 1.0
+delta: -0.101425124968
+dD: 1.08070760836e-14
+ddelta: -0.000257603260954
+---
+header: 
+  seq: 146
+  stamp: 
+    secs: 1611879466
+    nsecs:  46658517
+  frame_id: ''
+D: 1.0
+delta: -0.101426595356
+dD: 1.26937550535e-14
+ddelta: -7.35194140941e-05
+---
+header: 
+  seq: 147
+  stamp: 
+    secs: 1611879466
+    nsecs:  66669537
+  frame_id: ''
+D: 1.0
+delta: -0.100773716047
+dD: -2.11485274085e-12
+ddelta: 0.0326439654471
+---
+header: 
+  seq: 148
+  stamp: 
+    secs: 1611879466
+    nsecs:  86660317
+  frame_id: ''
+D: 1.0
+delta: -0.100723131598
+dD: 2.06050447955e-12
+ddelta: 0.00252922245754
+---
+header: 
+  seq: 149
+  stamp: 
+    secs: 1611879466
+    nsecs: 106658724
+  frame_id: ''
+D: 1.0
+delta: -0.100802654417
+dD: 3.6024587439e-14
+ddelta: -0.00397614094673
+---
+header: 
+  seq: 150
+  stamp: 
+    secs: 1611879466
+    nsecs: 126656586
+  frame_id: ''
+D: 1.0
+delta: -0.100343413108
+dD: -2.0566632755e-15
+ddelta: 0.0229620654522
+---
+header: 
+  seq: 151
+  stamp: 
+    secs: 1611879466
+    nsecs: 146688844
+  frame_id: ''
+D: 1.0
+delta: -0.100320356382
+dD: -6.29632804635e-15
+ddelta: 0.00115283629495
+---
+header: 
+  seq: 152
+  stamp: 
+    secs: 1611879466
+    nsecs: 166656861
+  frame_id: ''
+D: 1.0
+delta: -0.0998060075736
+dD: 2.4977261425e-15
+ddelta: 0.0257174404035
+---
+header: 
+  seq: 153
+  stamp: 
+    secs: 1611879466
+    nsecs: 186660714
+  frame_id: ''
+D: 1.0
+delta: -0.0998307788215
+dD: -1.83172033558e-15
+ddelta: -0.00123856239538
+---
+header: 
+  seq: 154
+  stamp: 
+    secs: 1611879466
+    nsecs: 206662365
+  frame_id: ''
+D: 1.0
+delta: -0.100103361288
+dD: -1.61651986341e-14
+ddelta: -0.0136291233205
+---
+header: 
+  seq: 155
+  stamp: 
+    secs: 1611879466
+    nsecs: 226654377
+  frame_id: ''
+D: 1.0
+delta: -0.100454482524
+dD: 5.11064535123e-16
+ddelta: -0.0175560617786
+---
+header: 
+  seq: 156
+  stamp: 
+    secs: 1611879466
+    nsecs: 246660407
+  frame_id: ''
+D: 1.0
+delta: -0.100784187099
+dD: 1.25141756446e-14
+ddelta: -0.0164852287943
+---
+header: 
+  seq: 157
+  stamp: 
+    secs: 1611879466
+    nsecs: 266660222
+  frame_id: ''
+D: 1.0
+delta: -0.0945484764502
+dD: -1.29166786181e-12
+ddelta: 0.311785532459
+---
+header: 
+  seq: 158
+  stamp: 
+    secs: 1611879466
+    nsecs: 286655408
+  frame_id: ''
+D: 1.0
+delta: -0.0918750703888
+dD: 1.23046650451e-12
+ddelta: 0.133670303071
+---
+header: 
+  seq: 159
+  stamp: 
+    secs: 1611879466
+    nsecs: 306698526
+  frame_id: ''
+D: 1.0
+delta: -0.0919076414665
+dD: 8.2016002338e-14
+ddelta: -0.00162855388648
+---
+header: 
+  seq: 160
+  stamp: 
+    secs: 1611879466
+    nsecs: 326660733
+  frame_id: ''
+D: 1.0
+delta: -0.0933210698559
+dD: -2.33061313629e-14
+ddelta: -0.0706714194661
+---
+header: 
+  seq: 161
+  stamp: 
+    secs: 1611879466
+    nsecs: 346656267
+  frame_id: ''
+D: 1.0
+delta: -0.095207855929
+dD: -2.90974839426e-14
+ddelta: -0.0943393036576
+---
+header: 
+  seq: 162
+  stamp: 
+    secs: 1611879466
+    nsecs: 366679864
+  frame_id: ''
+D: 1.0
+delta: -0.097083814438
+dD: 4.36842443954e-15
+ddelta: -0.0937979254484
+---
+header: 
+  seq: 163
+  stamp: 
+    secs: 1611879466
+    nsecs: 386662891
+  frame_id: ''
+D: 1.0
+delta: -0.0986552108274
+dD: 4.05892613127e-15
+ddelta: -0.0785698194691
+---
+header: 
+  seq: 164
+  stamp: 
+    secs: 1611879466
+    nsecs: 406659694
+  frame_id: ''
+D: 1.0
+delta: -0.0998267802343
+dD: 5.07272078113e-15
+ddelta: -0.0585784703493
+---
+header: 
+  seq: 165
+  stamp: 
+    secs: 1611879466
+    nsecs: 426666655
+  frame_id: ''
+D: 1.0
+delta: -0.100618681985
+dD: 1.20568996075e-14
+ddelta: -0.0395950875506
+---
+header: 
+  seq: 166
+  stamp: 
+    secs: 1611879466
+    nsecs: 446660902
+  frame_id: ''
+D: 1.0
+delta: -0.101011144202
+dD: 2.07564995444e-14
+ddelta: -0.0196231108135
+---
+header: 
+  seq: 167
+  stamp: 
+    secs: 1611879466
+    nsecs: 466660337
+  frame_id: ''
+D: 1.0
+delta: -0.100636585229
+dD: -1.0052725005e-14
+ddelta: 0.0187279486188
+---
+header: 
+  seq: 168
+  stamp: 
+    secs: 1611879466
+    nsecs: 486665407
+  frame_id: ''
+D: 1.0
+delta: -0.100566690541
+dD: 1.97921868057e-14
+ddelta: 0.00349473442163
+---
+header: 
+  seq: 169
+  stamp: 
+    secs: 1611879466
+    nsecs: 506659325
+  frame_id: ''
+D: 1.0
+delta: -0.100658008597
+dD: 2.49472878937e-14
+ddelta: -0.00456590280919
+---
+header: 
+  seq: 170
+  stamp: 
+    secs: 1611879466
+    nsecs: 526655335
+  frame_id: ''
+D: 1.0
+delta: -0.10082057507
+dD: 2.21046805738e-14
+ddelta: -0.00812832366482
+---
+header: 
+  seq: 171
+  stamp: 
+    secs: 1611879466
+    nsecs: 546663720
+  frame_id: ''
+D: 1.0
+delta: -0.100994172458
+dD: 2.53030439682e-14
+ddelta: -0.00867986937752
+---
+header: 
+  seq: 172
+  stamp: 
+    secs: 1611879466
+    nsecs: 566671941
+  frame_id: ''
+D: 1.0
+delta: -0.101145516864
+dD: 3.89019331021e-15
+ddelta: -0.00756722029697
+---
+header: 
+  seq: 173
+  stamp: 
+    secs: 1611879466
+    nsecs: 586666056
+  frame_id: ''
+D: 1.0
+delta: -0.10126118837
+dD: 5.05408577174e-15
+ddelta: -0.00578357533438
+---
+header: 
+  seq: 174
+  stamp: 
+    secs: 1611879466
+    nsecs: 606661878
+  frame_id: ''
+D: 1.0
+delta: -0.101340290822
+dD: 1.42853545849e-15
+ddelta: -0.00395512256906
+---
+header: 
+  seq: 175
+  stamp: 
+    secs: 1611879466
+    nsecs: 626656332
+  frame_id: ''
+D: 1.0
+delta: -0.101388437862
+dD: 6.18006243789e-15
+ddelta: -0.00240735198786
+---
+header: 
+  seq: 176
+  stamp: 
+    secs: 1611879466
+    nsecs: 646662712
+  frame_id: ''
+D: 1.0
+delta: -0.10141355437
+dD: 8.06691487085e-15
+ddelta: -0.0012558254399
+---
+header: 
+  seq: 177
+  stamp: 
+    secs: 1611879466
+    nsecs: 666656976
+  frame_id: ''
+D: 1.0
+delta: -0.10142336491
+dD: 1.00686388615e-14
+ddelta: -0.000490526978191
+---
+header: 
+  seq: 178
+  stamp: 
+    secs: 1611879466
+    nsecs: 686656399
+  frame_id: ''
+D: 1.0
+delta: -0.101327508177
+dD: 3.35137731552e-15
+ddelta: 0.00479283663303
+---
+header: 
+  seq: 179
+  stamp: 
+    secs: 1611879466
+    nsecs: 706666736
+  frame_id: ''
+D: 1.0
+delta: -0.101303282818
+dD: 9.26614343597e-15
+ddelta: 0.00121126798485
+---
+header: 
+  seq: 180
+  stamp: 
+    secs: 1611879466
+    nsecs: 726657536
+  frame_id: ''
+D: 1.0
+delta: -0.101295797762
+dD: 5.96973196114e-15
+ddelta: 0.000374252778453
+---
+header: 
+  seq: 181
+  stamp: 
+    secs: 1611879466
+    nsecs: 746657087
+  frame_id: ''
+D: 1.0
+delta: -0.101188126907
+dD: -5.35803594803e-16
+ddelta: 0.00538354276201
+---
+header: 
+  seq: 182
+  stamp: 
+    secs: 1611879466
+    nsecs: 766658392
+  frame_id: ''
+D: 1.0
+delta: -0.101177319382
+dD: 8.29702573744e-15
+ddelta: 0.00054037623745
+---
+header: 
+  seq: 183
+  stamp: 
+    secs: 1611879466
+    nsecs: 786658346
+  frame_id: ''
+D: 1.0
+delta: -0.101188491464
+dD: 1.03931616152e-14
+ddelta: -0.000558604076792
+---
+header: 
+  seq: 184
+  stamp: 
+    secs: 1611879466
+    nsecs: 806694125
+  frame_id: ''
+D: 1.0
+delta: -0.101209407877
+dD: 1.09367369689e-14
+ddelta: -0.0010458206711
+---
+header: 
+  seq: 185
+  stamp: 
+    secs: 1611879466
+    nsecs: 826662695
+  frame_id: ''
+D: 1.0
+delta: -0.0947560491376
+dD: -1.08293193639e-12
+ddelta: 0.322667936972
+---
+header: 
+  seq: 186
+  stamp: 
+    secs: 1611879466
+    nsecs: 846653815
+  frame_id: ''
+D: 1.0
+delta: -0.0926552905434
+dD: 6.263530828e-13
+ddelta: 0.10503792971
+---
+header: 
+  seq: 187
+  stamp: 
+    secs: 1611879466
+    nsecs: 866679908
+  frame_id: ''
+D: 1.0
+delta: -0.092848377039
+dD: 4.70508421618e-13
+ddelta: -0.00965432477853
+---
+header: 
+  seq: 188
+  stamp: 
+    secs: 1611879466
+    nsecs: 886659213
+  frame_id: ''
+D: 1.0
+delta: -0.0934890432266
+dD: 3.5574184439e-15
+ddelta: -0.0320333093846
+---
+header: 
+  seq: 189
+  stamp: 
+    secs: 1611879466
+    nsecs: 906653991
+  frame_id: ''
+D: 1.0
+delta: -0.0942783996456
+dD: -2.23883644479e-15
+ddelta: -0.0394678209471
+---
+header: 
+  seq: 190
+  stamp: 
+    secs: 1611879466
+    nsecs: 926665363
+  frame_id: ''
+D: 1.0
+delta: -0.0957538136244
+dD: -4.08741487743e-14
+ddelta: -0.0737706989389
+---
+header: 
+  seq: 191
+  stamp: 
+    secs: 1611879466
+    nsecs: 946660835
+  frame_id: ''
+D: 1.0
+delta: -0.0967612688844
+dD: 2.01920569186e-14
+ddelta: -0.0503727629999
+---
+header: 
+  seq: 192
+  stamp: 
+    secs: 1611879466
+    nsecs: 966659875
+  frame_id: ''
+D: 1.0
+delta: -0.0979028764406
+dD: 3.91495736662e-14
+ddelta: -0.057080377812
+---
+header: 
+  seq: 193
+  stamp: 
+    secs: 1611879466
+    nsecs: 986665807
+  frame_id: ''
+D: 1.0
+delta: -0.0989706292755
+dD: 2.95378902995e-15
+ddelta: -0.0533876417438
+---
+header: 
+  seq: 194
+  stamp: 
+    secs: 1611879467
+    nsecs:   6660267
+  frame_id: ''
+D: 1.0
+delta: -0.0997637363995
+dD: 3.02722395421e-15
+ddelta: -0.0396553562002
+---
+header: 
+  seq: 195
+  stamp: 
+    secs: 1611879467
+    nsecs:  26666471
+  frame_id: ''
+D: 1.0
+delta: -0.100357082111
+dD: 9.99722360786e-15
+ddelta: -0.0296672855764
+---
+header: 
+  seq: 196
+  stamp: 
+    secs: 1611879467
+    nsecs:  46656458
+  frame_id: ''
+D: 1.0
+delta: -0.100780224622
+dD: 1.08123592729e-14
+ddelta: -0.0211571255398
+---
+header: 
+  seq: 197
+  stamp: 
+    secs: 1611879467
+    nsecs:  66659965
+  frame_id: ''
+D: 1.0
+delta: -0.101061347178
+dD: 1.17018223107e-14
+ddelta: -0.0140561277866
+---
+header: 
+  seq: 198
+  stamp: 
+    secs: 1611879467
+    nsecs:  86667807
+  frame_id: ''
+D: 1.0
+delta: -0.100529577378
+dD: 1.32603599294e-14
+ddelta: 0.026588489964
+---
+header: 
+  seq: 199
+  stamp: 
+    secs: 1611879467
+    nsecs: 106661165
+  frame_id: ''
+D: 1.0
+delta: -0.100387833467
+dD: 1.21988028982e-14
+ddelta: 0.00708719553872
+---
+header: 
+  seq: 200
+  stamp: 
+    secs: 1611879467
+    nsecs: 126655666
+  frame_id: ''
+D: 1.0
+delta: -0.100463937126
+dD: 1.7637916026e-14
+ddelta: -0.0038051829214
+---
+header: 
+  seq: 201
+  stamp: 
+    secs: 1611879467
+    nsecs: 146666516
+  frame_id: ''
+D: 1.0
+delta: -0.100070799812
+dD: 1.27534348443e-14
+ddelta: 0.0196568656931
+---
+header: 
+  seq: 202
+  stamp: 
+    secs: 1611879467
+    nsecs: 166655096
+  frame_id: ''
+D: 1.0
+delta: -0.100110243073
+dD: -4.61616025521e-15
+ddelta: -0.00197216306505
+---
+header: 
+  seq: 203
+  stamp: 
+    secs: 1611879467
+    nsecs: 186652025
+  frame_id: ''
+D: 1.0
+delta: -0.094310684891
+dD: -1.52162888157e-13
+ddelta: 0.289977909119
+---
+header: 
+  seq: 204
+  stamp: 
+    secs: 1611879467
+    nsecs: 206666697
+  frame_id: ''
+D: 1.0
+delta: -0.0928373687091
+dD: -1.15703914112e-14
+ddelta: 0.0736658090926
+---
+header: 
+  seq: 205
+  stamp: 
+    secs: 1611879467
+    nsecs: 226659511
+  frame_id: ''
+D: 1.0
+delta: -0.0934844473437
+dD: 1.33632036245e-13
+ddelta: -0.0323539317277
+---
+header: 
+  seq: 206
+  stamp: 
+    secs: 1611879467
+    nsecs: 246655774
+  frame_id: ''
+D: 1.0
+delta: -0.0950611517601
+dD: 4.99026986678e-14
+ddelta: -0.0788352208228
+---
+header: 
+  seq: 207
+  stamp: 
+    secs: 1611879467
+    nsecs: 266663403
+  frame_id: ''
+D: 1.0
+delta: -0.0968629539905
+dD: 6.79869713315e-15
+ddelta: -0.0900901115199
+---
+header: 
+  seq: 208
+  stamp: 
+    secs: 1611879467
+    nsecs: 286656673
+  frame_id: ''
+D: 1.0
+delta: -0.097778965205
+dD: 7.12302464575e-15
+ddelta: -0.0458005607224
+---
+header: 
+  seq: 209
+  stamp: 
+    secs: 1611879467
+    nsecs: 306658098
+  frame_id: ''
+D: 0.999999999999
+delta: -0.086985819216
+dD: -3.32825121754e-11
+ddelta: 0.53965729945
+---
+header: 
+  seq: 210
+  stamp: 
+    secs: 1611879467
+    nsecs: 326684233
+  frame_id: ''
+D: 1.0
+delta: -0.0841377073567
+dD: 3.21285084634e-11
+ddelta: 0.142405592963
+---
+header: 
+  seq: 211
+  stamp: 
+    secs: 1611879467
+    nsecs: 346671560
+  frame_id: ''
+D: 1.0
+delta: -0.0853161426082
+dD: 1.11874363253e-12
+ddelta: -0.0589217625745
+---
+header: 
+  seq: 212
+  stamp: 
+    secs: 1611879467
+    nsecs: 366660707
+  frame_id: ''
+D: 1.0
+delta: -0.0883079916836
+dD: 2.47419232601e-14
+ddelta: -0.14959245377
+---
+header: 
+  seq: 213
+  stamp: 
+    secs: 1611879467
+    nsecs: 386658636
+  frame_id: ''
+D: 1.0
+delta: -0.0905423658546
+dD: 5.54314479456e-15
+ddelta: -0.11171870855
+---
+header: 
+  seq: 214
+  stamp: 
+    secs: 1611879467
+    nsecs: 406667131
+  frame_id: ''
+D: 1.0
+delta: -0.0932777109986
+dD: -3.37649176961e-15
+ddelta: -0.136767257202
+---
+header: 
+  seq: 215
+  stamp: 
+    secs: 1611879467
+    nsecs: 426659867
+  frame_id: ''
+D: 1.0
+delta: -0.0958505893189
+dD: -9.14253415774e-16
+ddelta: -0.128643916014
+---
+header: 
+  seq: 216
+  stamp: 
+    secs: 1611879467
+    nsecs: 446659322
+  frame_id: ''
+D: 1.0
+delta: -0.0979582241262
+dD: 1.32371827455e-14
+ddelta: -0.105381740364
+---
+header: 
+  seq: 217
+  stamp: 
+    secs: 1611879467
+    nsecs: 466666860
+  frame_id: ''
+D: 1.0
+delta: -0.0995036983609
+dD: 2.39528317868e-14
+ddelta: -0.0772737117333
+---
+header: 
+  seq: 218
+  stamp: 
+    secs: 1611879467
+    nsecs: 486661619
+  frame_id: ''
+D: 1.0
+delta: -0.0999560482415
+dD: 2.16015240574e-14
+ddelta: -0.0226174940325
+---
+header: 
+  seq: 219
+  stamp: 
+    secs: 1611879467
+    nsecs: 506660384
+  frame_id: ''
+D: 1.0
+delta: -0.100404522783
+dD: 3.85367428937e-14
+ddelta: -0.0224237270862
+---
+header: 
+  seq: 220
+  stamp: 
+    secs: 1611879467
+    nsecs: 526663078
+  frame_id: ''
+D: 1.0
+delta: -0.100685300867
+dD: 2.25129429899e-14
+ddelta: -0.0140389041918
+---
+header: 
+  seq: 221
+  stamp: 
+    secs: 1611879467
+    nsecs: 546660095
+  frame_id: ''
+D: 1.0
+delta: -0.100898294457
+dD: 2.23540674089e-14
+ddelta: -0.0106496794872
+---
+header: 
+  seq: 222
+  stamp: 
+    secs: 1611879467
+    nsecs: 566669421
+  frame_id: ''
+D: 1.0
+delta: -0.101072139349
+dD: 2.2545877636e-14
+ddelta: -0.00869224462576
+---
+header: 
+  seq: 223
+  stamp: 
+    secs: 1611879467
+    nsecs: 586662133
+  frame_id: ''
+D: 1.0
+delta: -0.101202217191
+dD: 2.04020707969e-14
+ddelta: -0.00650389210782
+---
+header: 
+  seq: 224
+  stamp: 
+    secs: 1611879467
+    nsecs: 606660995
+  frame_id: ''
+D: 1.0
+delta: -0.101292483479
+dD: 2.13071536848e-14
+ddelta: -0.00451331438471
+---
+header: 
+  seq: 225
+  stamp: 
+    secs: 1611879467
+    nsecs: 626676514
+  frame_id: ''
+D: 1.0
+delta: -0.100724005321
+dD: 1.37415024234e-14
+ddelta: 0.0284239079301
+---
+header: 
+  seq: 226
+  stamp: 
+    secs: 1611879467
+    nsecs: 646661613
+  frame_id: ''
+D: 1.0
+delta: -0.100580040789
+dD: 1.58859634896e-14
+ddelta: 0.00719822656996
+---
+header: 
+  seq: 227
+  stamp: 
+    secs: 1611879467
+    nsecs: 666660108
+  frame_id: ''
+D: 1.0
+delta: -0.100640309956
+dD: 2.2552209783e-14
+ddelta: -0.00301345833243
+---
+header: 
+  seq: 228
+  stamp: 
+    secs: 1611879467
+    nsecs: 686666905
+  frame_id: ''
+D: 1.0
+delta: -0.100796252324
+dD: 2.222807323e-14
+ddelta: -0.00779711841524
+---
+header: 
+  seq: 229
+  stamp: 
+    secs: 1611879467
+    nsecs: 706656558
+  frame_id: ''
+D: 1.0
+delta: -0.0996892152028
+dD: 2.01467509593e-14
+ddelta: 0.0553518560683
+---
+header: 
+  seq: 230
+  stamp: 
+    secs: 1611879467
+    nsecs: 726655122
+  frame_id: ''
+D: 1.0
+delta: -0.0882823180556
+dD: -4.84330965063e-13
+ddelta: 0.57034485736
+---
+header: 
+  seq: 231
+  stamp: 
+    secs: 1611879467
+    nsecs: 746659746
+  frame_id: ''
+D: 0.999999993387
+delta: -0.0808320602057
+dD: -3.30622192882e-07
+ddelta: 0.372512892496
+---
+header: 
+  seq: 232
+  stamp: 
+    secs: 1611879467
+    nsecs: 766658290
+  frame_id: ''
+D: 1.0
+delta: -0.0810461076292
+dD: 3.30622464241e-07
+ddelta: -0.0107023711745
+---
+header: 
+  seq: 233
+  stamp: 
+    secs: 1611879467
+    nsecs: 786659143
+  frame_id: ''
+D: 0.999999999999
+delta: -0.0843447466307
+dD: -3.52141147633e-11
+ddelta: -0.164931950079
+---
+header: 
+  seq: 234
+  stamp: 
+    secs: 1611879467
+    nsecs: 806657979
+  frame_id: ''
+D: 0.999999997018
+delta: -0.0826418107963
+dD: -1.49065064585e-07
+ddelta: 0.0851467917213
+---
+header: 
+  seq: 235
+  stamp: 
+    secs: 1611879467
+    nsecs: 826656658
+  frame_id: ''
+D: 0.999999999529
+delta: -0.0785315112933
+dD: 1.25562665081e-07
+ddelta: 0.205514975149
+---
+header: 
+  seq: 236
+  stamp: 
+    secs: 1611879467
+    nsecs: 846660267
+  frame_id: ''
+D: 0.997723569239
+delta: -0.0749986474513
+dD: -0.113821514483
+ddelta: 0.176643192102
+---
+header: 
+  seq: 237
+  stamp: 
+    secs: 1611879467
+    nsecs: 866656062
+  frame_id: ''
+D: 0.993860115326
+delta: -0.0779722060333
+dD: -0.193172695677
+ddelta: -0.148677929101
+---
+header: 
+  seq: 238
+  stamp: 
+    secs: 1611879467
+    nsecs: 886654954
+  frame_id: ''
+D: 0.893860115326
+delta: -0.0379722060333
+dD: -5.0
+ddelta: 2.0
+---
+header: 
+  seq: 239
+  stamp: 
+    secs: 1611879467
+    nsecs: 906662669
+  frame_id: ''
+D: 0.880483204717
+delta: 0.00695765499224
+dD: -1.24453155305
+ddelta: 1.94597797819
+---
+header: 
+  seq: 240
+  stamp: 
+    secs: 1611879467
+    nsecs: 936654859
+  frame_id: ''
+D: 0.980483204717
+delta: 0.0469576549922
+dD: 5.0
+ddelta: 2.0
+---
+header: 
+  seq: 241
+  stamp: 
+    secs: 1611879467
+    nsecs: 956661322
+  frame_id: ''
+D: 1.0
+delta: 0.00695765499222
+dD: 0.975839764142
+ddelta: -2.0
+---
+header: 
+  seq: 242
+  stamp: 
+    secs: 1611879467
+    nsecs: 966661706
+  frame_id: ''
+D: 0.9
+delta: 0.0265578205438
+dD: -5.0
+ddelta: 0.98000827758
+---
+header: 
+  seq: 243
+  stamp: 
+    secs: 1611879467
+    nsecs: 986658466
+  frame_id: ''
+D: 0.90300862899
+delta: 0.0106455559398
+dD: 0.150431449508
+ddelta: -0.7956132302
+---
+header: 
+  seq: 244
+  stamp: 
+    secs: 1611879468
+    nsecs:   6656263
+  frame_id: ''
+D: 0.900610819742
+delta: -0.00799339732573
+dD: -0.119890462412
+ddelta: -0.931947663277
+---
+header: 
+  seq: 245
+  stamp: 
+    secs: 1611879468
+    nsecs:  26658440
+  frame_id: ''
+D: 0.902036614048
+delta: -0.0198227063708
+dD: 0.0712897153176
+ddelta: -0.591465452253
+---
+header: 
+  seq: 246
+  stamp: 
+    secs: 1611879468
+    nsecs:  46656353
+  frame_id: ''
+D: 0.900410192995
+delta: -0.028362778882
+dD: -0.0813210526444
+ddelta: -0.427003625561
+---
+header: 
+  seq: 247
+  stamp: 
+    secs: 1611879468
+    nsecs:  56654500
+  frame_id: ''
+D: 0.896268072501
+delta: -0.0346424330852
+dD: -0.207106024718
+ddelta: -0.31398271016
+---
+header: 
+  seq: 248
+  stamp: 
+    secs: 1611879468
+    nsecs:  86656435
+  frame_id: ''
+D: 0.889783736332
+delta: -0.0396879596461
+dD: -0.324216808428
+ddelta: -0.252276328045
+---
+header: 
+  seq: 249
+  stamp: 
+    secs: 1611879468
+    nsecs: 106655705
+  frame_id: ''
+D: 0.881859209438
+delta: -0.0439520057153
+dD: -0.396226344718
+ddelta: -0.213202303461
+---
+header: 
+  seq: 250
+  stamp: 
+    secs: 1611879468
+    nsecs: 126667478
+  frame_id: ''
+D: 0.875776849118
+delta: -0.0472458213266
+dD: -0.304118015998
+ddelta: -0.164690780565
+---
+header: 
+  seq: 251
+  stamp: 
+    secs: 1611879468
+    nsecs: 146660026
+  frame_id: ''
+D: 0.866982790522
+delta: -0.0496135859502
+dD: -0.439702929812
+ddelta: -0.118388231178
+---
+header: 
+  seq: 252
+  stamp: 
+    secs: 1611879468
+    nsecs: 166654355
+  frame_id: ''
+D: 0.856459000479
+delta: -0.0515109106748
+dD: -0.526189502162
+ddelta: -0.0948662362285
+---
+header: 
+  seq: 253
+  stamp: 
+    secs: 1611879468
+    nsecs: 186670372
+  frame_id: ''
+D: 0.847612610638
+delta: -0.0531702689847
+dD: -0.44231949205
+ddelta: -0.0829679154981
+---
+header: 
+  seq: 254
+  stamp: 
+    secs: 1611879468
+    nsecs: 206661659
+  frame_id: ''
+D: 0.842022578522
+delta: -0.0545979126683
+dD: -0.279501605763
+ddelta: -0.0713821841784
+---
+header: 
+  seq: 255
+  stamp: 
+    secs: 1611879468
+    nsecs: 226681181
+  frame_id: ''
+D: 0.833127684479
+delta: -0.0556040499668
+dD: -0.444744702162
+ddelta: -0.050306864923
+---
+header: 
+  seq: 256
+  stamp: 
+    secs: 1611879468
+    nsecs: 246664985
+  frame_id: ''
+D: 0.823085887251
+delta: -0.0567045581672
+dD: -0.502089861421
+ddelta: -0.0550254100224
+---
+header: 
+  seq: 257
+  stamp: 
+    secs: 1611879468
+    nsecs: 266660484
+  frame_id: ''
+D: 0.813500190738
+delta: -0.0578921132676
+dD: -0.479284825626
+ddelta: -0.059377755017
+---
+header: 
+  seq: 258
+  stamp: 
+    secs: 1611879468
+    nsecs: 286659231
+  frame_id: ''
+D: 0.805249836328
+delta: -0.0591401712215
+dD: -0.412517720502
+ddelta: -0.062402897695
+---
+header: 
+  seq: 259
+  stamp: 
+    secs: 1611879468
+    nsecs: 306662820
+  frame_id: ''
+D: 0.798640285607
+delta: -0.0604414091603
+dD: -0.330477536077
+ddelta: -0.0650618969415
+---
+header: 
+  seq: 260
+  stamp: 
+    secs: 1611879468
+    nsecs: 326656945
+  frame_id: ''
+D: 0.790203767822
+delta: -0.0616810628927
+dD: -0.421825889214
+ddelta: -0.061982686619
+---
+header: 
+  seq: 261
+  stamp: 
+    secs: 1611879468
+    nsecs: 346660258
+  frame_id: ''
+D: 0.782153941411
+delta: -0.0711753647289
+dD: -0.402491320544
+ddelta: -0.474715091812
+---
+header: 
+  seq: 262
+  stamp: 
+    secs: 1611879468
+    nsecs: 366661838
+  frame_id: ''
+D: 0.77164260657
+delta: -0.0815130826461
+dD: -0.525566742051
+ddelta: -0.516885895859
+---
+header: 
+  seq: 263
+  stamp: 
+    secs: 1611879468
+    nsecs: 386665791
+  frame_id: ''
+D: 0.761894320162
+delta: -0.0927368568339
+dD: -0.487414320441
+ddelta: -0.561188709392
+---
+header: 
+  seq: 264
+  stamp: 
+    secs: 1611879468
+    nsecs: 406653915
+  frame_id: ''
+D: 0.754892504829
+delta: -0.0975391291304
+dD: -0.35009076663
+ddelta: -0.240113614824
+---
+header: 
+  seq: 265
+  stamp: 
+    secs: 1611879468
+    nsecs: 426659842
+  frame_id: ''
+D: 0.743032180547
+delta: -0.0990471462099
+dD: -0.5930162141
+ddelta: -0.0754008539749
+---
+header: 
+  seq: 266
+  stamp: 
+    secs: 1611879468
+    nsecs: 446659045
+  frame_id: ''
+D: 0.73229629618
+delta: -0.100000443454
+dD: -0.536794218368
+ddelta: -0.0476648621936
+---
+header: 
+  seq: 267
+  stamp: 
+    secs: 1611879468
+    nsecs: 466657080
+  frame_id: ''
+D: 0.723791373797
+delta: -0.100975526555
+dD: -0.425246119122
+ddelta: -0.048754155038
+---
+header: 
+  seq: 268
+  stamp: 
+    secs: 1611879468
+    nsecs: 486670020
+  frame_id: ''
+D: 0.717863405235
+delta: -0.101339303994
+dD: -0.296398428089
+ddelta: -0.0181888719544
+---
+header: 
+  seq: 269
+  stamp: 
+    secs: 1611879468
+    nsecs: 506661371
+  frame_id: ''
+D: 0.711161284319
+delta: -0.101401506486
+dD: -0.335106045831
+ddelta: -0.00311012461589
+---
+header: 
+  seq: 270
+  stamp: 
+    secs: 1611879468
+    nsecs: 526661965
+  frame_id: ''
+D: 0.698713481684
+delta: -0.10021363947
+dD: -0.622390131718
+ddelta: 0.0593933507732
+---
+header: 
+  seq: 271
+  stamp: 
+    secs: 1611879468
+    nsecs: 546659010
+  frame_id: ''
+D: 0.688252695125
+delta: -0.0992178903483
+dD: -0.523039327959
+ddelta: 0.0497874561102
+---
+header: 
+  seq: 272
+  stamp: 
+    secs: 1611879468
+    nsecs: 566664879
+  frame_id: ''
+D: 0.681212517444
+delta: -0.0972592366202
+dD: -0.352008884039
+ddelta: 0.0979326864061
+---
+header: 
+  seq: 273
+  stamp: 
+    secs: 1611879468
+    nsecs: 586660312
+  frame_id: ''
+D: 0.675265405143
+delta: -0.0937599429825
+dD: -0.297355615064
+ddelta: 0.174964681882
+---
+header: 
+  seq: 274
+  stamp: 
+    secs: 1611879468
+    nsecs: 606656988
+  frame_id: ''
+D: 0.662843604978
+delta: -0.0889349984054
+dD: -0.621090008284
+ddelta: 0.241247228858
+---
+header: 
+  seq: 275
+  stamp: 
+    secs: 1611879468
+    nsecs: 626661409
+  frame_id: ''
+D: 0.653192787711
+delta: -0.0845611013207
+dD: -0.482540863307
+ddelta: 0.218694854232
+---
+header: 
+  seq: 276
+  stamp: 
+    secs: 1611879468
+    nsecs: 646655762
+  frame_id: ''
+D: 0.646385206545
+delta: -0.0803588319887
+dD: -0.340379058318
+ddelta: 0.210113466599
+---
+header: 
+  seq: 277
+  stamp: 
+    secs: 1611879468
+    nsecs: 666662505
+  frame_id: ''
+D: 0.640902627811
+delta: -0.0760265329948
+dD: -0.274128936705
+ddelta: 0.216614949698
+---
+header: 
+  seq: 278
+  stamp: 
+    secs: 1611879468
+    nsecs: 686662239
+  frame_id: ''
+D: 0.633455571227
+delta: -0.0618975422585
+dD: -0.37235282921
+ddelta: 0.706449536814
+---
+header: 
+  seq: 279
+  stamp: 
+    secs: 1611879468
+    nsecs: 706660366
+  frame_id: ''
+D: 0.622406137136
+delta: -0.0505516459219
+dD: -0.552471704542
+ddelta: 0.567294816827
+---
+header: 
+  seq: 280
+  stamp: 
+    secs: 1611879468
+    nsecs: 726666811
+  frame_id: ''
+D: 0.613891768718
+delta: -0.04074071317
+dD: -0.42571842091
+ddelta: 0.490546637598
+---
+header: 
+  seq: 281
+  stamp: 
+    secs: 1611879468
+    nsecs: 746660504
+  frame_id: ''
+D: 0.60965144522
+delta: -0.0154559850601
+dD: -0.2120161749
+ddelta: 1.26423640549
+---
+header: 
+  seq: 282
+  stamp: 
+    secs: 1611879468
+    nsecs: 766654419
+  frame_id: ''
+D: 0.606456221396
+delta: 0.0150468632208
+dD: -0.159761191181
+ddelta: 1.52514241404
+---
+header: 
+  seq: 283
+  stamp: 
+    secs: 1611879468
+    nsecs: 786666276
+  frame_id: ''
+D: 0.601993605053
+delta: 0.0296784008419
+dD: -0.223130817173
+ddelta: 0.731576881057
+---
+header: 
+  seq: 284
+  stamp: 
+    secs: 1611879468
+    nsecs: 806656578
+  frame_id: ''
+D: 0.596131200496
+delta: 0.0568417853888
+dD: -0.293120227818
+ddelta: 1.35816922735
+---
+header: 
+  seq: 285
+  stamp: 
+    secs: 1611879468
+    nsecs: 826656107
+  frame_id: ''
+D: 0.590591301434
+delta: 0.0865914830196
+dD: -0.276994953123
+ddelta: 1.48748488154
+---
+header: 
+  seq: 286
+  stamp: 
+    secs: 1611879468
+    nsecs: 846659981
+  frame_id: ''
+D: 0.587986551385
+delta: 0.098862143401
+dD: -0.130237502463
+ddelta: 0.613533019068
+---
+header: 
+  seq: 287
+  stamp: 
+    secs: 1611879468
+    nsecs: 866658566
+  frame_id: ''
+D: 0.587746505966
+delta: 0.105120128515
+dD: -0.0120022709041
+ddelta: 0.31289925571
+---
+header: 
+  seq: 288
+  stamp: 
+    secs: 1611879468
+    nsecs: 886658768
+  frame_id: ''
+D: 0.585229723924
+delta: 0.110567219863
+dD: -0.125839102129
+ddelta: 0.27235456738
+---
+header: 
+  seq: 289
+  stamp: 
+    secs: 1611879468
+    nsecs: 906659561
+  frame_id: ''
+D: 0.582662485195
+delta: 0.135064893536
+dD: -0.128361936455
+ddelta: 1.22488368364
+---
+header: 
+  seq: 290
+  stamp: 
+    secs: 1611879468
+    nsecs: 926657480
+  frame_id: ''
+D: 0.580678730207
+delta: 0.169804129052
+dD: -0.0991877493765
+ddelta: 1.73696177585
+---
+header: 
+  seq: 291
+  stamp: 
+    secs: 1611879468
+    nsecs: 946667008
+  frame_id: ''
+D: 0.580423080344
+delta: 0.196855779818
+dD: -0.0127824931697
+ddelta: 1.35258253828
+---
+header: 
+  seq: 292
+  stamp: 
+    secs: 1611879468
+    nsecs: 966662247
+  frame_id: ''
+D: 0.577101129951
+delta: 0.207846389562
+dD: -0.166097519658
+ddelta: 0.549530487222
+---
+header: 
+  seq: 293
+  stamp: 
+    secs: 1611879468
+    nsecs: 986659410
+  frame_id: ''
+D: 0.574769172954
+delta: 0.212094973839
+dD: -0.116597849833
+ddelta: 0.212429213808
+---
+header: 
+  seq: 294
+  stamp: 
+    secs: 1611879469
+    nsecs:   6669970
+  frame_id: ''
+D: 0.572332356819
+delta: 0.213668848731
+dD: -0.121840806738
+ddelta: 0.0786937446262
+---
+header: 
+  seq: 295
+  stamp: 
+    secs: 1611879469
+    nsecs:  26657534
+  frame_id: ''
+D: 0.573311951509
+delta: 0.214923588523
+dD: 0.0489797345022
+ddelta: 0.0627369896195
+---
+header: 
+  seq: 296
+  stamp: 
+    secs: 1611879469
+    nsecs:  46660614
+  frame_id: ''
+D: 0.576904317323
+delta: 0.216222150768
+dD: 0.179618290709
+ddelta: 0.0649281122178
+---
+header: 
+  seq: 297
+  stamp: 
+    secs: 1611879469
+    nsecs:  66660561
+  frame_id: ''
+D: 0.574714397344
+delta: 0.215435861384
+dD: -0.109495998998
+ddelta: -0.0393144691692
+---
+header: 
+  seq: 298
+  stamp: 
+    secs: 1611879469
+    nsecs:  86659057
+  frame_id: ''
+D: 0.572555590226
+delta: 0.193563117747
+dD: -0.107940355865
+ddelta: -1.09363718186
+---
+header: 
+  seq: 299
+  stamp: 
+    secs: 1611879469
+    nsecs: 106659991
+  frame_id: ''
+D: 0.571525725654
+delta: 0.177174275108
+dD: -0.0514932286216
+ddelta: -0.819442131965
+---
+header: 
+  seq: 300
+  stamp: 
+    secs: 1611879469
+    nsecs: 126662833
+  frame_id: ''
+D: 0.572532669098
+delta: 0.149299222726
+dD: 0.0503471722138
+ddelta: -1.39375261909
+---
+header: 
+  seq: 301
+  stamp: 
+    secs: 1611879469
+    nsecs: 146656662
+  frame_id: ''
+D: 0.5790195854
+delta: 0.117650031936
+dD: 0.324345815104
+ddelta: -1.5824595395
+---
+header: 
+  seq: 302
+  stamp: 
+    secs: 1611879469
+    nsecs: 166667313
+  frame_id: ''
+D: 0.579707556817
+delta: 0.0826171128896
+dD: 0.0343985708253
+ddelta: -1.75164595232
+---
+header: 
+  seq: 303
+  stamp: 
+    secs: 1611879469
+    nsecs: 186656157
+  frame_id: ''
+D: 0.574705473973
+delta: 0.0426171128896
+dD: -0.250104142162
+ddelta: -2.0
+---
+header: 
+  seq: 304
+  stamp: 
+    secs: 1611879469
+    nsecs: 206660328
+  frame_id: ''
+D: 0.569499234412
+delta: 0.00261711289001
+dD: -0.260311978057
+ddelta: -1.99999999998
+---
+header: 
+  seq: 305
+  stamp: 
+    secs: 1611879469
+    nsecs: 226666085
+  frame_id: ''
+D: 0.567868678859
+delta: -0.03738288711
+dD: -0.0815277776647
+ddelta: -2.0
+---
+header: 
+  seq: 306
+  stamp: 
+    secs: 1611879469
+    nsecs: 246659223
+  frame_id: ''
+D: 0.568312895875
+delta: -0.0773828871096
+dD: 0.0222108508136
+ddelta: -1.99999999998
+---
+header: 
+  seq: 307
+  stamp: 
+    secs: 1611879469
+    nsecs: 266655636
+  frame_id: ''
+D: 0.560437398264
+delta: -0.11738288711
+dD: -0.393774880567
+ddelta: -2.0
+---
+header: 
+  seq: 308
+  stamp: 
+    secs: 1611879469
+    nsecs: 286665254
+  frame_id: ''
+D: 0.549102190135
+delta: -0.15738288711
+dD: -0.566760406449
+ddelta: -2.0
+---
+header: 
+  seq: 309
+  stamp: 
+    secs: 1611879469
+    nsecs: 306659589
+  frame_id: ''
+D: 0.539589089268
+delta: -0.19738288634
+dD: -0.475655043324
+ddelta: -1.99999996137
+---
+header: 
+  seq: 310
+  stamp: 
+    secs: 1611879469
+    nsecs: 326657972
+  frame_id: ''
+D: 0.53091460656
+delta: -0.23738288634
+dD: -0.433724135415
+ddelta: -2.0
+---
+header: 
+  seq: 311
+  stamp: 
+    secs: 1611879469
+    nsecs: 346661477
+  frame_id: ''
+D: 0.506114038848
+delta: -0.277382886013
+dD: -1.24002838566
+ddelta: -1.99999998374
+---
+header: 
+  seq: 312
+  stamp: 
+    secs: 1611879469
+    nsecs: 366660955
+  frame_id: ''
+D: 0.493714994225
+delta: -0.317382886013
+dD: -0.619952231118
+ddelta: -2.0
+---
+header: 
+  seq: 313
+  stamp: 
+    secs: 1611879469
+    nsecs: 386659764
+  frame_id: ''
+D: 0.480138999658
+delta: -0.338835178376
+dD: -0.67879972837
+ddelta: -1.07261461815
+---
+header: 
+  seq: 314
+  stamp: 
+    secs: 1611879469
+    nsecs: 406657921
+  frame_id: ''
+D: 0.482867925827
+delta: -0.346028914797
+dD: 0.136446308418
+ddelta: -0.359686821725
+---
+header: 
+  seq: 315
+  stamp: 
+    secs: 1611879469
+    nsecs: 426656075
+  frame_id: ''
+D: 0.48324689111
+delta: -0.345141917471
+dD: 0.0189482641311
+ddelta: 0.044349866275
+---
+header: 
+  seq: 316
+  stamp: 
+    secs: 1611879469
+    nsecs: 446665984
+  frame_id: ''
+D: 0.484745623648
+delta: -0.338883893124
+dD: 0.074936626891
+ddelta: 0.312901217357
+---
+header: 
+  seq: 317
+  stamp: 
+    secs: 1611879469
+    nsecs: 466657067
+  frame_id: ''
+D: 0.485241094269
+delta: -0.335681946278
+dD: 0.0247735310604
+ddelta: 0.160097342315
+---
+header: 
+  seq: 318
+  stamp: 
+    secs: 1611879469
+    nsecs: 486655986
+  frame_id: ''
+D: 0.480329921234
+delta: -0.337417706686
+dD: -0.24555865176
+ddelta: -0.086788020391
+---
+header: 
+  seq: 319
+  stamp: 
+    secs: 1611879469
+    nsecs: 506669284
+  frame_id: ''
+D: 0.477592298147
+delta: -0.344848564796
+dD: -0.136881154312
+ddelta: -0.371542905483
+---
+header: 
+  seq: 320
+  stamp: 
+    secs: 1611879469
+    nsecs: 526660825
+  frame_id: ''
+D: 0.506262830253
+delta: -0.319828108068
+dD: 1.43352660529
+ddelta: 1.25102283636
+---
+header: 
+  seq: 321
+  stamp: 
+    secs: 1611879469
+    nsecs: 546660025
+  frame_id: ''
+D: 0.514933411507
+delta: -0.310186644622
+dD: 0.433529062707
+ddelta: 0.482073172293
+---
+header: 
+  seq: 322
+  stamp: 
+    secs: 1611879469
+    nsecs: 566658139
+  frame_id: ''
+D: 0.51644716789
+delta: -0.319482579392
+dD: 0.0756878191228
+ddelta: -0.464796738489
+---
+header: 
+  seq: 323
+  stamp: 
+    secs: 1611879469
+    nsecs: 586661966
+  frame_id: ''
+D: 0.508279362323
+delta: -0.330752705827
+dD: -0.408390278368
+ddelta: -0.56350632173
+---
+header: 
+  seq: 324
+  stamp: 
+    secs: 1611879469
+    nsecs: 606657782
+  frame_id: ''
+D: 0.506218448339
+delta: -0.334219866957
+dD: -0.103045699184
+ddelta: -0.173358056522
+---
+header: 
+  seq: 325
+  stamp: 
+    secs: 1611879469
+    nsecs: 626658806
+  frame_id: ''
+D: 0.496202385386
+delta: -0.33176339289
+dD: -0.500803147663
+ddelta: 0.122823703369
+---
+header: 
+  seq: 326
+  stamp: 
+    secs: 1611879469
+    nsecs: 646664181
+  frame_id: ''
+D: 0.511028956599
+delta: -0.291763398626
+dD: 0.741328560692
+ddelta: 1.9999997132
+---
+header: 
+  seq: 327
+  stamp: 
+    secs: 1611879469
+    nsecs: 666660650
+  frame_id: ''
+D: 0.522718204224
+delta: -0.252886329467
+dD: 0.584462381213
+ddelta: 1.94385345792
+---
+header: 
+  seq: 328
+  stamp: 
+    secs: 1611879469
+    nsecs: 686660009
+  frame_id: ''
+D: 0.528668957234
+delta: -0.247683995291
+dD: 0.297537650493
+ddelta: 0.260116708842
+---
+header: 
+  seq: 329
+  stamp: 
+    secs: 1611879469
+    nsecs: 706664169
+  frame_id: ''
+D: 0.53590809555
+delta: -0.207683995293
+dD: 0.361956915834
+ddelta: 1.99999999987
+---
+header: 
+  seq: 330
+  stamp: 
+    secs: 1611879469
+    nsecs: 726659022
+  frame_id: ''
+D: 0.538213702396
+delta: -0.170194097439
+dD: 0.115280342309
+ddelta: 1.87449489273
+---
+header: 
+  seq: 331
+  stamp: 
+    secs: 1611879469
+    nsecs: 746665098
+  frame_id: ''
+D: 0.53868329166
+delta: -0.13019409744
+dD: 0.0234794631753
+ddelta: 1.99999999992
+---
+header: 
+  seq: 332
+  stamp: 
+    secs: 1611879469
+    nsecs: 766657843
+  frame_id: ''
+D: 0.537273886448
+delta: -0.102233694657
+dD: -0.0704702605792
+ddelta: 1.39802013916
+---
+header: 
+  seq: 333
+  stamp: 
+    secs: 1611879469
+    nsecs: 786659126
+  frame_id: ''
+D: 0.535434712006
+delta: -0.125004977652
+dD: -0.0919587221144
+ddelta: -1.13856414974
+---
+header: 
+  seq: 334
+  stamp: 
+    secs: 1611879469
+    nsecs: 806665922
+  frame_id: ''
+D: 0.531948461769
+delta: -0.13054669512
+dD: -0.174312511844
+ddelta: -0.277085873414
+---
+header: 
+  seq: 335
+  stamp: 
+    secs: 1611879469
+    nsecs: 826657876
+  frame_id: ''
+D: 0.525105249989
+delta: -0.160664053349
+dD: -0.342160588999
+ddelta: -1.50586791146
+---
+header: 
+  seq: 336
+  stamp: 
+    secs: 1611879469
+    nsecs: 846655234
+  frame_id: ''
+D: 0.521795031015
+delta: -0.181296086317
+dD: -0.165510948709
+ddelta: -1.0316016484
+---
+header: 
+  seq: 337
+  stamp: 
+    secs: 1611879469
+    nsecs: 866668140
+  frame_id: ''
+D: 0.51477423293
+delta: -0.221296086216
+dD: -0.351039904233
+ddelta: -1.99999999492
+---
+header: 
+  seq: 338
+  stamp: 
+    secs: 1611879469
+    nsecs: 886661257
+  frame_id: ''
+D: 0.507218334893
+delta: -0.261296020129
+dD: -0.377794901846
+ddelta: -1.99999669567
+---
+header: 
+  seq: 339
+  stamp: 
+    secs: 1611879469
+    nsecs: 906659920
+  frame_id: ''
+D: 0.490840084611
+delta: -0.300606052617
+dD: -0.818912514118
+ddelta: -1.96550162439
+---
+header: 
+  seq: 340
+  stamp: 
+    secs: 1611879469
+    nsecs: 926665417
+  frame_id: ''
+D: 0.472177314156
+delta: -0.326669156359
+dD: -0.933138522747
+ddelta: -1.30315518711
+---
+header: 
+  seq: 341
+  stamp: 
+    secs: 1611879469
+    nsecs: 946659692
+  frame_id: ''
+D: 0.461535104335
+delta: -0.336731603828
+dD: -0.532110491076
+ddelta: -0.503122373452
+---
+header: 
+  seq: 342
+  stamp: 
+    secs: 1611879469
+    nsecs: 966659336
+  frame_id: ''
+D: 0.460397573192
+delta: -0.337724907595
+dD: -0.0568765571919
+ddelta: -0.0496651885447
+---
+header: 
+  seq: 343
+  stamp: 
+    secs: 1611879469
+    nsecs: 986667110
+  frame_id: ''
+D: 0.451548852681
+delta: -0.347969710722
+dD: -0.442436025561
+ddelta: -0.512240156342
+---
+header: 
+  seq: 344
+  stamp: 
+    secs: 1611879470
+    nsecs:   6660794
+  frame_id: ''
+D: 0.435803473148
+delta: -0.360662278695
+dD: -0.787268976655
+ddelta: -0.634628398643
+---
+header: 
+  seq: 345
+  stamp: 
+    secs: 1611879470
+    nsecs:  26659584
+  frame_id: ''
+D: 0.415876900078
+delta: -0.371153831533
+dD: -0.996328653478
+ddelta: -0.524577641932
+---
+header: 
+  seq: 346
+  stamp: 
+    secs: 1611879470
+    nsecs:  46661562
+  frame_id: ''
+D: 0.40795292212
+delta: -0.376013905675
+dD: -0.396198897907
+ddelta: -0.243003707095
+---
+header: 
+  seq: 347
+  stamp: 
+    secs: 1611879470
+    nsecs:  66658721
+  frame_id: ''
+D: 0.406161643709
+delta: -0.378934139701
+dD: -0.0895639205391
+ddelta: -0.146011701333
+---
+header: 
+  seq: 348
+  stamp: 
+    secs: 1611879470
+    nsecs:  86664613
+  frame_id: ''
+D: 0.399324477767
+delta: -0.372962730054
+dD: -0.341858297102
+ddelta: 0.298570482382
+---
+header: 
+  seq: 349
+  stamp: 
+    secs: 1611879470
+    nsecs: 106662480
+  frame_id: ''
+D: 0.397126344764
+delta: -0.370916092786
+dD: -0.109906650178
+ddelta: 0.102331863383
+---
+header: 
+  seq: 350
+  stamp: 
+    secs: 1611879470
+    nsecs: 126660404
+  frame_id: ''
+D: 0.378668950548
+delta: -0.388921183731
+dD: -0.922869710755
+ddelta: -0.900254547256
+---
+header: 
+  seq: 351
+  stamp: 
+    secs: 1611879470
+    nsecs: 146664266
+  frame_id: ''
+D: 0.383271875598
+delta: -0.399999999873
+dD: 0.230146252481
+ddelta: -0.553940807074
+---
+header: 
+  seq: 352
+  stamp: 
+    secs: 1611879470
+    nsecs: 166655295
+  frame_id: ''
+D: 0.390389253235
+delta: -0.397007229122
+dD: 0.355868881829
+ddelta: 0.149638537524
+---
+header: 
+  seq: 353
+  stamp: 
+    secs: 1611879470
+    nsecs: 186661658
+  frame_id: ''
+D: 0.396328412653
+delta: -0.388240609952
+dD: 0.296957970915
+ddelta: 0.438330958491
+---
+header: 
+  seq: 354
+  stamp: 
+    secs: 1611879470
+    nsecs: 206664120
+  frame_id: ''
+D: 0.40270747489
+delta: -0.388827311077
+dD: 0.31895311187
+ddelta: -0.0293350562335
+---
+header: 
+  seq: 355
+  stamp: 
+    secs: 1611879470
+    nsecs: 226661948
+  frame_id: ''
+D: 0.440490076877
+delta: -0.360239840655
+dD: 1.88913009934
+ddelta: 1.42937352108
+---
+header: 
+  seq: 356
+  stamp: 
+    secs: 1611879470
+    nsecs: 246653823
+  frame_id: ''
+D: 0.476075027695
+delta: -0.357184127353
+dD: 1.77924754092
+ddelta: 0.152785665137
+---
+header: 
+  seq: 357
+  stamp: 
+    secs: 1611879470
+    nsecs: 266666139
+  frame_id: ''
+D: 0.493971805594
+delta: -0.365529353805
+dD: 0.894838894937
+ddelta: -0.417261322592
+---
+header: 
+  seq: 358
+  stamp: 
+    secs: 1611879470
+    nsecs: 286659036
+  frame_id: ''
+D: 0.502805943472
+delta: -0.37411873097
+dD: 0.441706893866
+ddelta: -0.429468858285
+---
+header: 
+  seq: 359
+  stamp: 
+    secs: 1611879470
+    nsecs: 306653159
+  frame_id: ''
+D: 0.499624394301
+delta: -0.382304340272
+dD: -0.159077458513
+ddelta: -0.409280465103
+---
+header: 
+  seq: 360
+  stamp: 
+    secs: 1611879470
+    nsecs: 326664810
+  frame_id: ''
+D: 0.508483890863
+delta: -0.384359201631
+dD: 0.442974828096
+ddelta: -0.102743067914
+---
+header: 
+  seq: 361
+  stamp: 
+    secs: 1611879470
+    nsecs: 346659499
+  frame_id: ''
+D: 0.519908248801
+delta: -0.384840771966
+dD: 0.571217896902
+ddelta: -0.0240785167901
+---
+header: 
+  seq: 362
+  stamp: 
+    secs: 1611879470
+    nsecs: 366658302
+  frame_id: ''
+D: 0.53883353895
+delta: -0.374658652541
+dD: 0.946264507432
+ddelta: 0.509105971257
+---
+header: 
+  seq: 363
+  stamp: 
+    secs: 1611879470
+    nsecs: 386661120
+  frame_id: ''
+D: 0.556875579551
+delta: -0.363667357387
+dD: 0.90210203005
+ddelta: 0.549564757719
+---
+header: 
+  seq: 364
+  stamp: 
+    secs: 1611879470
+    nsecs: 406661209
+  frame_id: ''
+D: 0.577488067655
+delta: -0.352836528897
+dD: 1.03062440521
+ddelta: 0.541541424502
+---
+header: 
+  seq: 365
+  stamp: 
+    secs: 1611879470
+    nsecs: 426665833
+  frame_id: ''
+D: 0.597405484952
+delta: -0.354457770551
+dD: 0.995870864862
+ddelta: -0.0810620827081
+---
+header: 
+  seq: 366
+  stamp: 
+    secs: 1611879470
+    nsecs: 446655795
+  frame_id: ''
+D: 0.613073801388
+delta: -0.348927566381
+dD: 0.783415821816
+ddelta: 0.276510208428
+---
+header: 
+  seq: 367
+  stamp: 
+    secs: 1611879470
+    nsecs: 466658763
+  frame_id: ''
+D: 0.628067979047
+delta: -0.341612248691
+dD: 0.749708882951
+ddelta: 0.365765884459
+---
+header: 
+  seq: 368
+  stamp: 
+    secs: 1611879470
+    nsecs: 486667638
+  frame_id: ''
+D: 0.647581166918
+delta: -0.333113134057
+dD: 0.975659393541
+ddelta: 0.424955731702
+---
+header: 
+  seq: 369
+  stamp: 
+    secs: 1611879470
+    nsecs: 506655965
+  frame_id: ''
+D: 0.663540234371
+delta: -0.318110315549
+dD: 0.797953372646
+ddelta: 0.750140925424
+---
+header: 
+  seq: 370
+  stamp: 
+    secs: 1611879470
+    nsecs: 526658736
+  frame_id: ''
+D: 0.673507958194
+delta: -0.299564985439
+dD: 0.498386191185
+ddelta: 0.927266505457
+---
+header: 
+  seq: 371
+  stamp: 
+    secs: 1611879470
+    nsecs: 546664672
+  frame_id: ''
+D: 0.677478259559
+delta: -0.2854663644
+dD: 0.198515068234
+ddelta: 0.704931051948
+---
+header: 
+  seq: 372
+  stamp: 
+    secs: 1611879470
+    nsecs: 566660539
+  frame_id: ''
+D: 0.675683231469
+delta: -0.274657930077
+dD: -0.0897514045015
+ddelta: 0.540421716165
+---
+header: 
+  seq: 373
+  stamp: 
+    secs: 1611879470
+    nsecs: 586659909
+  frame_id: ''
+D: 0.675989271092
+delta: -0.253246778575
+dD: 0.0153019811409
+ddelta: 1.07055757512
+---
+header: 
+  seq: 374
+  stamp: 
+    secs: 1611879470
+    nsecs: 606664585
+  frame_id: ''
+D: 0.676607087851
+delta: -0.242385225109
+dD: 0.0308908379777
+ddelta: 0.543077673296
+---
+header: 
+  seq: 375
+  stamp: 
+    secs: 1611879470
+    nsecs: 626660318
+  frame_id: ''
+D: 0.675987857641
+delta: -0.234300884802
+dD: -0.0309615105067
+ddelta: 0.404217015363
+---
+header: 
+  seq: 376
+  stamp: 
+    secs: 1611879470
+    nsecs: 646660337
+  frame_id: ''
+D: 0.670435950604
+delta: -0.207704702211
+dD: -0.277595351877
+ddelta: 1.32980912956
+---
+header: 
+  seq: 377
+  stamp: 
+    secs: 1611879470
+    nsecs: 666662932
+  frame_id: ''
+D: 0.663459201247
+delta: -0.183700344816
+dD: -0.34883746784
+ddelta: 1.2002178697
+---
+header: 
+  seq: 378
+  stamp: 
+    secs: 1611879470
+    nsecs: 686661239
+  frame_id: ''
+D: 0.656993795001
+delta: -0.16599409246
+dD: -0.323270312319
+ddelta: 0.88531261782
+---
+header: 
+  seq: 379
+  stamp: 
+    secs: 1611879470
+    nsecs: 706667984
+  frame_id: ''
+D: 0.650785509332
+delta: -0.146351426307
+dD: -0.310414283454
+ddelta: 0.982133307637
+---
+header: 
+  seq: 380
+  stamp: 
+    secs: 1611879470
+    nsecs: 726664357
+  frame_id: ''
+D: 0.641885210543
+delta: -0.113554322638
+dD: -0.445014939451
+ddelta: 1.63985518345
+---
+header: 
+  seq: 381
+  stamp: 
+    secs: 1611879470
+    nsecs: 746657674
+  frame_id: ''
+D: 0.629204783345
+delta: -0.0833422889265
+dD: -0.634021359902
+ddelta: 1.51060168559
+---
+header: 
+  seq: 382
+  stamp: 
+    secs: 1611879470
+    nsecs: 766665968
+  frame_id: ''
+D: 0.61652060847
+delta: -0.0645964836213
+dD: -0.634208743706
+ddelta: 0.937290265258
+---
+header: 
+  seq: 383
+  stamp: 
+    secs: 1611879470
+    nsecs: 786663006
+  frame_id: ''
+D: 0.602980475305
+delta: -0.0337657559641
+dD: -0.677006658269
+ddelta: 1.54153638286
+---
+header: 
+  seq: 384
+  stamp: 
+    secs: 1611879470
+    nsecs: 806659297
+  frame_id: ''
+D: 0.596375542575
+delta: 0.00513157766888
+dD: -0.330246636518
+ddelta: 1.94486668165
+---
+header: 
+  seq: 385
+  stamp: 
+    secs: 1611879470
+    nsecs: 826668984
+  frame_id: ''
+D: 0.579073827615
+delta: 0.0451315776669
+dD: -0.865085747958
+ddelta: 1.9999999999
+---
+header: 
+  seq: 386
+  stamp: 
+    secs: 1611879470
+    nsecs: 846658589
+  frame_id: ''
+D: 0.569495208006
+delta: 0.0728833575251
+dD: -0.478930980495
+ddelta: 1.38758899291
+---
+header: 
+  seq: 387
+  stamp: 
+    secs: 1611879470
+    nsecs: 866658091
+  frame_id: ''
+D: 0.561600503035
+delta: 0.0839997030015
+dD: -0.394735248508
+ddelta: 0.555817273819
+---
+header: 
+  seq: 388
+  stamp: 
+    secs: 1611879470
+    nsecs: 886675222
+  frame_id: ''
+D: 0.553738494183
+delta: 0.109157004912
+dD: -0.39310044263
+ddelta: 1.25786509553
+---
+header: 
+  seq: 389
+  stamp: 
+    secs: 1611879470
+    nsecs: 906660093
+  frame_id: ''
+D: 0.540737762998
+delta: 0.147616798682
+dD: -0.65003655926
+ddelta: 1.92298968847
+---
+header: 
+  seq: 390
+  stamp: 
+    secs: 1611879470
+    nsecs: 926661881
+  frame_id: ''
+D: 0.523839171984
+delta: 0.187616798681
+dD: -0.844929550658
+ddelta: 1.99999999997
+---
+header: 
+  seq: 391
+  stamp: 
+    secs: 1611879470
+    nsecs: 946669041
+  frame_id: ''
+D: 0.507234037997
+delta: 0.227616304791
+dD: -0.830256699368
+ddelta: 1.9999753055
+---
+header: 
+  seq: 392
+  stamp: 
+    secs: 1611879470
+    nsecs: 966658104
+  frame_id: ''
+D: 0.49755143297
+delta: 0.243223427986
+dD: -0.484130251355
+ddelta: 0.780356159774
+---
+header: 
+  seq: 393
+  stamp: 
+    secs: 1611879470
+    nsecs: 986659371
+  frame_id: ''
+D: 0.491002871027
+delta: 0.271101779281
+dD: -0.327428097145
+ddelta: 1.39391756475
+---
+header: 
+  seq: 394
+  stamp: 
+    secs: 1611879471
+    nsecs:   6666128
+  frame_id: ''
+D: 0.487164885129
+delta: 0.282132764197
+dD: -0.191899294899
+ddelta: 0.551549245784
+---
+header: 
+  seq: 395
+  stamp: 
+    secs: 1611879471
+    nsecs:  26659113
+  frame_id: ''
+D: 0.485809951008
+delta: 0.272330569155
+dD: -0.0677467060568
+ddelta: -0.490109752092
+---
+header: 
+  seq: 396
+  stamp: 
+    secs: 1611879471
+    nsecs:  46662559
+  frame_id: ''
+D: 0.482197962448
+delta: 0.274554596452
+dD: -0.180599428001
+ddelta: 0.111201364831
+---
+header: 
+  seq: 397
+  stamp: 
+    secs: 1611879471
+    nsecs:  66663205
+  frame_id: ''
+D: 0.478684134822
+delta: 0.286028507542
+dD: -0.175691381331
+ddelta: 0.57369555452
+---
+header: 
+  seq: 398
+  stamp: 
+    secs: 1611879471
+    nsecs:  86658766
+  frame_id: ''
+D: 0.472917765171
+delta: 0.315720652742
+dD: -0.288318482566
+ddelta: 1.48460725998
+---
+header: 
+  seq: 399
+  stamp: 
+    secs: 1611879471
+    nsecs: 106672125
+  frame_id: ''
+D: 0.467070819699
+delta: 0.316770576347
+dD: -0.292347273604
+ddelta: 0.0524961802514
+---
+header: 
+  seq: 400
+  stamp: 
+    secs: 1611879471
+    nsecs: 126659932
+  frame_id: ''
+D: 0.455427220537
+delta: 0.329342803465
+dD: -0.582179958111
+ddelta: 0.628611355894
+---
+header: 
+  seq: 401
+  stamp: 
+    secs: 1611879471
+    nsecs: 146658939
+  frame_id: ''
+D: 0.446694294461
+delta: 0.337759809043
+dD: -0.436646303799
+ddelta: 0.420850278965
+---
+header: 
+  seq: 402
+  stamp: 
+    secs: 1611879471
+    nsecs: 166665736
+  frame_id: ''
+D: 0.437240403565
+delta: 0.35192029775
+dD: -0.472694544823
+ddelta: 0.708024435534
+---
+header: 
+  seq: 403
+  stamp: 
+    secs: 1611879471
+    nsecs: 186662042
+  frame_id: ''
+D: 0.435525881366
+delta: 0.350168038571
+dD: -0.0857261099913
+ddelta: -0.0876129588937
+---
+header: 
+  seq: 404
+  stamp: 
+    secs: 1611879471
+    nsecs: 206659942
+  frame_id: ''
+D: 0.431222482576
+delta: 0.352151463211
+dD: -0.215169939467
+ddelta: 0.0991712319583
+---
+header: 
+  seq: 405
+  stamp: 
+    secs: 1611879471
+    nsecs: 226664318
+  frame_id: ''
+D: 0.431223848084
+delta: 0.350119246237
+dD: 6.82753609753e-05
+ddelta: -0.101610848659
+---
+header: 
+  seq: 406
+  stamp: 
+    secs: 1611879471
+    nsecs: 246660068
+  frame_id: ''
+D: 0.439407929493
+delta: 0.350288668045
+dD: 0.409204070498
+ddelta: 0.00847109037445
+---
+header: 
+  seq: 407
+  stamp: 
+    secs: 1611879471
+    nsecs: 266681734
+  frame_id: ''
+D: 0.440199248378
+delta: 0.369402992578
+dD: 0.0395659442163
+ddelta: 0.955716226678
+---
+header: 
+  seq: 408
+  stamp: 
+    secs: 1611879471
+    nsecs: 286660595
+  frame_id: ''
+D: 0.44138935769
+delta: 0.368930282285
+dD: 0.0595054656002
+ddelta: -0.0236355146457
+---
+header: 
+  seq: 409
+  stamp: 
+    secs: 1611879471
+    nsecs: 306659447
+  frame_id: ''
+D: 0.447610312187
+delta: 0.37181080794
+dD: 0.311047724859
+ddelta: 0.144026282711
+---
+header: 
+  seq: 410
+  stamp: 
+    secs: 1611879471
+    nsecs: 326664738
+  frame_id: ''
+D: 0.454255756801
+delta: 0.375944565496
+dD: 0.332272230719
+ddelta: 0.2066878778
+---
+header: 
+  seq: 411
+  stamp: 
+    secs: 1611879471
+    nsecs: 346658676
+  frame_id: ''
+D: 0.465067540431
+delta: 0.382174481688
+dD: 0.540589181489
+ddelta: 0.311495809614
+---
+header: 
+  seq: 412
+  stamp: 
+    secs: 1611879471
+    nsecs: 366655425
+  frame_id: ''
+D: 0.477429018912
+delta: 0.394338567665
+dD: 0.618073924039
+ddelta: 0.608204298863
+---
+header: 
+  seq: 413
+  stamp: 
+    secs: 1611879471
+    nsecs: 386666819
+  frame_id: ''
+D: 0.494142330208
+delta: 0.38250273597
+dD: 0.835665564811
+ddelta: -0.591791584743
+---
+header: 
+  seq: 414
+  stamp: 
+    secs: 1611879471
+    nsecs: 406655875
+  frame_id: ''
+D: 0.509200626348
+delta: 0.382029635152
+dD: 0.752914806996
+ddelta: -0.0236550408971
+---
+header: 
+  seq: 415
+  stamp: 
+    secs: 1611879471
+    nsecs: 426682893
+  frame_id: ''
+D: 0.526801463152
+delta: 0.372804438531
+dD: 0.880041840179
+ddelta: -0.461259831091
+---
+header: 
+  seq: 416
+  stamp: 
+    secs: 1611879471
+    nsecs: 446659911
+  frame_id: ''
+D: 0.548529768165
+delta: 0.363666303522
+dD: 1.08641525068
+ddelta: -0.456906750435
+---
+header: 
+  seq: 417
+  stamp: 
+    secs: 1611879471
+    nsecs: 466661094
+  frame_id: ''
+D: 0.574307728539
+delta: 0.353514022187
+dD: 1.28889801873
+ddelta: -0.507614066697
+---
+header: 
+  seq: 418
+  stamp: 
+    secs: 1611879471
+    nsecs: 486655944
+  frame_id: ''
+D: 0.598730978472
+delta: 0.340580203225
+dD: 1.22116249663
+ddelta: -0.646690948095
+---
+header: 
+  seq: 419
+  stamp: 
+    secs: 1611879471
+    nsecs: 506666613
+  frame_id: ''
+D: 0.617838981117
+delta: 0.333166734206
+dD: 0.955400132363
+ddelta: -0.37067345073
+---
+header: 
+  seq: 420
+  stamp: 
+    secs: 1611879471
+    nsecs: 526660229
+  frame_id: ''
+D: 0.635208853658
+delta: 0.328727464388
+dD: 0.868493627052
+ddelta: -0.22196349089
+---
+header: 
+  seq: 421
+  stamp: 
+    secs: 1611879471
+    nsecs: 546660054
+  frame_id: ''
+D: 0.65603103004
+delta: 0.322603772232
+dD: 1.04110881911
+ddelta: -0.306184607793
+---
+header: 
+  seq: 422
+  stamp: 
+    secs: 1611879471
+    nsecs: 566664477
+  frame_id: ''
+D: 0.671667931016
+delta: 0.316188313524
+dD: 0.781845048817
+ddelta: -0.320772935402
+---
+header: 
+  seq: 423
+  stamp: 
+    secs: 1611879471
+    nsecs: 586659689
+  frame_id: ''
+D: 0.682360081848
+delta: 0.311105011329
+dD: 0.53460754158
+ddelta: -0.254165109756
+---
+header: 
+  seq: 424
+  stamp: 
+    secs: 1611879471
+    nsecs: 606666760
+  frame_id: ''
+D: 0.692513917006
+delta: 0.299037844263
+dD: 0.507691757913
+ddelta: -0.60335835333
+---
+header: 
+  seq: 425
+  stamp: 
+    secs: 1611879471
+    nsecs: 626659700
+  frame_id: ''
+D: 0.701856135578
+delta: 0.286000964276
+dD: 0.467110928599
+ddelta: -0.651843999336
+---
+header: 
+  seq: 426
+  stamp: 
+    secs: 1611879471
+    nsecs: 646653436
+  frame_id: ''
+D: 0.70899849675
+delta: 0.277068126211
+dD: 0.357118058593
+ddelta: -0.446641903232
+---
+header: 
+  seq: 427
+  stamp: 
+    secs: 1611879471
+    nsecs: 666666606
+  frame_id: ''
+D: 0.708954175998
+delta: 0.267756406798
+dD: -0.00221603759291
+ddelta: -0.465585970662
+---
+header: 
+  seq: 428
+  stamp: 
+    secs: 1611879471
+    nsecs: 686683393
+  frame_id: ''
+D: 0.712737223826
+delta: 0.25126502584
+dD: 0.189152391399
+ddelta: -0.824569047911
+---
+header: 
+  seq: 429
+  stamp: 
+    secs: 1611879471
+    nsecs: 706659153
+  frame_id: ''
+D: 0.713412229265
+delta: 0.235735189539
+dD: 0.0337502719465
+ddelta: -0.776491815032
+---
+header: 
+  seq: 430
+  stamp: 
+    secs: 1611879471
+    nsecs: 726669035
+  frame_id: ''
+D: 0.712917612303
+delta: 0.223992471892
+dD: -0.024730848102
+ddelta: -0.587135882371
+---
+header: 
+  seq: 431
+  stamp: 
+    secs: 1611879471
+    nsecs: 746659039
+  frame_id: ''
+D: 0.711427075595
+delta: 0.201873651985
+dD: -0.0745268353821
+ddelta: -1.10594099534
+---
+header: 
+  seq: 432
+  stamp: 
+    secs: 1611879471
+    nsecs: 766659404
+  frame_id: ''
+D: 0.703856713589
+delta: 0.164873607391
+dD: -0.378518100317
+ddelta: -1.8500022297
+---
+header: 
+  seq: 433
+  stamp: 
+    secs: 1611879471
+    nsecs: 786667675
+  frame_id: ''
+D: 0.699309295995
+delta: 0.154352351808
+dD: -0.227370879717
+ddelta: -0.526062779147
+---
+header: 
+  seq: 434
+  stamp: 
+    secs: 1611879471
+    nsecs: 806659907
+  frame_id: ''
+D: 0.695658810539
+delta: 0.129055086633
+dD: -0.182524272765
+ddelta: -1.26486325877
+---
+header: 
+  seq: 435
+  stamp: 
+    secs: 1611879471
+    nsecs: 826658397
+  frame_id: ''
+D: 0.693551630289
+delta: 0.0955144337405
+dD: -0.105359012534
+ddelta: -1.6770326446
+---
+header: 
+  seq: 436
+  stamp: 
+    secs: 1611879471
+    nsecs: 846662781
+  frame_id: ''
+D: 0.682852466035
+delta: 0.0611033967308
+dD: -0.534958212692
+ddelta: -1.72055185048
+---
+header: 
+  seq: 437
+  stamp: 
+    secs: 1611879471
+    nsecs: 866659586
+  frame_id: ''
+D: 0.670641712935
+delta: 0.0211033984547
+dD: -0.610537654995
+ddelta: -1.9999999138
+---
+header: 
+  seq: 438
+  stamp: 
+    secs: 1611879471
+    nsecs: 886651505
+  frame_id: ''
+D: 0.654941786101
+delta: -0.0188966015431
+dD: -0.784996341688
+ddelta: -1.99999999989
+---
+header: 
+  seq: 439
+  stamp: 
+    secs: 1611879471
+    nsecs: 906660233
+  frame_id: ''
+D: 0.644780400217
+delta: -0.0588966015431
+dD: -0.508069294215
+ddelta: -2.0
+---
+header: 
+  seq: 440
+  stamp: 
+    secs: 1611879471
+    nsecs: 926655672
+  frame_id: ''
+D: 0.632134870722
+delta: -0.0988966015427
+dD: -0.632276474757
+ddelta: -1.99999999998
+---
+header: 
+  seq: 441
+  stamp: 
+    secs: 1611879471
+    nsecs: 946659527
+  frame_id: ''
+D: 0.621075340094
+delta: -0.138896601501
+dD: -0.552976531396
+ddelta: -1.9999999979
+---
+header: 
+  seq: 442
+  stamp: 
+    secs: 1611879471
+    nsecs: 966659305
+  frame_id: ''
+D: 0.606544754468
+delta: -0.178896601501
+dD: -0.726529281297
+ddelta: -2.0
+---
+header: 
+  seq: 443
+  stamp: 
+    secs: 1611879471
+    nsecs: 986660044
+  frame_id: ''
+D: 0.588259722967
+delta: -0.218896601501
+dD: -0.914251575025
+ddelta: -1.99999999999
+---
+header: 
+  seq: 444
+  stamp: 
+    secs: 1611879472
+    nsecs:   6662831
+  frame_id: ''
+D: 0.578762426114
+delta: -0.258896601501
+dD: -0.474864842689
+ddelta: -2.0
+---
+header: 
+  seq: 445
+  stamp: 
+    secs: 1611879472
+    nsecs:  26661188
+  frame_id: ''
+D: 0.559183937499
+delta: -0.296771596802
+dD: -0.978924430717
+ddelta: -1.89374976506
+---
+header: 
+  seq: 446
+  stamp: 
+    secs: 1611879472
+    nsecs:  46656880
+  frame_id: ''
+D: 0.537779777633
+delta: -0.324044332651
+dD: -1.07020799333
+ddelta: -1.36363679248
+---
+header: 
+  seq: 447
+  stamp: 
+    secs: 1611879472
+    nsecs:  66667654
+  frame_id: ''
+D: 0.519239639798
+delta: -0.33686894999
+dD: -0.927006891733
+ddelta: -0.641230866931
+---
+header: 
+  seq: 448
+  stamp: 
+    secs: 1611879472
+    nsecs:  86661756
+  frame_id: ''
+D: 0.503141018768
+delta: -0.345796365707
+dD: -0.804931051484
+ddelta: -0.44637078584
+---
+header: 
+  seq: 449
+  stamp: 
+    secs: 1611879472
+    nsecs: 106662530
+  frame_id: ''
+D: 0.496132744689
+delta: -0.349842601401
+dD: -0.350413703967
+ddelta: -0.202311784707
+---
+header: 
+  seq: 450
+  stamp: 
+    secs: 1611879472
+    nsecs: 126664893
+  frame_id: ''
+D: 0.485253119946
+delta: -0.344707786899
+dD: -0.54398123713
+ddelta: 0.256740725065
+---
+header: 
+  seq: 451
+  stamp: 
+    secs: 1611879472
+    nsecs: 146661555
+  frame_id: ''
+D: 0.475708675502
+delta: -0.343283272986
+dD: -0.477222222228
+ddelta: 0.071225695661
+---
+header: 
+  seq: 452
+  stamp: 
+    secs: 1611879472
+    nsecs: 166656169
+  frame_id: ''
+D: 0.472656032641
+delta: -0.344860379046
+dD: -0.152632143035
+ddelta: -0.0788553030041
+---
+header: 
+  seq: 453
+  stamp: 
+    secs: 1611879472
+    nsecs: 186669355
+  frame_id: ''
+D: 0.46880235267
+delta: -0.356366286108
+dD: -0.192683998567
+ddelta: -0.575295353142
+---
+header: 
+  seq: 454
+  stamp: 
+    secs: 1611879472
+    nsecs: 206662789
+  frame_id: ''
+D: 0.471022708819
+delta: -0.358484899252
+dD: 0.11101780743
+ddelta: -0.105930657202
+---
+header: 
+  seq: 455
+  stamp: 
+    secs: 1611879472
+    nsecs: 226660769
+  frame_id: ''
+D: 0.46414867222
+delta: -0.354752075741
+dD: -0.343701829935
+ddelta: 0.186641175594
+---
+header: 
+  seq: 456
+  stamp: 
+    secs: 1611879472
+    nsecs: 246669416
+  frame_id: ''
+D: 0.459682020087
+delta: -0.358663380443
+dD: -0.223332606637
+ddelta: -0.195565235121
+---
+header: 
+  seq: 457
+  stamp: 
+    secs: 1611879472
+    nsecs: 266655342
+  frame_id: ''
+D: 0.461687211664
+delta: -0.362539195789
+dD: 0.100259578857
+ddelta: -0.193790767318
+---
+header: 
+  seq: 458
+  stamp: 
+    secs: 1611879472
+    nsecs: 286659150
+  frame_id: ''
+D: 0.471283476336
+delta: -0.368396375297
+dD: 0.47981323361
+ddelta: -0.292858975368
+---
+header: 
+  seq: 459
+  stamp: 
+    secs: 1611879472
+    nsecs: 306665897
+  frame_id: ''
+D: 0.473384794551
+delta: -0.356573701401
+dD: 0.105065910741
+ddelta: 0.591133694768
+---
+header: 
+  seq: 460
+  stamp: 
+    secs: 1611879472
+    nsecs: 326661478
+  frame_id: ''
+D: 0.474055372158
+delta: -0.350037930706
+dD: 0.0335288803415
+ddelta: 0.326788534764
+---
+header: 
+  seq: 461
+  stamp: 
+    secs: 1611879472
+    nsecs: 346658749
+  frame_id: ''
+D: 0.477250385654
+delta: -0.352570909132
+dD: 0.159750674796
+ddelta: -0.126648921301
+---
+header: 
+  seq: 462
+  stamp: 
+    secs: 1611879472
+    nsecs: 366659849
+  frame_id: ''
+D: 0.476631706719
+delta: -0.356918569956
+dD: -0.0309339467491
+ddelta: -0.21738304117
+---
+header: 
+  seq: 463
+  stamp: 
+    secs: 1611879472
+    nsecs: 386656542
+  frame_id: ''
+D: 0.485627942693
+delta: -0.35121350476
+dD: 0.449811798705
+ddelta: 0.285253259775
+---
+header: 
+  seq: 464
+  stamp: 
+    secs: 1611879472
+    nsecs: 406668906
+  frame_id: ''
+D: 0.486601502804
+delta: -0.345140693051
+dD: 0.0486780055593
+ddelta: 0.303640585468
+---
+header: 
+  seq: 465
+  stamp: 
+    secs: 1611879472
+    nsecs: 426663176
+  frame_id: ''
+D: 0.498731432093
+delta: -0.338380883944
+dD: 0.60649646445
+ddelta: 0.337990455351
+---
+header: 
+  seq: 466
+  stamp: 
+    secs: 1611879472
+    nsecs: 446653217
+  frame_id: ''
+D: 0.511257888384
+delta: -0.342719913904
+dD: 0.626322814534
+ddelta: -0.216951498002
+---
+header: 
+  seq: 467
+  stamp: 
+    secs: 1611879472
+    nsecs: 466661065
+  frame_id: ''
+D: 0.528343105701
+delta: -0.344243286983
+dD: 0.854260865855
+ddelta: -0.0761686539886
+---
+header: 
+  seq: 468
+  stamp: 
+    secs: 1611879472
+    nsecs: 486657442
+  frame_id: ''
+D: 0.556659608137
+delta: -0.316988304362
+dD: 1.41582512179
+ddelta: 1.36274913109
+---
+header: 
+  seq: 469
+  stamp: 
+    secs: 1611879472
+    nsecs: 506658798
+  frame_id: ''
+D: 0.572363251279
+delta: -0.298892194321
+dD: 0.78518215711
+ddelta: 0.904805502021
+---
+header: 
+  seq: 470
+  stamp: 
+    secs: 1611879472
+    nsecs: 526669355
+  frame_id: ''
+D: 0.58281563157
+delta: -0.298763728955
+dD: 0.522619014556
+ddelta: 0.0064232683238
+---
+header: 
+  seq: 471
+  stamp: 
+    secs: 1611879472
+    nsecs: 546660686
+  frame_id: ''
+D: 0.586371072186
+delta: -0.311455264562
+dD: 0.177772030775
+ddelta: -0.63457678037
+---
+header: 
+  seq: 472
+  stamp: 
+    secs: 1611879472
+    nsecs: 566659403
+  frame_id: ''
+D: 0.58641296015
+delta: -0.328792838881
+dD: 0.0020943982187
+ddelta: -0.866878715953
+---
+header: 
+  seq: 473
+  stamp: 
+    secs: 1611879472
+    nsecs: 586668261
+  frame_id: ''
+D: 0.586921050353
+delta: -0.330855899962
+dD: 0.0254045101242
+ddelta: -0.10315305406
+---
+header: 
+  seq: 474
+  stamp: 
+    secs: 1611879472
+    nsecs: 606660503
+  frame_id: ''
+D: 0.604684236167
+delta: -0.303515864263
+dD: 0.88815929073
+ddelta: 1.36700178497
+---
+header: 
+  seq: 475
+  stamp: 
+    secs: 1611879472
+    nsecs: 626659502
+  frame_id: ''
+D: 0.621328726787
+delta: -0.272043968499
+dD: 0.832224530975
+ddelta: 1.57359478822
+---
+header: 
+  seq: 476
+  stamp: 
+    secs: 1611879472
+    nsecs: 646670025
+  frame_id: ''
+D: 0.638455484674
+delta: -0.244118561332
+dD: 0.856337894338
+ddelta: 1.39627035832
+---
+header: 
+  seq: 477
+  stamp: 
+    secs: 1611879472
+    nsecs: 666659015
+  frame_id: ''
+D: 0.654321746029
+delta: -0.207601730321
+dD: 0.793313067755
+ddelta: 1.82584155055
+---
+header: 
+  seq: 478
+  stamp: 
+    secs: 1611879472
+    nsecs: 686662633
+  frame_id: ''
+D: 0.662799754667
+delta: -0.195951905835
+dD: 0.423900431902
+ddelta: 0.582491224338
+---
+header: 
+  seq: 479
+  stamp: 
+    secs: 1611879472
+    nsecs: 706659441
+  frame_id: ''
+D: 0.66972460756
+delta: -0.176054856362
+dD: 0.346242644667
+ddelta: 0.994852473624
+---
+header: 
+  seq: 480
+  stamp: 
+    secs: 1611879472
+    nsecs: 726660275
+  frame_id: ''
+D: 0.673990436508
+delta: -0.178867334762
+dD: 0.213291447423
+ddelta: -0.14062391999
+---
+header: 
+  seq: 481
+  stamp: 
+    secs: 1611879472
+    nsecs: 746660684
+  frame_id: ''
+D: 0.679249519164
+delta: -0.182314329425
+dD: 0.262954132763
+ddelta: -0.172349733126
+---
+header: 
+  seq: 482
+  stamp: 
+    secs: 1611879472
+    nsecs: 766659429
+  frame_id: ''
+D: 0.681168435512
+delta: -0.19312127795
+dD: 0.0959458173964
+ddelta: -0.540347426259
+---
+header: 
+  seq: 483
+  stamp: 
+    secs: 1611879472
+    nsecs: 786655243
+  frame_id: ''
+D: 0.681318090321
+delta: -0.175335318114
+dD: 0.00748274044939
+ddelta: 0.889297991804
+---
+header: 
+  seq: 484
+  stamp: 
+    secs: 1611879472
+    nsecs: 806661885
+  frame_id: ''
+D: 0.680999766462
+delta: -0.180604046325
+dD: -0.0159161929095
+ddelta: -0.263436410573
+---
+header: 
+  seq: 485
+  stamp: 
+    secs: 1611879472
+    nsecs: 826657969
+  frame_id: ''
+D: 0.683274895395
+delta: -0.170551616651
+dD: 0.113756446625
+ddelta: 0.502621483699
+---
+header: 
+  seq: 486
+  stamp: 
+    secs: 1611879472
+    nsecs: 846659223
+  frame_id: ''
+D: 0.684830030314
+delta: -0.181504314797
+dD: 0.0777567459469
+ddelta: -0.547634907271
+---
+header: 
+  seq: 487
+  stamp: 
+    secs: 1611879472
+    nsecs: 866665332
+  frame_id: ''
+D: 0.680413707848
+delta: -0.193468149225
+dD: -0.220816123291
+ddelta: -0.598191721408
+---
+header: 
+  seq: 488
+  stamp: 
+    secs: 1611879472
+    nsecs: 886660895
+  frame_id: ''
+D: 0.673542272735
+delta: -0.208489180592
+dD: -0.343571755632
+ddelta: -0.751051568366
+---
+header: 
+  seq: 489
+  stamp: 
+    secs: 1611879472
+    nsecs: 906656060
+  frame_id: ''
+D: 0.666036626855
+delta: -0.229873593673
+dD: -0.375282294018
+ddelta: -1.06922065404
+---
+header: 
+  seq: 490
+  stamp: 
+    secs: 1611879472
+    nsecs: 926667987
+  frame_id: ''
+D: 0.659450929866
+delta: -0.253061346695
+dD: -0.329284849442
+ddelta: -1.15938765109
+---
+header: 
+  seq: 491
+  stamp: 
+    secs: 1611879472
+    nsecs: 946663865
+  frame_id: ''
+D: 0.653504673448
+delta: -0.25727126798
+dD: -0.297312820904
+ddelta: -0.210496064276
+---
+header: 
+  seq: 492
+  stamp: 
+    secs: 1611879472
+    nsecs: 966659732
+  frame_id: ''
+D: 0.647343909205
+delta: -0.254264990895
+dD: -0.30803821216
+ddelta: 0.150313854233
+---
+header: 
+  seq: 493
+  stamp: 
+    secs: 1611879472
+    nsecs: 986661225
+  frame_id: ''
+D: 0.643472988354
+delta: -0.252155807095
+dD: -0.19354604255
+ddelta: 0.105459190026
+---
+header: 
+  seq: 494
+  stamp: 
+    secs: 1611879473
+    nsecs:   6661326
+  frame_id: ''
+D: 0.641508154968
+delta: -0.254592300217
+dD: -0.0982416693013
+ddelta: -0.121824656123
+---
+header: 
+  seq: 495
+  stamp: 
+    secs: 1611879473
+    nsecs:  26661849
+  frame_id: ''
+D: 0.641424638567
+delta: -0.263140737388
+dD: -0.00417582004193
+ddelta: -0.427421858555
+---
+header: 
+  seq: 496
+  stamp: 
+    secs: 1611879473
+    nsecs:  46666139
+  frame_id: ''
+D: 0.637058586782
+delta: -0.259743534198
+dD: -0.218302589268
+ddelta: 0.169860159506
+---
+header: 
+  seq: 497
+  stamp: 
+    secs: 1611879473
+    nsecs:  66660800
+  frame_id: ''
+D: 0.63125631045
+delta: -0.254599103648
+dD: -0.290113816608
+ddelta: 0.257221527494
+---
+header: 
+  seq: 498
+  stamp: 
+    secs: 1611879473
+    nsecs:  86659501
+  frame_id: ''
+D: 0.626599075191
+delta: -0.24481524802
+dD: -0.232861762905
+ddelta: 0.489192781431
+---
+header: 
+  seq: 499
+  stamp: 
+    secs: 1611879473
+    nsecs: 106665408
+  frame_id: ''
+D: 0.626538340018
+delta: -0.239689189774
+dD: -0.00303675869063
+ddelta: 0.256302912307
+---
+header: 
+  seq: 500
+  stamp: 
+    secs: 1611879473
+    nsecs: 126661768
+  frame_id: ''
+D: 0.626269005795
+delta: -0.234012607661
+dD: -0.0134667111244
+ddelta: 0.283829105613
+---
+header: 
+  seq: 501
+  stamp: 
+    secs: 1611879473
+    nsecs: 146660566
+  frame_id: ''
+D: 0.626747573253
+delta: -0.238051926548
+dD: 0.0239283728894
+ddelta: -0.201965944344
+---
+header: 
+  seq: 502
+  stamp: 
+    secs: 1611879473
+    nsecs: 166666009
+  frame_id: ''
+D: 0.627128597516
+delta: -0.234558628434
+dD: 0.0190512131442
+ddelta: 0.174664905722
+---
+header: 
+  seq: 503
+  stamp: 
+    secs: 1611879473
+    nsecs: 186661191
+  frame_id: ''
+D: 0.62955686709
+delta: -0.226680886048
+dD: 0.121413478707
+ddelta: 0.393887119316
+---
+header: 
+  seq: 504
+  stamp: 
+    secs: 1611879473
+    nsecs: 206660529
+  frame_id: ''
+D: 0.634493094338
+delta: -0.210139208443
+dD: 0.246811362425
+ddelta: 0.827083880249
+---
+header: 
+  seq: 505
+  stamp: 
+    secs: 1611879473
+    nsecs: 226664705
+  frame_id: ''
+D: 0.637098105512
+delta: -0.189943363421
+dD: 0.130250558686
+ddelta: 1.00979225108
+---
+header: 
+  seq: 506
+  stamp: 
+    secs: 1611879473
+    nsecs: 246659638
+  frame_id: ''
+D: 0.636840024452
+delta: -0.161284248426
+dD: -0.0129040530137
+ddelta: 1.43295574974
+---
+header: 
+  seq: 507
+  stamp: 
+    secs: 1611879473
+    nsecs: 266668938
+  frame_id: ''
+D: 0.637230524229
+delta: -0.132367249486
+dD: 0.0195249888666
+ddelta: 1.44584994699
+---
+header: 
+  seq: 508
+  stamp: 
+    secs: 1611879473
+    nsecs: 286664110
+  frame_id: ''
+D: 0.640070135761
+delta: -0.110408612201
+dD: 0.14198057661
+ddelta: 1.09793186429
+---
+header: 
+  seq: 509
+  stamp: 
+    secs: 1611879473
+    nsecs: 306659686
+  frame_id: ''
+D: 0.646191889499
+delta: -0.0993469957646
+dD: 0.306087686876
+ddelta: 0.553080821795
+---
+header: 
+  seq: 510
+  stamp: 
+    secs: 1611879473
+    nsecs: 326665334
+  frame_id: ''
+D: 0.643920118297
+delta: -0.078305260508
+dD: -0.113588560106
+ddelta: 1.05208676283
+---
+header: 
+  seq: 511
+  stamp: 
+    secs: 1611879473
+    nsecs: 346660189
+  frame_id: ''
+D: 0.6412400027
+delta: -0.0741344276298
+dD: -0.134005779843
+ddelta: 0.208541643909
+---
+header: 
+  seq: 512
+  stamp: 
+    secs: 1611879473
+    nsecs: 366654592
+  frame_id: ''
+D: 0.641114178004
+delta: -0.0638225504744
+dD: -0.00629123479633
+ddelta: 0.515593857772
+---
+header: 
+  seq: 513
+  stamp: 
+    secs: 1611879473
+    nsecs: 386669795
+  frame_id: ''
+D: 0.641038275822
+delta: -0.0561425529077
+dD: -0.0037951090926
+ddelta: 0.383999878333
+---
+header: 
+  seq: 514
+  stamp: 
+    secs: 1611879473
+    nsecs: 406659196
+  frame_id: ''
+D: 0.639571993752
+delta: -0.0507175369801
+dD: -0.0733141035135
+ddelta: 0.271250796379
+---
+header: 
+  seq: 515
+  stamp: 
+    secs: 1611879473
+    nsecs: 426659734
+  frame_id: ''
+D: 0.63667898407
+delta: -0.039596997652
+dD: -0.144650484101
+ddelta: 0.556026966406
+---
+header: 
+  seq: 516
+  stamp: 
+    secs: 1611879473
+    nsecs: 446665880
+  frame_id: ''
+D: 0.631717299895
+delta: -0.0309144277451
+dD: -0.248084208738
+ddelta: 0.434128495347
+---
+header: 
+  seq: 517
+  stamp: 
+    secs: 1611879473
+    nsecs: 466655080
+  frame_id: ''
+D: 0.62995221435
+delta: -0.0277727738881
+dD: -0.088254277283
+ddelta: 0.157082692847
+---
+header: 
+  seq: 518
+  stamp: 
+    secs: 1611879473
+    nsecs: 486661264
+  frame_id: ''
+D: 0.627864280753
+delta: -0.0313872407134
+dD: -0.104396679843
+ddelta: -0.180723341264
+---
+header: 
+  seq: 519
+  stamp: 
+    secs: 1611879473
+    nsecs: 506689408
+  frame_id: ''
+D: 0.621995571057
+delta: -0.0421440550499
+dD: -0.29343548479
+ddelta: -0.537840716825
+---
+header: 
+  seq: 520
+  stamp: 
+    secs: 1611879473
+    nsecs: 526657823
+  frame_id: ''
+D: 0.618964890223
+delta: -0.057535502507
+dD: -0.151534041716
+ddelta: -0.769572372853
+---
+header: 
+  seq: 521
+  stamp: 
+    secs: 1611879473
+    nsecs: 546660095
+  frame_id: ''
+D: 0.615704975993
+delta: -0.0764075968759
+dD: -0.162995711501
+ddelta: -0.943604718448
+---
+header: 
+  seq: 522
+  stamp: 
+    secs: 1611879473
+    nsecs: 566658890
+  frame_id: ''
+D: 0.614331268555
+delta: -0.0988462168577
+dD: -0.0686853718914
+ddelta: -1.12193099909
+---
+header: 
+  seq: 523
+  stamp: 
+    secs: 1611879473
+    nsecs: 586679426
+  frame_id: ''
+D: 0.61415286151
+delta: -0.12277839273
+dD: -0.00892035223276
+ddelta: -1.19660879363
+---
+header: 
+  seq: 524
+  stamp: 
+    secs: 1611879473
+    nsecs: 606665166
+  frame_id: ''
+D: 0.610036037753
+delta: -0.150325488051
+dD: -0.205841187838
+ddelta: -1.37735476605
+---
+header: 
+  seq: 525
+  stamp: 
+    secs: 1611879473
+    nsecs: 626661659
+  frame_id: ''
+D: 0.603016403686
+delta: -0.180729812572
+dD: -0.350981703375
+ddelta: -1.52021622603
+---
+header: 
+  seq: 526
+  stamp: 
+    secs: 1611879473
+    nsecs: 646659704
+  frame_id: ''
+D: 0.598560210815
+delta: -0.210210555362
+dD: -0.222809643527
+ddelta: -1.47403713948
+---
+header: 
+  seq: 527
+  stamp: 
+    secs: 1611879473
+    nsecs: 666669493
+  frame_id: ''
+D: 0.595589368943
+delta: -0.239175378398
+dD: -0.148542093619
+ddelta: -1.44824115184
+---
+header: 
+  seq: 528
+  stamp: 
+    secs: 1611879473
+    nsecs: 686658658
+  frame_id: ''
+D: 0.588281135449
+delta: -0.268802529788
+dD: -0.365411674697
+ddelta: -1.48135756947
+---
+header: 
+  seq: 529
+  stamp: 
+    secs: 1611879473
+    nsecs: 706655827
+  frame_id: ''
+D: 0.573610818371
+delta: -0.294709380686
+dD: -0.733515853918
+ddelta: -1.29534254492
+---
+header: 
+  seq: 530
+  stamp: 
+    secs: 1611879473
+    nsecs: 726655572
+  frame_id: ''
+D: 0.547267717732
+delta: -0.305589817392
+dD: -1.31715503194
+ddelta: -0.544021835279
+---
+header: 
+  seq: 531
+  stamp: 
+    secs: 1611879473
+    nsecs: 746667125
+  frame_id: ''
+D: 0.526078760213
+delta: -0.318176878311
+dD: -1.05944787595
+ddelta: -0.629353045961
+---
+header: 
+  seq: 532
+  stamp: 
+    secs: 1611879473
+    nsecs: 766661902
+  frame_id: ''
+D: 0.521721870857
+delta: -0.326558319776
+dD: -0.217844467794
+ddelta: -0.419072073263
+---
+header: 
+  seq: 533
+  stamp: 
+    secs: 1611879473
+    nsecs: 786658389
+  frame_id: ''
+D: 0.505642396086
+delta: -0.318561140861
+dD: -0.803973738557
+ddelta: 0.399858945763
+---
+header: 
+  seq: 534
+  stamp: 
+    secs: 1611879473
+    nsecs: 806665995
+  frame_id: ''
+D: 0.526369455487
+delta: -0.292296974277
+dD: 1.03635297008
+ddelta: 1.3132083292
+---
+header: 
+  seq: 535
+  stamp: 
+    secs: 1611879473
+    nsecs: 826660569
+  frame_id: ''
+D: 0.545986904022
+delta: -0.252296974312
+dD: 0.980872426751
+ddelta: 1.99999999823
+---
+header: 
+  seq: 536
+  stamp: 
+    secs: 1611879473
+    nsecs: 846658881
+  frame_id: ''
+D: 0.56408420081
+delta: -0.212297649915
+dD: 0.904864839354
+ddelta: 1.99996621986
+---
+header: 
+  seq: 537
+  stamp: 
+    secs: 1611879473
+    nsecs: 866666509
+  frame_id: ''
+D: 0.574850332351
+delta: -0.182737856433
+dD: 0.538306577088
+ddelta: 1.47798967411
+---
+header: 
+  seq: 538
+  stamp: 
+    secs: 1611879473
+    nsecs: 886659009
+  frame_id: ''
+D: 0.578990172854
+delta: -0.153895363546
+dD: 0.206992025123
+ddelta: 1.44212464436
+---
+header: 
+  seq: 539
+  stamp: 
+    secs: 1611879473
+    nsecs: 906662922
+  frame_id: ''
+D: 0.582101641453
+delta: -0.131058949275
+dD: 0.155573429957
+ddelta: 1.14182071356
+---
+header: 
+  seq: 540
+  stamp: 
+    secs: 1611879473
+    nsecs: 926664404
+  frame_id: ''
+D: 0.584847250185
+delta: -0.120980068883
+dD: 0.137280436626
+ddelta: 0.503944019598
+---
+header: 
+  seq: 541
+  stamp: 
+    secs: 1611879473
+    nsecs: 946660412
+  frame_id: ''
+D: 0.589284635431
+delta: -0.112549739543
+dD: 0.221869262265
+ddelta: 0.421516467011
+---
+header: 
+  seq: 542
+  stamp: 
+    secs: 1611879473
+    nsecs: 966668349
+  frame_id: ''
+D: 0.590788939275
+delta: -0.11017571019
+dD: 0.0752151922055
+ddelta: 0.118701467613
+---
+header: 
+  seq: 543
+  stamp: 
+    secs: 1611879473
+    nsecs: 986655945
+  frame_id: ''
+D: 0.589752173602
+delta: -0.107116784701
+dD: -0.0518382836564
+ddelta: 0.152946274474
+---
+header: 
+  seq: 544
+  stamp: 
+    secs: 1611879474
+    nsecs:   6658428
+  frame_id: ''
+D: 0.589827851412
+delta: -0.0971236050556
+dD: 0.0037838905117
+ddelta: 0.49965898226
+---
+header: 
+  seq: 545
+  stamp: 
+    secs: 1611879474
+    nsecs:  26668813
+  frame_id: ''
+D: 0.590426919555
+delta: -0.094744589869
+dD: 0.0299534071397
+ddelta: 0.118950759328
+---
+header: 
+  seq: 546
+  stamp: 
+    secs: 1611879474
+    nsecs:  46658228
+  frame_id: ''
+D: 0.589868097784
+delta: -0.114621388099
+dD: -0.0279410885537
+ddelta: -0.993839911477
+---
+header: 
+  seq: 547
+  stamp: 
+    secs: 1611879474
+    nsecs:  66656143
+  frame_id: ''
+D: 0.579367633384
+delta: -0.15273893525
+dD: -0.525023220001
+ddelta: -1.90587735757
+---
+header: 
+  seq: 548
+  stamp: 
+    secs: 1611879474
+    nsecs:  86690115
+  frame_id: ''
+D: 0.572047468191
+delta: -0.162687018079
+dD: -0.366008259628
+ddelta: -0.497404141434
+---
+header: 
+  seq: 549
+  stamp: 
+    secs: 1611879474
+    nsecs: 106661546
+  frame_id: ''
+D: 0.568309604237
+delta: -0.173016556919
+dD: -0.186893197716
+ddelta: -0.51647694203
+---
+header: 
+  seq: 550
+  stamp: 
+    secs: 1611879474
+    nsecs: 126657353
+  frame_id: ''
+D: 0.565803233428
+delta: -0.204761252754
+dD: -0.125318540433
+ddelta: -1.58723479174
+---
+header: 
+  seq: 551
+  stamp: 
+    secs: 1611879474
+    nsecs: 146666722
+  frame_id: ''
+D: 0.550987956822
+delta: -0.244761252753
+dD: -0.740763830317
+ddelta: -1.99999999995
+---
+header: 
+  seq: 552
+  stamp: 
+    secs: 1611879474
+    nsecs: 166656989
+  frame_id: ''
+D: 0.522543718232
+delta: -0.284761252753
+dD: -1.42221192947
+ddelta: -2.0
+---
+header: 
+  seq: 553
+  stamp: 
+    secs: 1611879474
+    nsecs: 186658794
+  frame_id: ''
+D: 0.503578599411
+delta: -0.303414986607
+dD: -0.948255941103
+ddelta: -0.932686692731
+---
+header: 
+  seq: 554
+  stamp: 
+    secs: 1611879474
+    nsecs: 206665523
+  frame_id: ''
+D: 0.492538889414
+delta: -0.310880370293
+dD: -0.55198549987
+ddelta: -0.373269184276
+---
+header: 
+  seq: 555
+  stamp: 
+    secs: 1611879474
+    nsecs: 226658916
+  frame_id: ''
+D: 0.486535041786
+delta: -0.321350263461
+dD: -0.300192381387
+ddelta: -0.523494658392
+---
+header: 
+  seq: 556
+  stamp: 
+    secs: 1611879474
+    nsecs: 246657583
+  frame_id: ''
+D: 0.480787907327
+delta: -0.319323321129
+dD: -0.287356722952
+ddelta: 0.101347116591
+---
+header: 
+  seq: 557
+  stamp: 
+    secs: 1611879474
+    nsecs: 266665823
+  frame_id: ''
+D: 0.471963082893
+delta: -0.318681887338
+dD: -0.441241221682
+ddelta: 0.0320716895475
+---
+header: 
+  seq: 558
+  stamp: 
+    secs: 1611879474
+    nsecs: 286654700
+  frame_id: ''
+D: 0.472667339674
+delta: -0.321447161535
+dD: 0.0352128390553
+ddelta: -0.138263709836
+---
+header: 
+  seq: 559
+  stamp: 
+    secs: 1611879474
+    nsecs: 306654935
+  frame_id: ''
+D: 0.481047550233
+delta: -0.324242666042
+dD: 0.419010527913
+ddelta: -0.139775225391
+---
+header: 
+  seq: 560
+  stamp: 
+    secs: 1611879474
+    nsecs: 326661670
+  frame_id: ''
+D: 0.497906255634
+delta: -0.3311520092
+dD: 0.842935270085
+ddelta: -0.345467157889
+---
+header: 
+  seq: 561
+  stamp: 
+    secs: 1611879474
+    nsecs: 346660722
+  frame_id: ''
+D: 0.505613368197
+delta: -0.316488822989
+dD: 0.385355628152
+ddelta: 0.733159310539
+---
+header: 
+  seq: 562
+  stamp: 
+    secs: 1611879474
+    nsecs: 366667773
+  frame_id: ''
+D: 0.515803481146
+delta: -0.306393618993
+dD: 0.509505647421
+ddelta: 0.504760199822
+---
+header: 
+  seq: 563
+  stamp: 
+    secs: 1611879474
+    nsecs: 386660040
+  frame_id: ''
+D: 0.523323639577
+delta: -0.302534846163
+dD: 0.376007921556
+ddelta: 0.19293864151
+---
+header: 
+  seq: 564
+  stamp: 
+    secs: 1611879474
+    nsecs: 406660506
+  frame_id: ''
+D: 0.533511408962
+delta: -0.304547649697
+dD: 0.509388469273
+ddelta: -0.100640176688
+---
+header: 
+  seq: 565
+  stamp: 
+    secs: 1611879474
+    nsecs: 426665614
+  frame_id: ''
+D: 0.541826504235
+delta: -0.299599046823
+dD: 0.415754763645
+ddelta: 0.247430143677
+---
+header: 
+  seq: 566
+  stamp: 
+    secs: 1611879474
+    nsecs: 446658100
+  frame_id: ''
+D: 0.544579490592
+delta: -0.293093426474
+dD: 0.137649317841
+ddelta: 0.325281017463
+---
+header: 
+  seq: 567
+  stamp: 
+    secs: 1611879474
+    nsecs: 466661379
+  frame_id: ''
+D: 0.544966627491
+delta: -0.288357326326
+dD: 0.0193568449483
+ddelta: 0.236805007384
+---
+header: 
+  seq: 568
+  stamp: 
+    secs: 1611879474
+    nsecs: 486665259
+  frame_id: ''
+D: 0.547970668244
+delta: -0.259839681962
+dD: 0.15020203762
+ddelta: 1.42588221822
+---
+header: 
+  seq: 569
+  stamp: 
+    secs: 1611879474
+    nsecs: 506657958
+  frame_id: ''
+D: 0.554926573868
+delta: -0.241889882764
+dD: 0.347795281219
+ddelta: 0.897489959861
+---
+header: 
+  seq: 570
+  stamp: 
+    secs: 1611879474
+    nsecs: 526658392
+  frame_id: ''
+D: 0.553826265931
+delta: -0.215705415238
+dD: -0.0550153968333
+ddelta: 1.30922337632
+---
+header: 
+  seq: 571
+  stamp: 
+    secs: 1611879474
+    nsecs: 546664647
+  frame_id: ''
+D: 0.553282053695
+delta: -0.184850671534
+dD: -0.0272106117946
+ddelta: 1.5427371852
+---
+header: 
+  seq: 572
+  stamp: 
+    secs: 1611879474
+    nsecs: 566656844
+  frame_id: ''
+D: 0.55288954325
+delta: -0.161872756885
+dD: -0.0196255222685
+ddelta: 1.14889573243
+---
+header: 
+  seq: 573
+  stamp: 
+    secs: 1611879474
+    nsecs: 586661597
+  frame_id: ''
+D: 0.555727603451
+delta: -0.14821172439
+dD: 0.141903010026
+ddelta: 0.683051624764
+---
+header: 
+  seq: 574
+  stamp: 
+    secs: 1611879474
+    nsecs: 606664063
+  frame_id: ''
+D: 0.555893821516
+delta: -0.126416037303
+dD: 0.00831090328128
+ddelta: 1.08978435433
+---
+header: 
+  seq: 575
+  stamp: 
+    secs: 1611879474
+    nsecs: 626656177
+  frame_id: ''
+D: 0.552463511738
+delta: -0.0984245706809
+dD: -0.171515488928
+ddelta: 1.39957333112
+---
+header: 
+  seq: 576
+  stamp: 
+    secs: 1611879474
+    nsecs: 646662123
+  frame_id: ''
+D: 0.549510028044
+delta: -0.071763943948
+dD: -0.147674184677
+ddelta: 1.33303133665
+---
+header: 
+  seq: 577
+  stamp: 
+    secs: 1611879474
+    nsecs: 666662937
+  frame_id: ''
+D: 0.550085466233
+delta: -0.049797065224
+dD: 0.0287719094259
+ddelta: 1.0983439362
+---
+header: 
+  seq: 578
+  stamp: 
+    secs: 1611879474
+    nsecs: 686654772
+  frame_id: ''
+D: 0.551763384743
+delta: -0.0324084835687
+dD: 0.0838959255369
+ddelta: 0.869429082765
+---
+header: 
+  seq: 579
+  stamp: 
+    secs: 1611879474
+    nsecs: 706668294
+  frame_id: ''
+D: 0.552391974806
+delta: -0.0106977619511
+dD: 0.0314295031285
+ddelta: 1.08553608088
+---
+header: 
+  seq: 580
+  stamp: 
+    secs: 1611879474
+    nsecs: 726657314
+  frame_id: ''
+D: 0.547178540913
+delta: 0.0133401960878
+dD: -0.260671694627
+ddelta: 1.20189790195
+---
+header: 
+  seq: 581
+  stamp: 
+    secs: 1611879474
+    nsecs: 746654236
+  frame_id: ''
+D: 0.54216093576
+delta: 0.0516019675713
+dD: -0.250880257687
+ddelta: 1.91308857418
+---
+header: 
+  seq: 582
+  stamp: 
+    secs: 1611879474
+    nsecs: 766663890
+  frame_id: ''
+D: 0.541745181027
+delta: 0.0762517834076
+dD: -0.0207877366062
+ddelta: 1.23249079181
+---
+header: 
+  seq: 583
+  stamp: 
+    secs: 1611879474
+    nsecs: 786661106
+  frame_id: ''
+D: 0.542708023094
+delta: 0.116251252548
+dD: 0.0481421033348
+ddelta: 1.99997345702
+---
+header: 
+  seq: 584
+  stamp: 
+    secs: 1611879474
+    nsecs: 806659478
+  frame_id: ''
+D: 0.53905869776
+delta: 0.146527637038
+dD: -0.182466266722
+ddelta: 1.5138192245
+---
+header: 
+  seq: 585
+  stamp: 
+    secs: 1611879474
+    nsecs: 826688474
+  frame_id: ''
+D: 0.527247713419
+delta: 0.186527637038
+dD: -0.590549217011
+ddelta: 1.99999999999
+---
+header: 
+  seq: 586
+  stamp: 
+    secs: 1611879474
+    nsecs: 846659802
+  frame_id: ''
+D: 0.517100168488
+delta: 0.2265276329
+dD: -0.507377246572
+ddelta: 1.99999979309
+---
+header: 
+  seq: 587
+  stamp: 
+    secs: 1611879474
+    nsecs: 866682306
+  frame_id: ''
+D: 0.505269055556
+delta: 0.2665276329
+dD: -0.591555646599
+ddelta: 1.99999999999
+---
+header: 
+  seq: 588
+  stamp: 
+    secs: 1611879474
+    nsecs: 886665600
+  frame_id: ''
+D: 0.49208324303
+delta: 0.295506917972
+dD: -0.659290626325
+ddelta: 1.44896425359
+---
+header: 
+  seq: 589
+  stamp: 
+    secs: 1611879474
+    nsecs: 906659153
+  frame_id: ''
+D: 0.485475780776
+delta: 0.303083047112
+dD: -0.330373112687
+ddelta: 0.378806457034
+---
+header: 
+  seq: 590
+  stamp: 
+    secs: 1611879474
+    nsecs: 926669876
+  frame_id: ''
+D: 0.47469922593
+delta: 0.307464870002
+dD: -0.538827742291
+ddelta: 0.219091144479
+---
+header: 
+  seq: 591
+  stamp: 
+    secs: 1611879474
+    nsecs: 946663461
+  frame_id: ''
+D: 0.466540283481
+delta: 0.319839960852
+dD: -0.407947122431
+ddelta: 0.618754542509
+---
+header: 
+  seq: 592
+  stamp: 
+    secs: 1611879474
+    nsecs: 966659821
+  frame_id: ''
+D: 0.468244162916
+delta: 0.322082750386
+dD: 0.0851939717364
+ddelta: 0.112139476714
+---
+header: 
+  seq: 593
+  stamp: 
+    secs: 1611879474
+    nsecs: 986669720
+  frame_id: ''
+D: 0.479244680709
+delta: 0.306086571957
+dD: 0.550025889659
+ddelta: -0.799808921461
+---
+header: 
+  seq: 594
+  stamp: 
+    secs: 1611879475
+    nsecs:   6657236
+  frame_id: ''
+D: 0.479594187048
+delta: 0.298039629864
+dD: 0.017475316925
+ddelta: -0.402347104656
+---
+header: 
+  seq: 595
+  stamp: 
+    secs: 1611879475
+    nsecs:  26659538
+  frame_id: ''
+D: 0.480535650505
+delta: 0.304829132645
+dD: 0.0470731728435
+ddelta: 0.339475139076
+---
+header: 
+  seq: 596
+  stamp: 
+    secs: 1611879475
+    nsecs:  46667866
+  frame_id: ''
+D: 0.496306359746
+delta: 0.293910307191
+dD: 0.788535462067
+ddelta: -0.545941272735
+---
+header: 
+  seq: 597
+  stamp: 
+    secs: 1611879475
+    nsecs:  66663276
+  frame_id: ''
+D: 0.510365446963
+delta: 0.287143686685
+dD: 0.702954360864
+ddelta: -0.338331025286
+---
+header: 
+  seq: 598
+  stamp: 
+    secs: 1611879475
+    nsecs:  86656039
+  frame_id: ''
+D: 0.522375170699
+delta: 0.256564988405
+dD: 0.60048618681
+ddelta: -1.52893491399
+---
+header: 
+  seq: 599
+  stamp: 
+    secs: 1611879475
+    nsecs: 106667110
+  frame_id: ''
+D: 0.524380998971
+delta: 0.239462210238
+dD: 0.100291413577
+ddelta: -0.855138908383
+---
+header: 
+  seq: 600
+  stamp: 
+    secs: 1611879475
+    nsecs: 126660815
+  frame_id: ''
+D: 0.524630603936
+delta: 0.239698900395
+dD: 0.0124802482367
+ddelta: 0.0118345078668
+---
+header: 
+  seq: 601
+  stamp: 
+    secs: 1611879475
+    nsecs: 146656494
+  frame_id: ''
+D: 0.52560691322
+delta: 0.241475062624
+dD: 0.0488154642269
+ddelta: 0.0888081114456
+---
+header: 
+  seq: 602
+  stamp: 
+    secs: 1611879475
+    nsecs: 166664608
+  frame_id: ''
+D: 0.527397374113
+delta: 0.23219369752
+dD: 0.0895230446156
+ddelta: -0.464068255213
+---
+header: 
+  seq: 603
+  stamp: 
+    secs: 1611879475
+    nsecs: 186661248
+  frame_id: ''
+D: 0.524891339203
+delta: 0.228941423423
+dD: -0.125301745475
+ddelta: -0.16261370483
+---
+header: 
+  seq: 604
+  stamp: 
+    secs: 1611879475
+    nsecs: 206658286
+  frame_id: ''
+D: 0.521284525851
+delta: 0.240667615923
+dD: -0.180340667621
+ddelta: 0.586309624977
+---
+header: 
+  seq: 605
+  stamp: 
+    secs: 1611879475
+    nsecs: 226667835
+  frame_id: ''
+D: 0.520007079857
+delta: 0.250954571338
+dD: -0.0638722996761
+ddelta: 0.51434777076
+---
+header: 
+  seq: 606
+  stamp: 
+    secs: 1611879475
+    nsecs: 246660909
+  frame_id: ''
+D: 0.52196312248
+delta: 0.260673084741
+dD: 0.0978021311285
+ddelta: 0.485925670184
+---
+header: 
+  seq: 607
+  stamp: 
+    secs: 1611879475
+    nsecs: 266659618
+  frame_id: ''
+D: 0.518120775962
+delta: 0.271242155668
+dD: -0.192117325868
+ddelta: 0.528453546311
+---
+header: 
+  seq: 608
+  stamp: 
+    secs: 1611879475
+    nsecs: 286667660
+  frame_id: ''
+D: 0.512760251528
+delta: 0.275027220488
+dD: -0.268026221705
+ddelta: 0.189253241039
+---
+header: 
+  seq: 609
+  stamp: 
+    secs: 1611879475
+    nsecs: 306658282
+  frame_id: ''
+D: 0.504912037436
+delta: 0.290283870529
+dD: -0.392410704604
+ddelta: 0.762832502049
+---
+header: 
+  seq: 610
+  stamp: 
+    secs: 1611879475
+    nsecs: 326659375
+  frame_id: ''
+D: 0.49671893697
+delta: 0.306916515738
+dD: -0.409655023286
+ddelta: 0.831632260417
+---
+header: 
+  seq: 611
+  stamp: 
+    secs: 1611879475
+    nsecs: 346659354
+  frame_id: ''
+D: 0.492631452557
+delta: 0.309864810382
+dD: -0.20437422066
+ddelta: 0.147414732192
+---
+header: 
+  seq: 612
+  stamp: 
+    secs: 1611879475
+    nsecs: 366667226
+  frame_id: ''
+D: 0.476590762418
+delta: 0.327729257109
+dD: -0.802034506971
+ddelta: 0.893222336366
+---
+header: 
+  seq: 613
+  stamp: 
+    secs: 1611879475
+    nsecs: 386660548
+  frame_id: ''
+D: 0.469763775084
+delta: 0.335124005495
+dD: -0.341349366704
+ddelta: 0.369737419289
+---
+header: 
+  seq: 614
+  stamp: 
+    secs: 1611879475
+    nsecs: 406655807
+  frame_id: ''
+D: 0.471259612959
+delta: 0.342291749351
+dD: 0.0747918937644
+ddelta: 0.358387192813
+---
+header: 
+  seq: 615
+  stamp: 
+    secs: 1611879475
+    nsecs: 426673039
+  frame_id: ''
+D: 0.475550310424
+delta: 0.34964134634
+dD: 0.214534873232
+ddelta: 0.367479849454
+---
+header: 
+  seq: 616
+  stamp: 
+    secs: 1611879475
+    nsecs: 446661420
+  frame_id: ''
+D: 0.478904217033
+delta: 0.349532148823
+dD: 0.167695330461
+ddelta: -0.00545987584328
+---
+header: 
+  seq: 617
+  stamp: 
+    secs: 1611879475
+    nsecs: 466660039
+  frame_id: ''
+D: 0.477902318115
+delta: 0.345941194104
+dD: -0.0500949458873
+ddelta: -0.179547735968
+---
+header: 
+  seq: 618
+  stamp: 
+    secs: 1611879475
+    nsecs: 486664009
+  frame_id: ''
+D: 0.484239641695
+delta: 0.340050255812
+dD: 0.316866178998
+ddelta: -0.294546914601
+---
+header: 
+  seq: 619
+  stamp: 
+    secs: 1611879475
+    nsecs: 506660490
+  frame_id: ''
+D: 0.489339100921
+delta: 0.344144546576
+dD: 0.254972961301
+ddelta: 0.204714538228
+---
+header: 
+  seq: 620
+  stamp: 
+    secs: 1611879475
+    nsecs: 526669170
+  frame_id: ''
+D: 0.503779450789
+delta: 0.339811347903
+dD: 0.722017493401
+ddelta: -0.216659933661
+---
+header: 
+  seq: 621
+  stamp: 
+    secs: 1611879475
+    nsecs: 546661867
+  frame_id: ''
+D: 0.508104522018
+delta: 0.333496379045
+dD: 0.216253561437
+ddelta: -0.315748442887
+---
+header: 
+  seq: 622
+  stamp: 
+    secs: 1611879475
+    nsecs: 566666230
+  frame_id: ''
+D: 0.507477943588
+delta: 0.33428666461
+dD: -0.0313289215063
+ddelta: 0.0395142782325
+---
+header: 
+  seq: 623
+  stamp: 
+    secs: 1611879475
+    nsecs: 586665294
+  frame_id: ''
+D: 0.511312858857
+delta: 0.341095326957
+dD: 0.191745763448
+ddelta: 0.340433117344
+---
+header: 
+  seq: 624
+  stamp: 
+    secs: 1611879475
+    nsecs: 606659683
+  frame_id: ''
+D: 0.506765970096
+delta: 0.354131514933
+dD: -0.227344438019
+ddelta: 0.651809398816
+---
+header: 
+  seq: 625
+  stamp: 
+    secs: 1611879475
+    nsecs: 626670902
+  frame_id: ''
+D: 0.514520687517
+delta: 0.350044046615
+dD: 0.387735871046
+ddelta: -0.204373415888
+---
+header: 
+  seq: 626
+  stamp: 
+    secs: 1611879475
+    nsecs: 646656846
+  frame_id: ''
+D: 0.511128639549
+delta: 0.34921388958
+dD: -0.169602398421
+ddelta: -0.0415078517537
+---
+header: 
+  seq: 627
+  stamp: 
+    secs: 1611879475
+    nsecs: 666658628
+  frame_id: ''
+D: 0.52786242903
+delta: 0.330286829602
+dD: 0.836689474073
+ddelta: -0.946352998908
+---
+header: 
+  seq: 628
+  stamp: 
+    secs: 1611879475
+    nsecs: 686666939
+  frame_id: ''
+D: 0.545444580024
+delta: 0.31157401667
+dD: 0.879107549671
+ddelta: -0.935640646621
+---
+header: 
+  seq: 629
+  stamp: 
+    secs: 1611879475
+    nsecs: 706661242
+  frame_id: ''
+D: 0.565417396136
+delta: 0.285098474469
+dD: 0.998640805624
+ddelta: -1.32377711006
+---
+header: 
+  seq: 630
+  stamp: 
+    secs: 1611879475
+    nsecs: 726658260
+  frame_id: ''
+D: 0.574813522427
+delta: 0.269705572507
+dD: 0.46980631453
+ddelta: -0.769645098085
+---
+header: 
+  seq: 631
+  stamp: 
+    secs: 1611879475
+    nsecs: 746661344
+  frame_id: ''
+D: 0.581115715558
+delta: 0.257432068531
+dD: 0.315109656553
+ddelta: -0.613675198774
+---
+header: 
+  seq: 632
+  stamp: 
+    secs: 1611879475
+    nsecs: 766655172
+  frame_id: ''
+D: 0.591546853182
+delta: 0.237326957897
+dD: 0.521556881222
+ddelta: -1.00525553174
+---
+header: 
+  seq: 633
+  stamp: 
+    secs: 1611879475
+    nsecs: 786660592
+  frame_id: ''
+D: 0.605970167728
+delta: 0.213994053246
+dD: 0.721165727283
+ddelta: -1.16664523254
+---
+header: 
+  seq: 634
+  stamp: 
+    secs: 1611879475
+    nsecs: 806658298
+  frame_id: ''
+D: 0.619073121685
+delta: 0.202155117047
+dD: 0.655147697842
+ddelta: -0.591946809941
+---
+header: 
+  seq: 635
+  stamp: 
+    secs: 1611879475
+    nsecs: 826665216
+  frame_id: ''
+D: 0.622841829974
+delta: 0.197572841884
+dD: 0.188435414474
+ddelta: -0.229113758146
+---
+header: 
+  seq: 636
+  stamp: 
+    secs: 1611879475
+    nsecs: 846660646
+  frame_id: ''
+D: 0.618791291469
+delta: 0.216723498136
+dD: -0.202526925255
+ddelta: 0.957532812593
+---
+header: 
+  seq: 637
+  stamp: 
+    secs: 1611879475
+    nsecs: 866659094
+  frame_id: ''
+D: 0.620412373921
+delta: 0.225648951352
+dD: 0.0810541226149
+ddelta: 0.446272660811
+---
+header: 
+  seq: 638
+  stamp: 
+    secs: 1611879475
+    nsecs: 886665402
+  frame_id: ''
+D: 0.628962526365
+delta: 0.210670533045
+dD: 0.427507622185
+ddelta: -0.748920915366
+---
+header: 
+  seq: 639
+  stamp: 
+    secs: 1611879475
+    nsecs: 906661275
+  frame_id: ''
+D: 0.63497829586
+delta: 0.19774027145
+dD: 0.300788474729
+ddelta: -0.646513079725
+---
+header: 
+  seq: 640
+  stamp: 
+    secs: 1611879475
+    nsecs: 926659679
+  frame_id: ''
+D: 0.634355078756
+delta: 0.192828848855
+dD: -0.0311608551862
+ddelta: -0.245571129789
+---
+header: 
+  seq: 641
+  stamp: 
+    secs: 1611879475
+    nsecs: 946665027
+  frame_id: ''
+D: 0.631794140268
+delta: 0.202829850928
+dD: -0.128046924392
+ddelta: 0.500050103688
+---
+header: 
+  seq: 642
+  stamp: 
+    secs: 1611879475
+    nsecs: 966659451
+  frame_id: ''
+D: 0.631305319024
+delta: 0.222600209418
+dD: -0.0244410622028
+ddelta: 0.988517924487
+---
+header: 
+  seq: 643
+  stamp: 
+    secs: 1611879475
+    nsecs: 986664143
+  frame_id: ''
+D: 0.632391106059
+delta: 0.24772372408
+dD: 0.0542893517261
+ddelta: 1.25617573309
+---
+header: 
+  seq: 644
+  stamp: 
+    secs: 1611879476
+    nsecs:   6662322
+  frame_id: ''
+D: 0.626465748619
+delta: 0.265489485923
+dD: -0.296267871963
+ddelta: 0.888288092145
+---
+header: 
+  seq: 645
+  stamp: 
+    secs: 1611879476
+    nsecs:  26659964
+  frame_id: ''
+D: 0.618349999801
+delta: 0.280127502495
+dD: -0.405787440923
+ddelta: 0.73190082861
+---
+header: 
+  seq: 646
+  stamp: 
+    secs: 1611879476
+    nsecs:  46659403
+  frame_id: ''
+D: 0.616464974766
+delta: 0.29180373155
+dD: -0.0942512517392
+ddelta: 0.583811452749
+---
+header: 
+  seq: 647
+  stamp: 
+    secs: 1611879476
+    nsecs:  66661974
+  frame_id: ''
+D: 0.62018530838
+delta: 0.293844089187
+dD: 0.186016680674
+ddelta: 0.102017881854
+---
+header: 
+  seq: 648
+  stamp: 
+    secs: 1611879476
+    nsecs:  86659206
+  frame_id: ''
+D: 0.623315891895
+delta: 0.293993141329
+dD: 0.156529175756
+ddelta: 0.00745260711717
+---
+header: 
+  seq: 649
+  stamp: 
+    secs: 1611879476
+    nsecs: 106680908
+  frame_id: ''
+D: 0.624781749726
+delta: 0.294373568304
+dD: 0.0732928915511
+ddelta: 0.0190213487312
+---
+header: 
+  seq: 650
+  stamp: 
+    secs: 1611879476
+    nsecs: 126684783
+  frame_id: ''
+D: 0.627524431418
+delta: 0.289530256232
+dD: 0.137134084592
+ddelta: -0.242165603592
+---
+header: 
+  seq: 651
+  stamp: 
+    secs: 1611879476
+    nsecs: 146654480
+  frame_id: ''
+D: 0.632266254342
+delta: 0.289469015948
+dD: 0.237091146242
+ddelta: -0.00306201420086
+---
+header: 
+  seq: 652
+  stamp: 
+    secs: 1611879476
+    nsecs: 166670780
+  frame_id: ''
+D: 0.640162584834
+delta: 0.288322573481
+dD: 0.394816524581
+ddelta: -0.0573221233379
+---
+header: 
+  seq: 653
+  stamp: 
+    secs: 1611879476
+    nsecs: 186656875
+  frame_id: ''
+D: 0.644619077736
+delta: 0.278813875309
+dD: 0.222824645092
+ddelta: -0.475434908608
+---
+header: 
+  seq: 654
+  stamp: 
+    secs: 1611879476
+    nsecs: 206660145
+  frame_id: ''
+D: 0.646721115901
+delta: 0.272184885761
+dD: 0.105101908264
+ddelta: -0.331449477422
+---
+header: 
+  seq: 655
+  stamp: 
+    secs: 1611879476
+    nsecs: 226665422
+  frame_id: ''
+D: 0.649691987718
+delta: 0.266617639492
+dD: 0.148543590838
+ddelta: -0.278362313451
+---
+header: 
+  seq: 656
+  stamp: 
+    secs: 1611879476
+    nsecs: 246655409
+  frame_id: ''
+D: 0.654107655076
+delta: 0.252540853617
+dD: 0.220783367908
+ddelta: -0.703839293713
+---
+header: 
+  seq: 657
+  stamp: 
+    secs: 1611879476
+    nsecs: 266655400
+  frame_id: ''
+D: 0.660759687666
+delta: 0.239842851729
+dD: 0.332601629514
+ddelta: -0.634900094404
+---
+header: 
+  seq: 658
+  stamp: 
+    secs: 1611879476
+    nsecs: 286665298
+  frame_id: ''
+D: 0.661023335306
+delta: 0.226690160877
+dD: 0.0131823819799
+ddelta: -0.657634542599
+---
+header: 
+  seq: 659
+  stamp: 
+    secs: 1611879476
+    nsecs: 306660045
+  frame_id: ''
+D: 0.66001572802
+delta: 0.207560459819
+dD: -0.050380364288
+ddelta: -0.956485052928
+---
+header: 
+  seq: 660
+  stamp: 
+    secs: 1611879476
+    nsecs: 326654449
+  frame_id: ''
+D: 0.659549699842
+delta: 0.181759104079
+dD: -0.0233014089116
+ddelta: -1.29006778699
+---
+header: 
+  seq: 661
+  stamp: 
+    secs: 1611879476
+    nsecs: 346663423
+  frame_id: ''
+D: 0.662942219828
+delta: 0.15885657374
+dD: 0.169625999305
+ddelta: -1.14512651696
+---
+header: 
+  seq: 662
+  stamp: 
+    secs: 1611879476
+    nsecs: 366655120
+  frame_id: ''
+D: 0.661681510199
+delta: 0.141245069586
+dD: -0.0630354814491
+ddelta: -0.880575207675
+---
+header: 
+  seq: 663
+  stamp: 
+    secs: 1611879476
+    nsecs: 386661953
+  frame_id: ''
+D: 0.655647019836
+delta: 0.11896403989
+dD: -0.301724518131
+ddelta: -1.11405148484
+---
+header: 
+  seq: 664
+  stamp: 
+    secs: 1611879476
+    nsecs: 406664851
+  frame_id: ''
+D: 0.651018013892
+delta: 0.109804752871
+dD: -0.23145029724
+ddelta: -0.457964350902
+---
+header: 
+  seq: 665
+  stamp: 
+    secs: 1611879476
+    nsecs: 426662394
+  frame_id: ''
+D: 0.648944867999
+delta: 0.0958953961577
+dD: -0.103657294647
+ddelta: -0.69546783569
+---
+header: 
+  seq: 666
+  stamp: 
+    secs: 1611879476
+    nsecs: 446669926
+  frame_id: ''
+D: 0.647644433753
+delta: 0.0558953967997
+dD: -0.0650217122713
+ddelta: -1.9999999679
+---
+header: 
+  seq: 667
+  stamp: 
+    secs: 1611879476
+    nsecs: 466657753
+  frame_id: ''
+D: 0.633538846599
+delta: 0.0158953967997
+dD: -0.705279357695
+ddelta: -2.0
+---
+header: 
+  seq: 668
+  stamp: 
+    secs: 1611879476
+    nsecs: 486656463
+  frame_id: ''
+D: 0.617294480067
+delta: -0.0241046031943
+dD: -0.81221832664
+ddelta: -1.9999999997
+---
+header: 
+  seq: 669
+  stamp: 
+    secs: 1611879476
+    nsecs: 506669438
+  frame_id: ''
+D: 0.604233828045
+delta: -0.0641046031943
+dD: -0.653032601073
+ddelta: -2.0
+---
+header: 
+  seq: 670
+  stamp: 
+    secs: 1611879476
+    nsecs: 526655363
+  frame_id: ''
+D: 0.597053572845
+delta: -0.104104603194
+dD: -0.359012759997
+ddelta: -2.0
+---
+header: 
+  seq: 671
+  stamp: 
+    secs: 1611879476
+    nsecs: 546653199
+  frame_id: ''
+D: 0.59293129962
+delta: -0.144104603192
+dD: -0.206113661239
+ddelta: -1.99999999991
+---
+header: 
+  seq: 672
+  stamp: 
+    secs: 1611879476
+    nsecs: 566663766
+  frame_id: ''
+D: 0.582407372564
+delta: -0.184104603191
+dD: -0.526196352825
+ddelta: -1.99999999993
+---
+header: 
+  seq: 673
+  stamp: 
+    secs: 1611879476
+    nsecs: 586662366
+  frame_id: ''
+D: 0.570323875172
+delta: -0.224104603191
+dD: -0.604174869596
+ddelta: -2.0
+---
+header: 
+  seq: 674
+  stamp: 
+    secs: 1611879476
+    nsecs: 606660254
+  frame_id: ''
+D: 0.558591694495
+delta: -0.264104601556
+dD: -0.586609033822
+ddelta: -1.99999991838
+---
+header: 
+  seq: 675
+  stamp: 
+    secs: 1611879476
+    nsecs: 626664674
+  frame_id: ''
+D: 0.549286165637
+delta: -0.304104601556
+dD: -0.465276442941
+ddelta: -1.99999999997
+---
+header: 
+  seq: 676
+  stamp: 
+    secs: 1611879476
+    nsecs: 646660743
+  frame_id: ''
+D: 0.536506628881
+delta: -0.335796518248
+dD: -0.63897683776
+ddelta: -1.58459583462
+---
+header: 
+  seq: 677
+  stamp: 
+    secs: 1611879476
+    nsecs: 666660866
+  frame_id: ''
+D: 0.527840373362
+delta: -0.336818490209
+dD: -0.43331277598
+ddelta: -0.0510985980104
+---
+header: 
+  seq: 678
+  stamp: 
+    secs: 1611879476
+    nsecs: 686663249
+  frame_id: ''
+D: 0.524656158363
+delta: -0.338077127906
+dD: -0.159210749954
+ddelta: -0.0629318848633
+---
+header: 
+  seq: 679
+  stamp: 
+    secs: 1611879476
+    nsecs: 706655111
+  frame_id: ''
+D: 0.519320071076
+delta: -0.342309104596
+dD: -0.266804364336
+ddelta: -0.21159883489
+---
+header: 
+  seq: 680
+  stamp: 
+    secs: 1611879476
+    nsecs: 726660414
+  frame_id: ''
+D: 0.551474783675
+delta: -0.307212880084
+dD: 1.60773562995
+ddelta: 1.75481122561
+---
+header: 
+  seq: 681
+  stamp: 
+    secs: 1611879476
+    nsecs: 746668629
+  frame_id: ''
+D: 0.56859797193
+delta: -0.291535524282
+dD: 0.856159412744
+ddelta: 0.78386779012
+---
+header: 
+  seq: 682
+  stamp: 
+    secs: 1611879476
+    nsecs: 766654402
+  frame_id: ''
+D: 0.57334952221
+delta: -0.298544505957
+dD: 0.23757751403
+ddelta: -0.350449083765
+---
+header: 
+  seq: 683
+  stamp: 
+    secs: 1611879476
+    nsecs: 786657366
+  frame_id: ''
+D: 0.571179955156
+delta: -0.312537446365
+dD: -0.108478352704
+ddelta: -0.69964702038
+---
+header: 
+  seq: 684
+  stamp: 
+    secs: 1611879476
+    nsecs: 806660684
+  frame_id: ''
+D: 0.567962176029
+delta: -0.335185305568
+dD: -0.160888956374
+ddelta: -1.13239296015
+---
+header: 
+  seq: 685
+  stamp: 
+    secs: 1611879476
+    nsecs: 826655354
+  frame_id: ''
+D: 0.563324595066
+delta: -0.33732043982
+dD: -0.231879048113
+ddelta: -0.106756712609
+---
+header: 
+  seq: 686
+  stamp: 
+    secs: 1611879476
+    nsecs: 846664385
+  frame_id: ''
+D: 0.566439023838
+delta: -0.330450739933
+dD: 0.155721438584
+ddelta: 0.343484994308
+---
+header: 
+  seq: 687
+  stamp: 
+    secs: 1611879476
+    nsecs: 866663389
+  frame_id: ''
+D: 0.580085132631
+delta: -0.290450741165
+dD: 0.682305439659
+ddelta: 1.99999993844
+---
+header: 
+  seq: 688
+  stamp: 
+    secs: 1611879476
+    nsecs: 886660689
+  frame_id: ''
+D: 0.5903064458
+delta: -0.273062441037
+dD: 0.511065658457
+ddelta: 0.869415006399
+---
+header: 
+  seq: 689
+  stamp: 
+    secs: 1611879476
+    nsecs: 906669008
+  frame_id: ''
+D: 0.601152063886
+delta: -0.263074639118
+dD: 0.542280904259
+ddelta: 0.499390095921
+---
+header: 
+  seq: 690
+  stamp: 
+    secs: 1611879476
+    nsecs: 926662736
+  frame_id: ''
+D: 0.604126290487
+delta: -0.259958508116
+dD: 0.148711330052
+ddelta: 0.15580655012
+---
+header: 
+  seq: 691
+  stamp: 
+    secs: 1611879476
+    nsecs: 946661067
+  frame_id: ''
+D: 0.602666685012
+delta: -0.257643701729
+dD: -0.0729802737558
+ddelta: 0.115740319333
+---
+header: 
+  seq: 692
+  stamp: 
+    secs: 1611879476
+    nsecs: 966668080
+  frame_id: ''
+D: 0.600568426972
+delta: -0.252365944606
+dD: -0.104912901982
+ddelta: 0.263887856156
+---
+header: 
+  seq: 693
+  stamp: 
+    secs: 1611879476
+    nsecs: 986661747
+  frame_id: ''
+D: 0.598613342549
+delta: -0.263155057857
+dD: -0.0977542211643
+ddelta: -0.539455662551
+---
+header: 
+  seq: 694
+  stamp: 
+    secs: 1611879477
+    nsecs:   6653934
+  frame_id: ''
+D: 0.603111027604
+delta: -0.261604070929
+dD: 0.224884252797
+ddelta: 0.0775493464071
+---
+header: 
+  seq: 695
+  stamp: 
+    secs: 1611879477
+    nsecs:  26659395
+  frame_id: ''
+D: 0.600467574352
+delta: -0.261203308521
+dD: -0.132172662637
+ddelta: 0.0200381203979
+---
+header: 
+  seq: 696
+  stamp: 
+    secs: 1611879477
+    nsecs:  46660141
+  frame_id: ''
+D: 0.593411022786
+delta: -0.268811820737
+dD: -0.352827578301
+ddelta: -0.380425610803
+---
+header: 
+  seq: 697
+  stamp: 
+    secs: 1611879477
+    nsecs:  66659696
+  frame_id: ''
+D: 0.586543663501
+delta: -0.282496519425
+dD: -0.343367964244
+ddelta: -0.684234934367
+---
+header: 
+  seq: 698
+  stamp: 
+    secs: 1611879477
+    nsecs:  86668269
+  frame_id: ''
+D: 0.580649680529
+delta: -0.301865708293
+dD: -0.294699148614
+ddelta: -0.968459443397
+---
+header: 
+  seq: 699
+  stamp: 
+    secs: 1611879477
+    nsecs: 106662201
+  frame_id: ''
+D: 0.585785407625
+delta: -0.289528367817
+dD: 0.256786354846
+ddelta: 0.616867023801
+---
+header: 
+  seq: 700
+  stamp: 
+    secs: 1611879477
+    nsecs: 126657255
+  frame_id: ''
+D: 0.583696247214
+delta: -0.296435309204
+dD: -0.104458020569
+ddelta: -0.345347069358
+---
+header: 
+  seq: 701
+  stamp: 
+    secs: 1611879477
+    nsecs: 146669608
+  frame_id: ''
+D: 0.578039884531
+delta: -0.307965050685
+dD: -0.282818134137
+ddelta: -0.57648707408
+---
+header: 
+  seq: 702
+  stamp: 
+    secs: 1611879477
+    nsecs: 166660075
+  frame_id: ''
+D: 0.570579568113
+delta: -0.322253461444
+dD: -0.373015820917
+ddelta: -0.714420537919
+---
+header: 
+  seq: 703
+  stamp: 
+    secs: 1611879477
+    nsecs: 186660072
+  frame_id: ''
+D: 0.562518996522
+delta: -0.338793668688
+dD: -0.403028579551
+ddelta: -0.827010362232
+---
+header: 
+  seq: 704
+  stamp: 
+    secs: 1611879477
+    nsecs: 206688041
+  frame_id: ''
+D: 0.54725278067
+delta: -0.348525056887
+dD: -0.763310792583
+ddelta: -0.486569409942
+---
+header: 
+  seq: 705
+  stamp: 
+    secs: 1611879477
+    nsecs: 226658882
+  frame_id: ''
+D: 0.529210829785
+delta: -0.352647467682
+dD: -0.902097544243
+ddelta: -0.206120539741
+---
+header: 
+  seq: 706
+  stamp: 
+    secs: 1611879477
+    nsecs: 246653503
+  frame_id: ''
+D: 0.519506172827
+delta: -0.358905555415
+dD: -0.485232847919
+ddelta: -0.312904386652
+---
+header: 
+  seq: 707
+  stamp: 
+    secs: 1611879477
+    nsecs: 266669989
+  frame_id: ''
+D: 0.517203684301
+delta: -0.360095501997
+dD: -0.115124426286
+ddelta: -0.0594973290881
+---
+header: 
+  seq: 708
+  stamp: 
+    secs: 1611879477
+    nsecs: 286656447
+  frame_id: ''
+D: 0.518637585549
+delta: -0.365037691209
+dD: 0.0716950623732
+ddelta: -0.247109460599
+---
+header: 
+  seq: 709
+  stamp: 
+    secs: 1611879477
+    nsecs: 306653678
+  frame_id: ''
+D: 0.515936926675
+delta: -0.360693166687
+dD: -0.135032943671
+ddelta: 0.217226226108
+---
+header: 
+  seq: 710
+  stamp: 
+    secs: 1611879477
+    nsecs: 326666272
+  frame_id: ''
+D: 0.514785605843
+delta: -0.355761277181
+dD: -0.057566041635
+ddelta: 0.246594475287
+---
+header: 
+  seq: 711
+  stamp: 
+    secs: 1611879477
+    nsecs: 346660450
+  frame_id: ''
+D: 0.516230692475
+delta: -0.356812435792
+dD: 0.0722543316176
+ddelta: -0.0525579305771
+---
+header: 
+  seq: 712
+  stamp: 
+    secs: 1611879477
+    nsecs: 366660508
+  frame_id: ''
+D: 0.526370624741
+delta: -0.355992456224
+dD: 0.506996613286
+ddelta: 0.0409989784259
+---
+header: 
+  seq: 713
+  stamp: 
+    secs: 1611879477
+    nsecs: 386663714
+  frame_id: ''
+D: 0.532045670438
+delta: -0.349377214608
+dD: 0.283752284856
+ddelta: 0.330762080773
+---
+header: 
+  seq: 714
+  stamp: 
+    secs: 1611879477
+    nsecs: 406661033
+  frame_id: ''
+D: 0.533913648455
+delta: -0.34097477562
+dD: 0.0933989008547
+ddelta: 0.420121949436
+---
+header: 
+  seq: 715
+  stamp: 
+    secs: 1611879477
+    nsecs: 426657837
+  frame_id: ''
+D: 0.536838479141
+delta: -0.338872898092
+dD: 0.146241534292
+ddelta: 0.105093876398
+---
+header: 
+  seq: 716
+  stamp: 
+    secs: 1611879477
+    nsecs: 446667396
+  frame_id: ''
+D: 0.546574654989
+delta: -0.340728149096
+dD: 0.486808792408
+ddelta: -0.0927625501995
+---
+header: 
+  seq: 717
+  stamp: 
+    secs: 1611879477
+    nsecs: 466663721
+  frame_id: ''
+D: 0.550738982204
+delta: -0.341685896029
+dD: 0.208216360749
+ddelta: -0.0478873466755
+---
+header: 
+  seq: 718
+  stamp: 
+    secs: 1611879477
+    nsecs: 486662021
+  frame_id: ''
+D: 0.558987951101
+delta: -0.326952145635
+dD: 0.41244844483
+ddelta: 0.736687519715
+---
+header: 
+  seq: 719
+  stamp: 
+    secs: 1611879477
+    nsecs: 506670146
+  frame_id: ''
+D: 0.564902749865
+delta: -0.321220171963
+dD: 0.29573993822
+ddelta: 0.286598683601
+---
+header: 
+  seq: 720
+  stamp: 
+    secs: 1611879477
+    nsecs: 526660925
+  frame_id: ''
+D: 0.576208764148
+delta: -0.313904786112
+dD: 0.565300714158
+ddelta: 0.365769292545
+---
+header: 
+  seq: 721
+  stamp: 
+    secs: 1611879477
+    nsecs: 546659838
+  frame_id: ''
+D: 0.578623880425
+delta: -0.32599327984
+dD: 0.120755813839
+ddelta: -0.604424686396
+---
+header: 
+  seq: 722
+  stamp: 
+    secs: 1611879477
+    nsecs: 566659547
+  frame_id: ''
+D: 0.580947622666
+delta: -0.330837396034
+dD: 0.116187112065
+ddelta: -0.242205809716
+---
+header: 
+  seq: 723
+  stamp: 
+    secs: 1611879477
+    nsecs: 586658777
+  frame_id: ''
+D: 0.595108373797
+delta: -0.31166014642
+dD: 0.708037556526
+ddelta: 0.958862480696
+---
+header: 
+  seq: 724
+  stamp: 
+    secs: 1611879477
+    nsecs: 606656889
+  frame_id: ''
+D: 0.609130036222
+delta: -0.296196749334
+dD: 0.701083121282
+ddelta: 0.773169854338
+---
+header: 
+  seq: 725
+  stamp: 
+    secs: 1611879477
+    nsecs: 626656328
+  frame_id: ''
+D: 0.626698618315
+delta: -0.270274240479
+dD: 0.878429104624
+ddelta: 1.29612544273
+---
+header: 
+  seq: 726
+  stamp: 
+    secs: 1611879477
+    nsecs: 646663443
+  frame_id: ''
+D: 0.642233787301
+delta: -0.25126265285
+dD: 0.776758449327
+ddelta: 0.950579381455
+---
+header: 
+  seq: 727
+  stamp: 
+    secs: 1611879477
+    nsecs: 666660258
+  frame_id: ''
+D: 0.652697139319
+delta: -0.233454752963
+dD: 0.523167600874
+ddelta: 0.89039499435
+---
+header: 
+  seq: 728
+  stamp: 
+    secs: 1611879477
+    nsecs: 686662257
+  frame_id: ''
+D: 0.658550830436
+delta: -0.2140439905
+dD: 0.292684555846
+ddelta: 0.970538123137
+---
+header: 
+  seq: 729
+  stamp: 
+    secs: 1611879477
+    nsecs: 706662584
+  frame_id: ''
+D: 0.66243532232
+delta: -0.207378887704
+dD: 0.194224594209
+ddelta: 0.333255139826
+---
+header: 
+  seq: 730
+  stamp: 
+    secs: 1611879477
+    nsecs: 726658875
+  frame_id: ''
+D: 0.668135961101
+delta: -0.199122718125
+dD: 0.28503193907
+ddelta: 0.412808478901
+---
+header: 
+  seq: 731
+  stamp: 
+    secs: 1611879477
+    nsecs: 746663400
+  frame_id: ''
+D: 0.674777874145
+delta: -0.188972754651
+dD: 0.332095652181
+ddelta: 0.507498173717
+---
+header: 
+  seq: 732
+  stamp: 
+    secs: 1611879477
+    nsecs: 766661615
+  frame_id: ''
+D: 0.676860040615
+delta: -0.16051565037
+dD: 0.104108323493
+ddelta: 1.42285521404
+---
+header: 
+  seq: 733
+  stamp: 
+    secs: 1611879477
+    nsecs: 786656013
+  frame_id: ''
+D: 0.674934815444
+delta: -0.157036456143
+dD: -0.096261258556
+ddelta: 0.173959711345
+---
+header: 
+  seq: 734
+  stamp: 
+    secs: 1611879477
+    nsecs: 806669701
+  frame_id: ''
+D: 0.672210230033
+delta: -0.161897859534
+dD: -0.136229270543
+ddelta: -0.24307016954
+---
+header: 
+  seq: 735
+  stamp: 
+    secs: 1611879477
+    nsecs: 826661410
+  frame_id: ''
+D: 0.669886891201
+delta: -0.17032078215
+dD: -0.116166941614
+ddelta: -0.421146130762
+---
+header: 
+  seq: 736
+  stamp: 
+    secs: 1611879477
+    nsecs: 846658931
+  frame_id: ''
+D: 0.665687046458
+delta: -0.188361701248
+dD: -0.209992237121
+ddelta: -0.902045954936
+---
+header: 
+  seq: 737
+  stamp: 
+    secs: 1611879477
+    nsecs: 866665718
+  frame_id: ''
+D: 0.657839401369
+delta: -0.209673259066
+dD: -0.392382254474
+ddelta: -1.06557789091
+---
+header: 
+  seq: 738
+  stamp: 
+    secs: 1611879477
+    nsecs: 886659049
+  frame_id: ''
+D: 0.648477483792
+delta: -0.235067114137
+dD: -0.468095878822
+ddelta: -1.26969275351
+---
+header: 
+  seq: 739
+  stamp: 
+    secs: 1611879477
+    nsecs: 906660591
+  frame_id: ''
+D: 0.639633356911
+delta: -0.261448986275
+dD: -0.442206344078
+ddelta: -1.31909360691
+---
+header: 
+  seq: 740
+  stamp: 
+    secs: 1611879477
+    nsecs: 926664555
+  frame_id: ''
+D: 0.635877206536
+delta: -0.274110289248
+dD: -0.187807518723
+ddelta: -0.633065148662
+---
+header: 
+  seq: 741
+  stamp: 
+    secs: 1611879477
+    nsecs: 946663351
+  frame_id: ''
+D: 0.627393719279
+delta: -0.275759909646
+dD: -0.424174362854
+ddelta: -0.0824810199144
+---
+header: 
+  seq: 742
+  stamp: 
+    secs: 1611879477
+    nsecs: 966680135
+  frame_id: ''
+D: 0.616579886359
+delta: -0.279001663137
+dD: -0.540691645985
+ddelta: -0.162087674525
+---
+header: 
+  seq: 743
+  stamp: 
+    secs: 1611879477
+    nsecs: 986660272
+  frame_id: ''
+D: 0.607603105465
+delta: -0.28526591429
+dD: -0.448839044736
+ddelta: -0.313212557645
+---
+header: 
+  seq: 744
+  stamp: 
+    secs: 1611879478
+    nsecs:   6659712
+  frame_id: ''
+D: 0.607780865071
+delta: -0.279089844369
+dD: 0.008887980291
+ddelta: 0.308803496049
+---
+header: 
+  seq: 745
+  stamp: 
+    secs: 1611879478
+    nsecs:  26686480
+  frame_id: ''
+D: 0.610947293814
+delta: -0.280476450598
+dD: 0.15832143719
+ddelta: -0.0693303114581
+---
+header: 
+  seq: 746
+  stamp: 
+    secs: 1611879478
+    nsecs:  46655039
+  frame_id: ''
+D: 0.609301959971
+delta: -0.276569446818
+dD: -0.0822666921478
+ddelta: 0.195350189011
+---
+header: 
+  seq: 747
+  stamp: 
+    secs: 1611879478
+    nsecs:  66655978
+  frame_id: ''
+D: 0.608416086701
+delta: -0.271723917426
+dD: -0.0442936635101
+ddelta: 0.242276469591
+---
+header: 
+  seq: 748
+  stamp: 
+    secs: 1611879478
+    nsecs:  86663246
+  frame_id: ''
+D: 0.610294973522
+delta: -0.267954596578
+dD: 0.0939443410264
+ddelta: 0.188466042379
+---
+header: 
+  seq: 749
+  stamp: 
+    secs: 1611879478
+    nsecs: 106656980
+  frame_id: ''
+D: 0.61383953247
+delta: -0.266558182949
+dD: 0.177227947413
+ddelta: 0.0698206814782
+---
+header: 
+  seq: 750
+  stamp: 
+    secs: 1611879478
+    nsecs: 126656137
+  frame_id: ''
+D: 0.614241802516
+delta: -0.265628193866
+dD: 0.0201135022775
+ddelta: 0.0464994541505
+---
+header: 
+  seq: 751
+  stamp: 
+    secs: 1611879478
+    nsecs: 146664797
+  frame_id: ''
+D: 0.612433450093
+delta: -0.259915730497
+dD: -0.0904176211026
+ddelta: 0.285623168449
+---
+header: 
+  seq: 752
+  stamp: 
+    secs: 1611879478
+    nsecs: 166655819
+  frame_id: ''
+D: 0.610972468933
+delta: -0.252170461165
+dD: -0.0730490580291
+ddelta: 0.387263466604
+---
+header: 
+  seq: 753
+  stamp: 
+    secs: 1611879478
+    nsecs: 186659273
+  frame_id: ''
+D: 0.612540660301
+delta: -0.247473532824
+dD: 0.0784095683818
+ddelta: 0.234846417013
+---
+header: 
+  seq: 754
+  stamp: 
+    secs: 1611879478
+    nsecs: 206669113
+  frame_id: ''
+D: 0.615195896253
+delta: -0.237966502003
+dD: 0.13276179761
+ddelta: 0.475351541084
+---
+header: 
+  seq: 755
+  stamp: 
+    secs: 1611879478
+    nsecs: 226656547
+  frame_id: ''
+D: 0.615612248761
+delta: -0.222794632839
+dD: 0.0208176254034
+ddelta: 0.758593458211
+---
+header: 
+  seq: 756
+  stamp: 
+    secs: 1611879478
+    nsecs: 246674678
+  frame_id: ''
+D: 0.612764147664
+delta: -0.182794632839
+dD: -0.14240505482
+ddelta: 1.99999999997
+---
+header: 
+  seq: 757
+  stamp: 
+    secs: 1611879478
+    nsecs: 266659776
+  frame_id: ''
+D: 0.611933870965
+delta: -0.142794720062
+dD: -0.0415138349679
+ddelta: 1.99999563886
+---
+header: 
+  seq: 758
+  stamp: 
+    secs: 1611879478
+    nsecs: 286657213
+  frame_id: ''
+D: 0.615410689493
+delta: -0.111240759831
+dD: 0.173840926391
+ddelta: 1.57769801156
+---
+header: 
+  seq: 759
+  stamp: 
+    secs: 1611879478
+    nsecs: 306653162
+  frame_id: ''
+D: 0.616378105369
+delta: -0.0901338788355
+dD: 0.0483707937918
+ddelta: 1.05534404977
+---
+header: 
+  seq: 760
+  stamp: 
+    secs: 1611879478
+    nsecs: 326660839
+  frame_id: ''
+D: 0.615377732516
+delta: -0.0777082030074
+dD: -0.0500186426241
+ddelta: 0.6212837914
+---
+header: 
+  seq: 761
+  stamp: 
+    secs: 1611879478
+    nsecs: 346659125
+  frame_id: ''
+D: 0.615692257201
+delta: -0.0715781617579
+dD: 0.0157262342182
+ddelta: 0.306502062476
+---
+header: 
+  seq: 762
+  stamp: 
+    secs: 1611879478
+    nsecs: 366656246
+  frame_id: ''
+D: 0.619685415547
+delta: -0.0684543542085
+dD: 0.199657917303
+ddelta: 0.156190377474
+---
+header: 
+  seq: 763
+  stamp: 
+    secs: 1611879478
+    nsecs: 386658616
+  frame_id: ''
+D: 0.625634915248
+delta: -0.0660541475113
+dD: 0.29747498505
+ddelta: 0.120010334856
+---
+header: 
+  seq: 764
+  stamp: 
+    secs: 1611879478
+    nsecs: 406661099
+  frame_id: ''
+D: 0.629593365452
+delta: -0.0554345529037
+dD: 0.197922510212
+ddelta: 0.53097973038
+---
+header: 
+  seq: 765
+  stamp: 
+    secs: 1611879478
+    nsecs: 426667745
+  frame_id: ''
+D: 0.628651268305
+delta: -0.0425746088043
+dD: -0.0471048573476
+ddelta: 0.642997204973
+---
+header: 
+  seq: 766
+  stamp: 
+    secs: 1611879478
+    nsecs: 446663242
+  frame_id: ''
+D: 0.629399667815
+delta: -0.0372028508593
+dD: 0.0374199755028
+ddelta: 0.268587897246
+---
+header: 
+  seq: 767
+  stamp: 
+    secs: 1611879478
+    nsecs: 466659841
+  frame_id: ''
+D: 0.629397817587
+delta: -0.0351686809393
+dD: -9.25113945971e-05
+ddelta: 0.101708496002
+---
+header: 
+  seq: 768
+  stamp: 
+    secs: 1611879478
+    nsecs: 486679960
+  frame_id: ''
+D: 0.631761889845
+delta: -0.0189168754688
+dD: 0.118203612901
+ddelta: 0.812590273526
+---
+header: 
+  seq: 769
+  stamp: 
+    secs: 1611879478
+    nsecs: 506663085
+  frame_id: ''
+D: 0.62720947571
+delta: 0.00763458546084
+dD: -0.22762070674
+ddelta: 1.32757304648
+---
+header: 
+  seq: 770
+  stamp: 
+    secs: 1611879478
+    nsecs: 526661439
+  frame_id: ''
+D: 0.623447679532
+delta: 0.0170734934078
+dD: -0.188089808894
+ddelta: 0.471945397347
+---
+header: 
+  seq: 771
+  stamp: 
+    secs: 1611879478
+    nsecs: 546679544
+  frame_id: ''
+D: 0.623893731965
+delta: 0.0258560884452
+dD: 0.0223026216398
+ddelta: 0.439129751873
+---
+header: 
+  seq: 772
+  stamp: 
+    secs: 1611879478
+    nsecs: 566681936
+  frame_id: ''
+D: 0.624784395404
+delta: 0.0277545021446
+dD: 0.0445331719282
+ddelta: 0.0949206849669
+---
+header: 
+  seq: 773
+  stamp: 
+    secs: 1611879478
+    nsecs: 586655047
+  frame_id: ''
+D: 0.62414610524
+delta: 0.0465526869453
+dD: -0.0319145082018
+ddelta: 0.939909240038
+---
+header: 
+  seq: 774
+  stamp: 
+    secs: 1611879478
+    nsecs: 606662574
+  frame_id: ''
+D: 0.620587663716
+delta: 0.0633203945501
+dD: -0.177922076197
+ddelta: 0.838385380236
+---
+header: 
+  seq: 775
+  stamp: 
+    secs: 1611879478
+    nsecs: 626658898
+  frame_id: ''
+D: 0.619336442851
+delta: 0.0669027466207
+dD: -0.0625610432598
+ddelta: 0.179117603534
+---
+header: 
+  seq: 776
+  stamp: 
+    secs: 1611879478
+    nsecs: 646660515
+  frame_id: ''
+D: 0.618447687558
+delta: 0.0756479819306
+dD: -0.044437764621
+ddelta: 0.437261765492
+---
+header: 
+  seq: 777
+  stamp: 
+    secs: 1611879478
+    nsecs: 666661838
+  frame_id: ''
+D: 0.620585592131
+delta: 0.0793982774371
+dD: 0.106895228622
+ddelta: 0.187514775325
+---
+header: 
+  seq: 778
+  stamp: 
+    secs: 1611879478
+    nsecs: 686660020
+  frame_id: ''
+D: 0.6165764447
+delta: 0.0835717410637
+dD: -0.200457371521
+ddelta: 0.208673181332
+---
+header: 
+  seq: 779
+  stamp: 
+    secs: 1611879478
+    nsecs: 706664041
+  frame_id: ''
+D: 0.611650153042
+delta: 0.0981615836722
+dD: -0.246314582919
+ddelta: 0.729492130425
+---
+header: 
+  seq: 780
+  stamp: 
+    secs: 1611879478
+    nsecs: 726659041
+  frame_id: ''
+D: 0.60879730101
+delta: 0.107254216034
+dD: -0.142642601568
+ddelta: 0.454631618069
+---
+header: 
+  seq: 781
+  stamp: 
+    secs: 1611879478
+    nsecs: 746658822
+  frame_id: ''
+D: 0.60888746727
+delta: 0.11399190826
+dD: 0.00450831297538
+ddelta: 0.3368846113
+---
+header: 
+  seq: 782
+  stamp: 
+    secs: 1611879478
+    nsecs: 766669116
+  frame_id: ''
+D: 0.614095049377
+delta: 0.119820211196
+dD: 0.260379105364
+ddelta: 0.291415146818
+---
+header: 
+  seq: 783
+  stamp: 
+    secs: 1611879478
+    nsecs: 786658041
+  frame_id: ''
+D: 0.6103828786
+delta: 0.125550335741
+dD: -0.18560853885
+ddelta: 0.28650622723
+---
+header: 
+  seq: 784
+  stamp: 
+    secs: 1611879478
+    nsecs: 806653353
+  frame_id: ''
+D: 0.607515752237
+delta: 0.13172509256
+dD: -0.143356318155
+ddelta: 0.308737840991
+---
+header: 
+  seq: 785
+  stamp: 
+    secs: 1611879478
+    nsecs: 826665504
+  frame_id: ''
+D: 0.604483921418
+delta: 0.128203883174
+dD: -0.151591540971
+ddelta: -0.176060469338
+---
+header: 
+  seq: 786
+  stamp: 
+    secs: 1611879478
+    nsecs: 846654496
+  frame_id: ''
+D: 0.605889996748
+delta: 0.131588898878
+dD: 0.070303766501
+ddelta: 0.169250785234
+---
+header: 
+  seq: 787
+  stamp: 
+    secs: 1611879478
+    nsecs: 866655981
+  frame_id: ''
+D: 0.602449623346
+delta: 0.136515526871
+dD: -0.172018670077
+ddelta: 0.246331399647
+---
+header: 
+  seq: 788
+  stamp: 
+    secs: 1611879478
+    nsecs: 886669798
+  frame_id: ''
+D: 0.599530681712
+delta: 0.139751544732
+dD: -0.145947081688
+ddelta: 0.161800893039
+---
+header: 
+  seq: 789
+  stamp: 
+    secs: 1611879478
+    nsecs: 906657682
+  frame_id: ''
+D: 0.595636367993
+delta: 0.117595667106
+dD: -0.194715685953
+ddelta: -1.1077938813
+---
+header: 
+  seq: 790
+  stamp: 
+    secs: 1611879478
+    nsecs: 926655175
+  frame_id: ''
+D: 0.596851527738
+delta: 0.0857585565001
+dD: 0.0607579872152
+ddelta: -1.5918555303
+---
+header: 
+  seq: 791
+  stamp: 
+    secs: 1611879478
+    nsecs: 946660841
+  frame_id: ''
+D: 0.597767971238
+delta: 0.0532728339142
+dD: 0.0458221750265
+ddelta: -1.6242861293
+---
+header: 
+  seq: 792
+  stamp: 
+    secs: 1611879478
+    nsecs: 966660480
+  frame_id: ''
+D: 0.594364014107
+delta: 0.0169078670769
+dD: -0.170197856575
+ddelta: -1.81824834187
+---
+header: 
+  seq: 793
+  stamp: 
+    secs: 1611879478
+    nsecs: 986655216
+  frame_id: ''
+D: 0.590841860963
+delta: -0.0210113117365
+dD: -0.176107657173
+ddelta: -1.89595894067
+---
+header: 
+  seq: 794
+  stamp: 
+    secs: 1611879479
+    nsecs:   6661906
+  frame_id: ''
+D: 0.58986457039
+delta: -0.0610113117241
+dD: -0.0488645286563
+ddelta: -1.99999999938
+---
+header: 
+  seq: 795
+  stamp: 
+    secs: 1611879479
+    nsecs:  26657823
+  frame_id: ''
+D: 0.592861653259
+delta: -0.101011285958
+dD: 0.14985414344
+ddelta: -1.99999871171
+---
+header: 
+  seq: 796
+  stamp: 
+    secs: 1611879479
+    nsecs:  46658928
+  frame_id: ''
+D: 0.592443058985
+delta: -0.141011273824
+dD: -0.0209297136752
+ddelta: -1.99999939331
+---
+header: 
+  seq: 797
+  stamp: 
+    secs: 1611879479
+    nsecs:  66663669
+  frame_id: ''
+D: 0.588513136164
+delta: -0.174109907813
+dD: -0.196496141077
+ddelta: -1.65493169944
+---
+header: 
+  seq: 798
+  stamp: 
+    secs: 1611879479
+    nsecs:  86659637
+  frame_id: ''
+D: 0.582750007159
+delta: -0.209135806122
+dD: -0.288156450237
+ddelta: -1.75129491542
+---
+header: 
+  seq: 799
+  stamp: 
+    secs: 1611879479
+    nsecs:  96659756
+  frame_id: ''
+D: 0.581166679158
+delta: -0.230014719412
+dD: -0.0791664000613
+ddelta: -1.04394566453
+---
+header: 
+  seq: 800
+  stamp: 
+    secs: 1611879479
+    nsecs: 126663053
+  frame_id: ''
+D: 0.57216282576
+delta: -0.264433136562
+dD: -0.450192669874
+ddelta: -1.7209208575
+---
+header: 
+  seq: 801
+  stamp: 
+    secs: 1611879479
+    nsecs: 146662744
+  frame_id: ''
+D: 0.557680361673
+delta: -0.288745560315
+dD: -0.724123204362
+ddelta: -1.21562118765
+---
+header: 
+  seq: 802
+  stamp: 
+    secs: 1611879479
+    nsecs: 166662313
+  frame_id: ''
+D: 0.545760996362
+delta: -0.294574240869
+dD: -0.595968265549
+ddelta: -0.291434027675
+---
+header: 
+  seq: 803
+  stamp: 
+    secs: 1611879479
+    nsecs: 186661233
+  frame_id: ''
+D: 0.542788336476
+delta: -0.29314116939
+dD: -0.148632994316
+ddelta: 0.0716535739225
+---
+header: 
+  seq: 804
+  stamp: 
+    secs: 1611879479
+    nsecs: 206659265
+  frame_id: ''
+D: 0.547174412326
+delta: -0.289052642392
+dD: 0.2193037925
+ddelta: 0.204426349908
+---
+header: 
+  seq: 805
+  stamp: 
+    secs: 1611879479
+    nsecs: 226666641
+  frame_id: ''
+D: 0.561172231074
+delta: -0.270866381541
+dD: 0.699890937432
+ddelta: 0.909313042577
+---
+header: 
+  seq: 806
+  stamp: 
+    secs: 1611879479
+    nsecs: 246658836
+  frame_id: ''
+D: 0.568249281347
+delta: -0.24101096146
+dD: 0.353852513623
+ddelta: 1.49277100405
+---
+header: 
+  seq: 807
+  stamp: 
+    secs: 1611879479
+    nsecs: 266651740
+  frame_id: ''
+D: 0.57126539023
+delta: -0.22600898498
+dD: 0.150805444171
+ddelta: 0.750098824008
+---
+header: 
+  seq: 808
+  stamp: 
+    secs: 1611879479
+    nsecs: 286662344
+  frame_id: ''
+D: 0.569360316386
+delta: -0.233195716016
+dD: -0.0952536922244
+ddelta: -0.359336551807
+---
+header: 
+  seq: 809
+  stamp: 
+    secs: 1611879479
+    nsecs: 306656083
+  frame_id: ''
+D: 0.568311307064
+delta: -0.246686635081
+dD: -0.0524504661058
+ddelta: -0.674545953273
+---
+header: 
+  seq: 810
+  stamp: 
+    secs: 1611879479
+    nsecs: 326656964
+  frame_id: ''
+D: 0.562632284781
+delta: -0.25726282286
+dD: -0.283951114115
+ddelta: -0.528809388946
+---
+header: 
+  seq: 811
+  stamp: 
+    secs: 1611879479
+    nsecs: 346661483
+  frame_id: ''
+D: 0.565500303338
+delta: -0.23188887105
+dD: 0.143400927829
+ddelta: 1.2686975905
+---
+header: 
+  seq: 812
+  stamp: 
+    secs: 1611879479
+    nsecs: 366656421
+  frame_id: ''
+D: 0.570299420254
+delta: -0.204371601917
+dD: 0.23995584579
+ddelta: 1.37586345665
+---
+header: 
+  seq: 813
+  stamp: 
+    secs: 1611879479
+    nsecs: 386654487
+  frame_id: ''
+D: 0.573979091533
+delta: -0.196416571572
+dD: 0.183983563948
+ddelta: 0.397751517231
+---
+header: 
+  seq: 814
+  stamp: 
+    secs: 1611879479
+    nsecs: 406668305
+  frame_id: ''
+D: 0.581015605678
+delta: -0.184748722818
+dD: 0.351825707279
+ddelta: 0.583392437703
+---
+header: 
+  seq: 815
+  stamp: 
+    secs: 1611879479
+    nsecs: 426656557
+  frame_id: ''
+D: 0.585315483396
+delta: -0.148574650483
+dD: 0.214993885858
+ddelta: 1.80870361678
+---
+header: 
+  seq: 816
+  stamp: 
+    secs: 1611879479
+    nsecs: 446655690
+  frame_id: ''
+D: 0.588484551717
+delta: -0.129596181925
+dD: 0.15845341607
+ddelta: 0.948923427912
+---
+header: 
+  seq: 817
+  stamp: 
+    secs: 1611879479
+    nsecs: 466662150
+  frame_id: ''
+D: 0.593903349004
+delta: -0.121230907116
+dD: 0.270939864376
+ddelta: 0.418263740416
+---
+header: 
+  seq: 818
+  stamp: 
+    secs: 1611879479
+    nsecs: 486659927
+  frame_id: ''
+D: 0.602950336429
+delta: -0.108873224318
+dD: 0.452349371251
+ddelta: 0.617884139921
+---
+header: 
+  seq: 819
+  stamp: 
+    secs: 1611879479
+    nsecs: 506658788
+  frame_id: ''
+D: 0.614771627825
+delta: -0.0811421778407
+dD: 0.591064569781
+ddelta: 1.38655232386
+---
+header: 
+  seq: 820
+  stamp: 
+    secs: 1611879479
+    nsecs: 526661393
+  frame_id: ''
+D: 0.620243588979
+delta: -0.0689885280089
+dD: 0.273598057678
+ddelta: 0.607682491591
+---
+header: 
+  seq: 821
+  stamp: 
+    secs: 1611879479
+    nsecs: 546662693
+  frame_id: ''
+D: 0.624705555534
+delta: -0.0630543001704
+dD: 0.223098327744
+ddelta: 0.296711391923
+---
+header: 
+  seq: 822
+  stamp: 
+    secs: 1611879479
+    nsecs: 566654509
+  frame_id: ''
+D: 0.62998895992
+delta: -0.0634715132916
+dD: 0.264170219342
+ddelta: -0.0208606560592
+---
+header: 
+  seq: 823
+  stamp: 
+    secs: 1611879479
+    nsecs: 586660758
+  frame_id: ''
+D: 0.635713719439
+delta: -0.0820544937965
+dD: 0.286237975916
+ddelta: -0.929149025245
+---
+header: 
+  seq: 824
+  stamp: 
+    secs: 1611879479
+    nsecs: 606655100
+  frame_id: ''
+D: 0.63902246544
+delta: -0.103132503889
+dD: 0.165437300053
+ddelta: -1.05390050465
+---
+header: 
+  seq: 825
+  stamp: 
+    secs: 1611879479
+    nsecs: 626658455
+  frame_id: ''
+D: 0.638453471425
+delta: -0.130186535059
+dD: -0.0284497007215
+ddelta: -1.35270155846
+---
+header: 
+  seq: 826
+  stamp: 
+    secs: 1611879479
+    nsecs: 646661711
+  frame_id: ''
+D: 0.637641459762
+delta: -0.149564708099
+dD: -0.0406005831657
+ddelta: -0.968908652025
+---
+header: 
+  seq: 827
+  stamp: 
+    secs: 1611879479
+    nsecs: 666657642
+  frame_id: ''
+D: 0.636989665812
+delta: -0.176303206798
+dD: -0.0325896974824
+ddelta: -1.33692493492
+---
+header: 
+  seq: 828
+  stamp: 
+    secs: 1611879479
+    nsecs: 686655648
+  frame_id: ''
+D: 0.637299876998
+delta: -0.20350263516
+dD: 0.0155105592921
+ddelta: -1.35997141814
+---
+header: 
+  seq: 829
+  stamp: 
+    secs: 1611879479
+    nsecs: 706664724
+  frame_id: ''
+D: 0.631955674742
+delta: -0.234979450406
+dD: -0.26721011281
+ddelta: -1.57384076226
+---
+header: 
+  seq: 830
+  stamp: 
+    secs: 1611879479
+    nsecs: 726660787
+  frame_id: ''
+D: 0.620512108271
+delta: -0.264090441714
+dD: -0.572178323563
+ddelta: -1.45554956542
+---
+header: 
+  seq: 831
+  stamp: 
+    secs: 1611879479
+    nsecs: 746665059
+  frame_id: ''
+D: 0.60974278748
+delta: -0.280312469693
+dD: -0.538466039528
+ddelta: -0.811101398949
+---
+header: 
+  seq: 832
+  stamp: 
+    secs: 1611879479
+    nsecs: 766659713
+  frame_id: ''
+D: 0.605118839098
+delta: -0.288026366974
+dD: -0.231197419117
+ddelta: -0.385694864055
+---
+header: 
+  seq: 833
+  stamp: 
+    secs: 1611879479
+    nsecs: 786660655
+  frame_id: ''
+D: 0.605608224946
+delta: -0.277723675267
+dD: 0.0244692924064
+ddelta: 0.515134585331
+---
+header: 
+  seq: 834
+  stamp: 
+    secs: 1611879479
+    nsecs: 806659138
+  frame_id: ''
+D: 0.604020279239
+delta: -0.268086508457
+dD: -0.0793972853693
+ddelta: 0.481858340514
+---
+header: 
+  seq: 835
+  stamp: 
+    secs: 1611879479
+    nsecs: 826666154
+  frame_id: ''
+D: 0.602366293279
+delta: -0.266282857219
+dD: -0.082699297988
+ddelta: 0.0901825618826
+---
+header: 
+  seq: 836
+  stamp: 
+    secs: 1611879479
+    nsecs: 846659630
+  frame_id: ''
+D: 0.604332960056
+delta: -0.266318519154
+dD: 0.0983333388509
+ddelta: -0.00178309671811
+---
+header: 
+  seq: 837
+  stamp: 
+    secs: 1611879479
+    nsecs: 866664042
+  frame_id: ''
+D: 0.606772191607
+delta: -0.275630410043
+dD: 0.12196157757
+ddelta: -0.465594544474
+---
+header: 
+  seq: 838
+  stamp: 
+    secs: 1611879479
+    nsecs: 886665843
+  frame_id: ''
+D: 0.607816798607
+delta: -0.281754870896
+dD: 0.0522303499944
+ddelta: -0.306223042632
+---
+header: 
+  seq: 839
+  stamp: 
+    secs: 1611879479
+    nsecs: 906660203
+  frame_id: ''
+D: 0.609362123165
+delta: -0.278675841453
+dD: 0.0772662278698
+ddelta: 0.153951472129
+---
+header: 
+  seq: 840
+  stamp: 
+    secs: 1611879479
+    nsecs: 926659472
+  frame_id: ''
+D: 0.609075043172
+delta: -0.283587406573
+dD: -0.0143539996144
+ddelta: -0.245578255983
+---
+header: 
+  seq: 841
+  stamp: 
+    secs: 1611879479
+    nsecs: 946668773
+  frame_id: ''
+D: 0.61378279717
+delta: -0.27834245311
+dD: 0.235387699867
+ddelta: 0.26224767316
+---
+header: 
+  seq: 842
+  stamp: 
+    secs: 1611879479
+    nsecs: 966662314
+  frame_id: ''
+D: 0.622249779945
+delta: -0.264942515903
+dD: 0.423349138745
+ddelta: 0.669996860326
+---
+header: 
+  seq: 843
+  stamp: 
+    secs: 1611879479
+    nsecs: 986662276
+  frame_id: ''
+D: 0.626338370163
+delta: -0.249115197237
+dD: 0.2044295109
+ddelta: 0.791365933324
+---
+header: 
+  seq: 844
+  stamp: 
+    secs: 1611879480
+    nsecs:   6666513
+  frame_id: ''
+D: 0.629140926925
+delta: -0.237797005917
+dD: 0.140127838141
+ddelta: 0.565909565988
+---
+header: 
+  seq: 845
+  stamp: 
+    secs: 1611879480
+    nsecs:  26657243
+  frame_id: ''
+D: 0.633376753719
+delta: -0.238239608276
+dD: 0.2117913397
+ddelta: -0.0221301179685
+---
+header: 
+  seq: 846
+  stamp: 
+    secs: 1611879480
+    nsecs:  46654312
+  frame_id: ''
+D: 0.639474617946
+delta: -0.23360840755
+dD: 0.304893211317
+ddelta: 0.231560036304
+---
+header: 
+  seq: 847
+  stamp: 
+    secs: 1611879480
+    nsecs:  66664936
+  frame_id: ''
+D: 0.642699199093
+delta: -0.231552904285
+dD: 0.161229057386
+ddelta: 0.102775163283
+---
+header: 
+  seq: 848
+  stamp: 
+    secs: 1611879480
+    nsecs:  86660528
+  frame_id: ''
+D: 0.641667715988
+delta: -0.220705325704
+dD: -0.0515741552806
+ddelta: 0.542378929034
+---
+header: 
+  seq: 849
+  stamp: 
+    secs: 1611879480
+    nsecs: 106662755
+  frame_id: ''
+D: 0.642141335868
+delta: -0.216666985986
+dD: 0.0236809940105
+ddelta: 0.20191698591
+---
+header: 
+  seq: 850
+  stamp: 
+    secs: 1611879480
+    nsecs: 126662847
+  frame_id: ''
+D: 0.64545240687
+delta: -0.213160616002
+dD: 0.165553550106
+ddelta: 0.175318499196
+---
+header: 
+  seq: 851
+  stamp: 
+    secs: 1611879480
+    nsecs: 146654195
+  frame_id: ''
+D: 0.650537677102
+delta: -0.204971271067
+dD: 0.254263511592
+ddelta: 0.409467246735
+---
+header: 
+  seq: 852
+  stamp: 
+    secs: 1611879480
+    nsecs: 166673180
+  frame_id: ''
+D: 0.649476658664
+delta: -0.193986739274
+dD: -0.0530509218757
+ddelta: 0.54922658965
+---
+header: 
+  seq: 853
+  stamp: 
+    secs: 1611879480
+    nsecs: 186662766
+  frame_id: ''
+D: 0.647974214245
+delta: -0.183184263777
+dD: -0.0751222209951
+ddelta: 0.54012377484
+---
+header: 
+  seq: 854
+  stamp: 
+    secs: 1611879480
+    nsecs: 206655387
+  frame_id: ''
+D: 0.649123658476
+delta: -0.170543429507
+dD: 0.0574722115228
+ddelta: 0.632041713996
+---
+header: 
+  seq: 855
+  stamp: 
+    secs: 1611879480
+    nsecs: 226669291
+  frame_id: ''
+D: 0.652076669841
+delta: -0.145628450848
+dD: 0.147650568235
+ddelta: 1.24574893294
+---
+header: 
+  seq: 856
+  stamp: 
+    secs: 1611879480
+    nsecs: 246662136
+  frame_id: ''
+D: 0.654039874759
+delta: -0.119507869659
+dD: 0.098160245931
+ddelta: 1.3060290595
+---
+header: 
+  seq: 857
+  stamp: 
+    secs: 1611879480
+    nsecs: 266659531
+  frame_id: ''
+D: 0.651558831977
+delta: -0.0974424507852
+dD: -0.124052139121
+ddelta: 1.10327094366
+---
+header: 
+  seq: 858
+  stamp: 
+    secs: 1611879480
+    nsecs: 286672432
+  frame_id: ''
+D: 0.647396812778
+delta: -0.0816929862316
+dD: -0.208100959938
+ddelta: 0.78747322768
+---
+header: 
+  seq: 859
+  stamp: 
+    secs: 1611879480
+    nsecs: 306656310
+  frame_id: ''
+D: 0.647809654081
+delta: -0.0722446427754
+dD: 0.0206420651582
+ddelta: 0.472417172809
+---
+header: 
+  seq: 860
+  stamp: 
+    secs: 1611879480
+    nsecs: 326661892
+  frame_id: ''
+D: 0.646881386583
+delta: -0.0668297571974
+dD: -0.0464133749098
+ddelta: 0.270744278905
+---
+header: 
+  seq: 861
+  stamp: 
+    secs: 1611879480
+    nsecs: 346666877
+  frame_id: ''
+D: 0.645219990252
+delta: -0.0635087645884
+dD: -0.0830698165851
+ddelta: 0.166049630452
+---
+header: 
+  seq: 862
+  stamp: 
+    secs: 1611879480
+    nsecs: 366656879
+  frame_id: ''
+D: 0.641750696698
+delta: -0.0449662069767
+dD: -0.173464677692
+ddelta: 0.927127880589
+---
