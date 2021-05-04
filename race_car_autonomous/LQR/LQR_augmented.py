@@ -22,19 +22,19 @@ X_initial=[0.4,0.4,0.4,1.5,\
 0.25,\
 ]
 
-""" 
+
 X_initial=[0.4,0.4,0.4,1,\
 0.4,\
 0.4,\
 0.4,\
 ]
 
-"""
+
 #U0=[K*np.cos(omega*DT),0.1]
 
-#P_model_cov=diag([1,1,1,1])#3rd diagonal term changed to 1 from 0 because otherwise its inverse twill turn into infinity
-P_model_cov=diag([1,1,1,1,1,1,1])
-# P_model_cov_true=diag([1,1,1,1,1,1,1])
+P_model_cov=diag([1,1,1,1])#3rd diagonal term changed to 1 from 0 because otherwise its inverse twill turn into infinity
+#P_model_cov=diag([1,1,1,1,1,1,1])
+P_model_cov_true=diag([1,1,1,1,1,1,1])
 
 W=0.00025
 W_cov=W*diag([1,1,1,1,10,10,10])

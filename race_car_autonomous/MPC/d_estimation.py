@@ -164,7 +164,7 @@ y_m=y_measurements.T
 y_m=y_m.flatten('F')
 
 p=np.zeros((3*(N_MHE+1)+4))
-p[0:3*(N_MHE+1)]=y_m
+p[0:3*(N_MHE+2)]=y_m
 p[3*(N_MHE+1):3*(N_MHE+1)+1]=0.4
 p[3*(N_MHE+1)+1:3*(N_MHE+1)+2]=0.3
 p[3*(N_MHE+1)+2:3*(N_MHE+1)+3]=0.3
@@ -274,7 +274,7 @@ plt.xlabel('number of total points ')
 plt.ylabel('s_estimated')
 plt.plot(range(N_MHE+1),s_lls,label='s_mhe')
 #plt.plot(range(N_MHE+1),s_est[:-1],label='ground truth')
-plt.plot(range(N_MHE),y_measurements[:-1,0],label='y_measurement_s')
+plt.plot(range(N_MHE),y_measurements[:-2,0],label='y_measurement_s')
 plt.legend()
 plt.show()
 
@@ -284,7 +284,7 @@ plt.xlabel('number of total points ')
 plt.ylabel('n_estimated')
 plt.plot(range(N_MHE+1),n_lls,label='n_mhe')
 #plt.plot(range(N_MHE+1),y_measurements[:,1],label='n_measured')
-plt.plot(range(N_MHE+1),y_measurements[:,1],label='y_measurement_n')
+plt.plot(range(N_MHE+2),y_measurements[:,1],label='y_measurement_n')
 plt.legend()
 plt.show()
 plt.figure(3)
@@ -293,7 +293,7 @@ plt.xlabel('number of total points ')
 plt.ylabel('alpha_estimated')
 plt.plot(range(N_MHE+1),alpha_lls,label='alpha_mhe')
 #plt.plot(range(N_MHE+1),y_measurements[:,2],label='mesured alpha')
-plt.plot(range(N_MHE+1),y_measurements[:,2],label='y_measurement_alpha')
+plt.plot(range(N_MHE+2),y_measurements[:,2],label='y_measurement_alpha')
 plt.legend()
 
 plt.show()

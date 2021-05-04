@@ -10,8 +10,7 @@ import matplotlib.pyplot as plt
 from coord_transform.spattoOrig import *
 
 from scipy.optimize import root
-from MPC.mpc_module import *
-
+from MPC.mpc_module_ndisturbance import *
 
 print(sys.path)
 
@@ -86,7 +85,7 @@ def observer_dyn(P_model_cov_true,X_est,u):
     X_est=X_est+mtimes(Kalman_gain,measurement_residual)
     return (X_est,P_model_cov_est)
 
-""" 
+
 def ss(xbar_tilde):
     
     xbar_tilde[1] = xbar[1]
@@ -95,7 +94,7 @@ def ss(xbar_tilde):
     xbar_tilde[0] = xbar_tilde[0] + (i-1)*DT*(xbar[3]*np.cos(xbar[2] \
     +C1*ubar[1])/(1-kapparef_s(s)*xbar[1]))
     return xbar_tilde
- """
+
 
 
 
@@ -106,13 +105,15 @@ for i in range(N):
     
     vk=transpose(np.random.multivariate_normal(np.zeros(3),V_cov,1))
     wk=transpose(np.random.multivariate_normal(np.zeros(4),W_cov,1))
-
     
-    u=mpc_module(i,X_est)
-    A=integrator_jac_x(X_true,u)
+    
+    u,current_cost,status,x_reference,ubar,result = mpc_module_ndisturbance(i,X_est,N_main)
+    print("u value is")
+    print(u)
+    A = integrator_jac_x(X_true,u)
 
     #plant x
-    X_true,P_model_cov_true=plant_dyn(X_true,u,A,P_model_cov_est)
+    X_true,P_model_cov_true = plant_dyn(X_true,u,A,P_model_cov_est)
     #observer
     X_est,P_model_cov_est=observer_dyn(P_model_cov_true,X_est,u)
 

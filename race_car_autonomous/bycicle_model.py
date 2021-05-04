@@ -1,6 +1,6 @@
 from casadi import *
-from acados.examples.acados_python.race_cars.tracks.readDataFcn import getTrack
-
+from readDataFcn import getTrack
+from obstacle_handler import *
 
 
 def bycicle_model(track='LMS_Track.txt'):
@@ -15,7 +15,7 @@ def bycicle_model(track='LMS_Track.txt'):
     kapparef=np.append(kapparef,kapparef[1:length])
     s0 = np.append([-s0[length-2] + s0[length-81:length-2]],s0)
     kapparef = np.append(kapparef[length-80:length-1],kapparef)
-    print("holla")
+
     # compute spline interpolations
     kapparef_s=interpolant('kapparef_s','bspline',[s0],kapparef)
 

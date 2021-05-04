@@ -47,10 +47,10 @@ k3 = f_rk4(X0 + DT/2 * k2, U0)
 k4 = f_rk4(X0 + DT * k3, U0)
 X_out = X0 + DT/6*(k1 +2*k2 +2*k3 +k4)
 integrator_fun=Function('F_integrator',[X0,U0],[X_out])
-""" integrator_jac_x_cont=Function('dx_continous',[x,u],[jacobian(xdot,x)])
-integrator_jac_u_cont=Function('du_continous',[x,u],[jacobian(xdot,u)])
+#integrator_jac_x_cont=Function('dx_continous',[x,u],[jacobian(xdot,x)])
+#integrator_jac_u_cont=Function('du_continous',[x,u],[jacobian(xdot,u)])
 integrator_jac_x = Function('integrator_jac_x', [X0, U0], [jacobian(X_out,X0)])
- """
+
 C = np.array([[1, 0, 0 ,0 ],\
 [0, 1, 0 ,0 ], \
 [0, 0, 1 ,0 ]])

@@ -30,17 +30,17 @@ X_est =np.array([0.2,\
     1.5,])
 
 """ 
-X_initial=[0.2\
-    0\
-    0\
+X_initial=[0.2,\
+    0,\
+    0,\
     1.5]
 
-X_est =np.array([0.1\
-    0.1\
-    0.1\
+X_est =np.array([0.1,\
+    0.1,\
+    0.1,\
     1])
-
  """
+
 
 X_true =X_initial
 

@@ -75,9 +75,10 @@ V_cov=V*diag([1,1,1])
 
 xbar_fun = integrator_fun(xbar,ubar)
 s_tilde_bar = xbar_fun[0] - \
-    (DT*(xbar[3]*np.cos(xbar[2] \
-    +C1*ubar[1])/(1-kapparef[0]*xbar[1])))
+    (DT * (xbar[3] * np.cos(xbar[2] \
+    + C1 * ubar[1]) / (1-kapparef[0] * xbar[1])))
 
+print(xbar_fun)
 if np.linalg.norm(s_tilde_bar) > 1.0e-3:
     raise Exception('computed steady-state ifs not a steate-state!')
 
